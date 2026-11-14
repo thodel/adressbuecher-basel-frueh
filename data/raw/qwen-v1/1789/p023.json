@@ -1,0 +1,399 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 23,
+ "section": "schema",
+ "started": "2026-11-14T15:39:11+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3626,
+  "output": 2862,
+  "thoughts": null
+ },
+ "seconds": 57.5,
+ "response_text": "{\n  \"printed_page\": \"17\",\n  \"running_head\": null,\n  \"lines\": [\n    \"17\",\n    \"BENEDICT MERIAN, wollene Zeug &c., hin-\",\n    \"ter der Metzig.\",\n    \"BENEDICT MERIAN SOHN, in wollenen Stof-\",\n    \"fen &c., Eifengafs.\",\n    \"EMANUEL MERIAN & COMP., zum Engel,\",\n    \"Schweizer Leinwand, Kornmarkt.\",\n    \"FRIEDRICH MERIAN, allerhand wollene Zeug,\",\n    \"Eifengafs.\",\n    \"JOH. GEORG MÜLLER älter & SOHN, zum\",\n    \"Elephanten, wollene Zeug, Unter Freyen-\",\n    \"ftrafs.\",\n    \"JOH. RUDOLF PASSAVANT, zum rothen\",\n    \"Thurn, desgl. auch wollene Tücher, am\",\n    \"Kornmarkt.\",\n    \"JOH. JACOB PREYSWERCKH, zum Tanz,\",\n    \"desgl. Eifengafs.\",\n    \"JOH. JACOB ROTH feel. Wittwe, wollene\",\n    \"Zeug &c., Eifengafs.\",\n    \"EMANUEL de BENEDICT RYHINER, wollene\",\n    \"Tücher und Zeug, St. Alban Vorstadt.\",\n    \"EMANUEL & LEONH. RYHINER, wollene\",\n    \"Zeug &c., Eifengafs.\",\n    \"JOH. ULRICH SCHNELL jünger, desgl., Un-\",\n    \"ter Freyenftrafs.\",\n    \"ABEL SOCIN & SOHN, wollene Tücher, zu\",\n    \"St. Peter.\",\n    \"b\"\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"MERIAN\",\n      \"forename\": \"BENEDICT\",\n      \"title\": \"\",\n      \"occupation\": \"wollene Zeug &c.\",\n      \"address\": \"hinter der Metzig\",\n      \"quarter\": \"\",\n      \"street\": \"hinter der Metzig\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BENEDICT MERIAN, wollene Zeug &c., hinter der Metzig.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"MERIAN\",\n      \"forename\": \"BENEDICT\",\n      \"title\": \"SOHN\",\n      \"occupation\": \"in wollenen Stoffen &c.\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BENEDICT MERIAN SOHN, in wollenen Stoffen &c., Eifengafs.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"MERIAN\",\n      \"forename\": \"EMANUEL\",\n      \"title\": \"& COMP.\",\n      \"occupation\": \"Schweizer Leinwand\",\n      \"address\": \"Kornmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Kornmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Engel\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL MERIAN & COMP., zum Engel, Schweizer Leinwand, Kornmarkt.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"MERIAN\",\n      \"forename\": \"FRIEDRICH\",\n      \"title\": \"\",\n      \"occupation\": \"allerhand wollene Zeug\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"FRIEDRICH MERIAN, allerhand wollene Zeug, Eifengafs.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 12,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"MÜLLER\",\n      \"forename\": \"JOH. GEORG\",\n      \"title\": \"älter & SOHN\",\n      \"occupation\": \"wollene Zeug\",\n      \"address\": \"Unter Freyenftrafs\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Freyenftrafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Elephanten\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. GEORG MÜLLER älter & SOHN, zum Elephanten, wollene Zeug, Unter Freyenftrafs.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"PASSAVANT\",\n      \"forename\": \"JOH. RUDOLF\",\n      \"title\": \"\",\n      \"occupation\": \"desgl. auch wollene Tücher\",\n      \"address\": \"am Kornmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Kornmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum rothen Thurn\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. RUDOLF PASSAVANT, zum rothen Thurn, desgl. auch wollene Tücher, am Kornmarkt.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"PREYSWERCKH\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"\",\n      \"occupation\": \"desgl.\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Tanz\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB PREYSWERCKH, zum Tanz, desgl. Eifengafs.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"ROTH\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"feel. Wittwe\",\n      \"occupation\": \"wollene Zeug &c.\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB ROTH feel. Wittwe, wollene Zeug &c., Eifengafs.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"RYHINER\",\n      \"forename\": \"EMANUEL de BENEDICT\",\n      \"title\": \"\",\n      \"occupation\": \"wollene Tücher und Zeug\",\n      \"address\": \"St. Alban Vorstadt\",\n      \"quarter\": \"St. Alban Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL de BENEDICT RYHINER, wollene Tücher und Zeug, St. Alban Vorstadt.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"RYHINER\",\n      \"forename\": \"EMANUEL & LEONH.\",\n      \"title\": \"\",\n      \"occupation\": \"wollene Zeug &c.\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL & LEONH. RYHINER, wollene Zeug &c., Eifengafs.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHNELL\",\n      \"forename\": \"JOH. ULRICH\",\n      \"title\": \"jünger\",\n      \"occupation\": \"desgl.\",\n      \"address\": \"Unter Freyenftrafs\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Freyenftrafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. ULRICH SCHNELL jünger, desgl., Unter Freyenftrafs.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"SOCIN\",\n      \"forename\": \"ABEL\",\n      \"title\": \"& SOHN\",\n      \"occupation\": \"wollene Tücher\",\n      \"address\": \"zu St. Peter\",\n      \"quarter\": \"St. Peter\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ABEL SOCIN & SOHN, wollene Tücher, zu St. Peter.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "lines_numbered": true,
+ "parsed": {
+  "printed_page": "17",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "17"
+   },
+   {
+    "n": 2,
+    "text": "BENEDICT MERIAN, wollene Zeug &c., hin-"
+   },
+   {
+    "n": 3,
+    "text": "ter der Metzig."
+   },
+   {
+    "n": 4,
+    "text": "BENEDICT MERIAN SOHN, in wollenen Stof-"
+   },
+   {
+    "n": 5,
+    "text": "fen &c., Eifengafs."
+   },
+   {
+    "n": 6,
+    "text": "EMANUEL MERIAN & COMP., zum Engel,"
+   },
+   {
+    "n": 7,
+    "text": "Schweizer Leinwand, Kornmarkt."
+   },
+   {
+    "n": 8,
+    "text": "FRIEDRICH MERIAN, allerhand wollene Zeug,"
+   },
+   {
+    "n": 9,
+    "text": "Eifengafs."
+   },
+   {
+    "n": 10,
+    "text": "JOH. GEORG MÜLLER älter & SOHN, zum"
+   },
+   {
+    "n": 11,
+    "text": "Elephanten, wollene Zeug, Unter Freyen-"
+   },
+   {
+    "n": 12,
+    "text": "ftrafs."
+   },
+   {
+    "n": 13,
+    "text": "JOH. RUDOLF PASSAVANT, zum rothen"
+   },
+   {
+    "n": 14,
+    "text": "Thurn, desgl. auch wollene Tücher, am"
+   },
+   {
+    "n": 15,
+    "text": "Kornmarkt."
+   },
+   {
+    "n": 16,
+    "text": "JOH. JACOB PREYSWERCKH, zum Tanz,"
+   },
+   {
+    "n": 17,
+    "text": "desgl. Eifengafs."
+   },
+   {
+    "n": 18,
+    "text": "JOH. JACOB ROTH feel. Wittwe, wollene"
+   },
+   {
+    "n": 19,
+    "text": "Zeug &c., Eifengafs."
+   },
+   {
+    "n": 20,
+    "text": "EMANUEL de BENEDICT RYHINER, wollene"
+   },
+   {
+    "n": 21,
+    "text": "Tücher und Zeug, St. Alban Vorstadt."
+   },
+   {
+    "n": 22,
+    "text": "EMANUEL & LEONH. RYHINER, wollene"
+   },
+   {
+    "n": 23,
+    "text": "Zeug &c., Eifengafs."
+   },
+   {
+    "n": 24,
+    "text": "JOH. ULRICH SCHNELL jünger, desgl., Un-"
+   },
+   {
+    "n": 25,
+    "text": "ter Freyenftrafs."
+   },
+   {
+    "n": 26,
+    "text": "ABEL SOCIN & SOHN, wollene Tücher, zu"
+   },
+   {
+    "n": 27,
+    "text": "St. Peter."
+   },
+   {
+    "n": 28,
+    "text": "b"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "MERIAN",
+    "forename": "BENEDICT",
+    "title": "",
+    "occupation": "wollene Zeug &c.",
+    "address": "hinter der Metzig",
+    "quarter": "",
+    "street": "hinter der Metzig",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BENEDICT MERIAN, wollene Zeug &c., hinter der Metzig."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "MERIAN",
+    "forename": "BENEDICT",
+    "title": "SOHN",
+    "occupation": "in wollenen Stoffen &c.",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BENEDICT MERIAN SOHN, in wollenen Stoffen &c., Eifengafs."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "MERIAN",
+    "forename": "EMANUEL",
+    "title": "& COMP.",
+    "occupation": "Schweizer Leinwand",
+    "address": "Kornmarkt",
+    "quarter": "",
+    "street": "Kornmarkt",
+    "house_no": "",
+    "house_name": "zum Engel",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL MERIAN & COMP., zum Engel, Schweizer Leinwand, Kornmarkt."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "MERIAN",
+    "forename": "FRIEDRICH",
+    "title": "",
+    "occupation": "allerhand wollene Zeug",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "FRIEDRICH MERIAN, allerhand wollene Zeug, Eifengafs."
+   },
+   {
+    "line_from": 10,
+    "line_to": 12,
+    "kind": "firma",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "MÜLLER",
+    "forename": "JOH. GEORG",
+    "title": "älter & SOHN",
+    "occupation": "wollene Zeug",
+    "address": "Unter Freyenftrafs",
+    "quarter": "",
+    "street": "Unter Freyenftrafs",
+    "house_no": "",
+    "house_name": "zum Elephanten",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. GEORG MÜLLER älter & SOHN, zum Elephanten, wollene Zeug, Unter Freyenftrafs."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "PASSAVANT",
+    "forename": "JOH. RUDOLF",
+    "title": "",
+    "occupation": "desgl. auch wollene Tücher",
+    "address": "am Kornmarkt",
+    "quarter": "",
+    "street": "Kornmarkt",
+    "house_no": "",
+    "house_name": "zum rothen Thurn",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. RUDOLF PASSAVANT, zum rothen Thurn, desgl. auch wollene Tücher, am Kornmarkt."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "PREYSWERCKH",
+    "forename": "JOH. JACOB",
+    "title": "",
+    "occupation": "desgl.",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "zum Tanz",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB PREYSWERCKH, zum Tanz, desgl. Eifengafs."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "ROTH",
+    "forename": "JOH. JACOB",
+    "title": "feel. Wittwe",
+    "occupation": "wollene Zeug &c.",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB ROTH feel. Wittwe, wollene Zeug &c., Eifengafs."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "RYHINER",
+    "forename": "EMANUEL de BENEDICT",
+    "title": "",
+    "occupation": "wollene Tücher und Zeug",
+    "address": "St. Alban Vorstadt",
+    "quarter": "St. Alban Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL de BENEDICT RYHINER, wollene Tücher und Zeug, St. Alban Vorstadt."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "firma",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "RYHINER",
+    "forename": "EMANUEL & LEONH.",
+    "title": "",
+    "occupation": "wollene Zeug &c.",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL & LEONH. RYHINER, wollene Zeug &c., Eifengafs."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "SCHNELL",
+    "forename": "JOH. ULRICH",
+    "title": "jünger",
+    "occupation": "desgl.",
+    "address": "Unter Freyenftrafs",
+    "quarter": "",
+    "street": "Unter Freyenftrafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. ULRICH SCHNELL jünger, desgl., Unter Freyenftrafs."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "firma",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "SOCIN",
+    "forename": "ABEL",
+    "title": "& SOHN",
+    "occupation": "wollene Tücher",
+    "address": "zu St. Peter",
+    "quarter": "St. Peter",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ABEL SOCIN & SOHN, wollene Tücher, zu St. Peter."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:40:08+01:00",
+ "last_error": null
+}

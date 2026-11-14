@@ -1,0 +1,357 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 28,
+ "section": "schema",
+ "started": "2026-11-14T15:42:02+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3743,
+  "output": 2763,
+  "thoughts": null
+ },
+ "seconds": 66.2,
+ "response_text": "{\n  \"printed_page\": \"22\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"22\"},\n    {\"n\": 2, \"text\": \"JOH. JACOB THURNEYSEN, Buchdrucker,\"},\n    {\"n\": 3, \"text\": \"im Friedhof.\"},\n    {\"n\": 4, \"text\": \"Hutmacher und Huthändler.\"},\n    {\"n\": 5, \"text\": \"JOH. JACOB BÜCHY, Hutmacher, bey der\"},\n    {\"n\": 6, \"text\": \"Post.\"},\n    {\"n\": 7, \"text\": \"LEOPART & IMHOF, Huthändler, Ober Freyen-\"},\n    {\"n\": 8, \"text\": \"straßs.\"},\n    {\"n\": 9, \"text\": \"NICOLAUS STRECKEYSEN, Hutmacher, Un-\"},\n    {\"n\": 10, \"text\": \"ter Freyenstraßs.\"},\n    {\"n\": 11, \"text\": \"STRECKEYSEN geborne Steiger, Huthändlerin,\"},\n    {\"n\": 12, \"text\": \"Hutgaßs.\"},\n    {\"n\": 13, \"text\": \"Fayence- und Porcelainehändler.\"},\n    {\"n\": 14, \"text\": \"CHRIST. HEINR. HEUSLER, Fayence, Schnei-\"},\n    {\"n\": 15, \"text\": \"dergaßs.\"},\n    {\"n\": 16, \"text\": \"REMIGIUS MEYER, zum goldenen Stern,\"},\n    {\"n\": 17, \"text\": \"Fayence, Ober Freyenstraßs.\"},\n    {\"n\": 18, \"text\": \"WITTWE SCHERB, zum Rebstock, Porce-\"},\n    {\"n\": 19, \"text\": \"laine, bey der groſsen Metzig.\"},\n    {\"n\": 20, \"text\": \"JOH. JACOB SCHOLER, Fayence, Eifengaßs.\"},\n    {\"n\": 21, \"text\": \"EMANUEL STRECKEYSEN, Fayence, Hutgaßs.\"},\n    {\"n\": 22, \"text\": \"JOHANNES THELUSSON feel. Wittwe, Porce-\"},\n    {\"n\": 23, \"text\": \"laine, Blumenrain.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Buchdrucker\",\n      \"place\": \"Basel\",\n      \"surname\": \"THURNEYSEN\",\n      \"forename\": \"Joh. Jacob\",\n      \"title\": \"\",\n      \"occupation\": \"Buchdrucker\",\n      \"address\": \"im Friedhof\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB THURNEYSEN, Buchdrucker, im Friedhof.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Hutmacher und Huthändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"BÜCHY\",\n      \"forename\": \"Joh. Jacob\",\n      \"title\": \"\",\n      \"occupation\": \"Hutmacher\",\n      \"address\": \"bey der Post\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB BÜCHY, Hutmacher, bey der Post.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"firma\",\n      \"heading\": \"Hutmacher und Huthändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"LEOPART & IMHOF\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Huthändler\",\n      \"address\": \"Ober Freyenstraßs\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Freyenstraßs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LEOPART & IMHOF, Huthändler, Ober Freyenstraßs.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Hutmacher und Huthändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"STRECKEYSEN\",\n      \"forename\": \"Nicolaus\",\n      \"title\": \"\",\n      \"occupation\": \"Hutmacher\",\n      \"address\": \"Unter Freyenstraßs\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Freyenstraßs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"NICOLAUS STRECKEYSEN, Hutmacher, Unter Freyenstraßs.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Hutmacher und Huthändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"STRECKEYSEN geborne Steiger\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Huthändlerin\",\n      \"address\": \"Hutgaßs\",\n      \"quarter\": \"\",\n      \"street\": \"Hutgaßs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"STRECKEYSEN geborne Steiger, Huthändlerin, Hutgaßs.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Fayence- und Porcelainehändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"HEUSLER\",\n      \"forename\": \"Christ. Heinr.\",\n      \"title\": \"\",\n      \"occupation\": \"Fayence\",\n      \"address\": \"Schneidergaßs\",\n      \"quarter\": \"\",\n      \"street\": \"Schneidergaßs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRIST. HEINR. HEUSLER, Fayence, Schneidergaßs.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Fayence- und Porcelainehändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"MEYER\",\n      \"forename\": \"Remigius\",\n      \"title\": \"\",\n      \"occupation\": \"Fayence\",\n      \"address\": \"zum goldenen Stern, Ober Freyenstraßs\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Freyenstraßs\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum goldenen Stern\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"REMIGIUS MEYER, zum goldenen Stern, Fayence, Ober Freyenstraßs.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Fayence- und Porcelainehändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHERB\",\n      \"forename\": \"\",\n      \"title\": \"Wittwe\",\n      \"occupation\": \"Porcelaine\",\n      \"address\": \"zum Rebstock, bey der groſsen Metzig\",\n      \"quarter\": \"\",\n      \"street\": \"bey der groſsen Metzig\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Rebstock\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"WITTWE SCHERB, zum Rebstock, Porcelaine, bey der groſsen Metzig.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Fayence- und Porcelainehändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHOLER\",\n      \"forename\": \"Joh. Jacob\",\n      \"title\": \"\",\n      \"occupation\": \"Fayence\",\n      \"address\": \"Eifengaßs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengaßs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB SCHOLER, Fayence, Eifengaßs.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Fayence- und Porcelainehändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"STRECKEYSEN\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Fayence\",\n      \"address\": \"Hutgaßs\",\n      \"quarter\": \"\",\n      \"street\": \"Hutgaßs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL STRECKEYSEN, Fayence, Hutgaßs.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Fayence- und Porcelainehändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"THELUSSON\",\n      \"forename\": \"Johannes\",\n      \"title\": \"feel. Wittwe\",\n      \"occupation\": \"Porcelaine\",\n      \"address\": \"Blumenrain\",\n      \"quarter\": \"\",\n      \"street\": \"Blumenrain\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOHANNES THELUSSON feel. Wittwe, Porcelaine, Blumenrain.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "22",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "22"
+   },
+   {
+    "n": 2,
+    "text": "JOH. JACOB THURNEYSEN, Buchdrucker,"
+   },
+   {
+    "n": 3,
+    "text": "im Friedhof."
+   },
+   {
+    "n": 4,
+    "text": "Hutmacher und Huthändler."
+   },
+   {
+    "n": 5,
+    "text": "JOH. JACOB BÜCHY, Hutmacher, bey der"
+   },
+   {
+    "n": 6,
+    "text": "Post."
+   },
+   {
+    "n": 7,
+    "text": "LEOPART & IMHOF, Huthändler, Ober Freyen-"
+   },
+   {
+    "n": 8,
+    "text": "straßs."
+   },
+   {
+    "n": 9,
+    "text": "NICOLAUS STRECKEYSEN, Hutmacher, Un-"
+   },
+   {
+    "n": 10,
+    "text": "ter Freyenstraßs."
+   },
+   {
+    "n": 11,
+    "text": "STRECKEYSEN geborne Steiger, Huthändlerin,"
+   },
+   {
+    "n": 12,
+    "text": "Hutgaßs."
+   },
+   {
+    "n": 13,
+    "text": "Fayence- und Porcelainehändler."
+   },
+   {
+    "n": 14,
+    "text": "CHRIST. HEINR. HEUSLER, Fayence, Schnei-"
+   },
+   {
+    "n": 15,
+    "text": "dergaßs."
+   },
+   {
+    "n": 16,
+    "text": "REMIGIUS MEYER, zum goldenen Stern,"
+   },
+   {
+    "n": 17,
+    "text": "Fayence, Ober Freyenstraßs."
+   },
+   {
+    "n": 18,
+    "text": "WITTWE SCHERB, zum Rebstock, Porce-"
+   },
+   {
+    "n": 19,
+    "text": "laine, bey der groſsen Metzig."
+   },
+   {
+    "n": 20,
+    "text": "JOH. JACOB SCHOLER, Fayence, Eifengaßs."
+   },
+   {
+    "n": 21,
+    "text": "EMANUEL STRECKEYSEN, Fayence, Hutgaßs."
+   },
+   {
+    "n": 22,
+    "text": "JOHANNES THELUSSON feel. Wittwe, Porce-"
+   },
+   {
+    "n": 23,
+    "text": "laine, Blumenrain."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Buchdrucker",
+    "place": "Basel",
+    "surname": "THURNEYSEN",
+    "forename": "Joh. Jacob",
+    "title": "",
+    "occupation": "Buchdrucker",
+    "address": "im Friedhof",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB THURNEYSEN, Buchdrucker, im Friedhof."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Hutmacher und Huthändler",
+    "place": "Basel",
+    "surname": "BÜCHY",
+    "forename": "Joh. Jacob",
+    "title": "",
+    "occupation": "Hutmacher",
+    "address": "bey der Post",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB BÜCHY, Hutmacher, bey der Post."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "firma",
+    "heading": "Hutmacher und Huthändler",
+    "place": "Basel",
+    "surname": "LEOPART & IMHOF",
+    "forename": "",
+    "title": "",
+    "occupation": "Huthändler",
+    "address": "Ober Freyenstraßs",
+    "quarter": "",
+    "street": "Ober Freyenstraßs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LEOPART & IMHOF, Huthändler, Ober Freyenstraßs."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Hutmacher und Huthändler",
+    "place": "Basel",
+    "surname": "STRECKEYSEN",
+    "forename": "Nicolaus",
+    "title": "",
+    "occupation": "Hutmacher",
+    "address": "Unter Freyenstraßs",
+    "quarter": "",
+    "street": "Unter Freyenstraßs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "NICOLAUS STRECKEYSEN, Hutmacher, Unter Freyenstraßs."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Hutmacher und Huthändler",
+    "place": "Basel",
+    "surname": "STRECKEYSEN geborne Steiger",
+    "forename": "",
+    "title": "",
+    "occupation": "Huthändlerin",
+    "address": "Hutgaßs",
+    "quarter": "",
+    "street": "Hutgaßs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "STRECKEYSEN geborne Steiger, Huthändlerin, Hutgaßs."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Fayence- und Porcelainehändler",
+    "place": "Basel",
+    "surname": "HEUSLER",
+    "forename": "Christ. Heinr.",
+    "title": "",
+    "occupation": "Fayence",
+    "address": "Schneidergaßs",
+    "quarter": "",
+    "street": "Schneidergaßs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRIST. HEINR. HEUSLER, Fayence, Schneidergaßs."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Fayence- und Porcelainehändler",
+    "place": "Basel",
+    "surname": "MEYER",
+    "forename": "Remigius",
+    "title": "",
+    "occupation": "Fayence",
+    "address": "zum goldenen Stern, Ober Freyenstraßs",
+    "quarter": "",
+    "street": "Ober Freyenstraßs",
+    "house_no": "",
+    "house_name": "zum goldenen Stern",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "REMIGIUS MEYER, zum goldenen Stern, Fayence, Ober Freyenstraßs."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Fayence- und Porcelainehändler",
+    "place": "Basel",
+    "surname": "SCHERB",
+    "forename": "",
+    "title": "Wittwe",
+    "occupation": "Porcelaine",
+    "address": "zum Rebstock, bey der groſsen Metzig",
+    "quarter": "",
+    "street": "bey der groſsen Metzig",
+    "house_no": "",
+    "house_name": "zum Rebstock",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "WITTWE SCHERB, zum Rebstock, Porcelaine, bey der groſsen Metzig."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Fayence- und Porcelainehändler",
+    "place": "Basel",
+    "surname": "SCHOLER",
+    "forename": "Joh. Jacob",
+    "title": "",
+    "occupation": "Fayence",
+    "address": "Eifengaßs",
+    "quarter": "",
+    "street": "Eifengaßs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB SCHOLER, Fayence, Eifengaßs."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Fayence- und Porcelainehändler",
+    "place": "Basel",
+    "surname": "STRECKEYSEN",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "Fayence",
+    "address": "Hutgaßs",
+    "quarter": "",
+    "street": "Hutgaßs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL STRECKEYSEN, Fayence, Hutgaßs."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Fayence- und Porcelainehändler",
+    "place": "Basel",
+    "surname": "THELUSSON",
+    "forename": "Johannes",
+    "title": "feel. Wittwe",
+    "occupation": "Porcelaine",
+    "address": "Blumenrain",
+    "quarter": "",
+    "street": "Blumenrain",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOHANNES THELUSSON feel. Wittwe, Porcelaine, Blumenrain."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:43:08+01:00",
+ "last_error": null
+}

@@ -1,0 +1,403 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 14,
+ "section": "schema",
+ "started": "2026-11-14T15:33:11+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3626,
+  "output": 3107,
+  "thoughts": null
+ },
+ "seconds": 90.9,
+ "response_text": "{\n  \"printed_page\": \"8\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"8\"},\n    {\"n\": 2, \"text\": \"DANIEL ZAESLIN, Aescher Vorstadt.\"},\n    {\"n\": 3, \"text\": \"Wollen Tuch- und Rattinfabriken.\"},\n    {\"n\": 4, \"text\": \"JOH. RUDOLF BURCKHARDT, Rattin, hin-\"},\n    {\"n\": 5, \"text\": \"ter Rümlins Mühle.\"},\n    {\"n\": 6, \"text\": \"WERNHARD FAESCH jünger, Tücher und\"},\n    {\"n\": 7, \"text\": \"Rattin, im Hunkele bey St. Elisabeth.\"},\n    {\"n\": 8, \"text\": \"JOH. JACOB FISCHER, Rattin, hinter der\"},\n    {\"n\": 9, \"text\": \"Metzig.\"},\n    {\"n\": 10, \"text\": \"JOHANNES FÜRSTENBERGER & SOHN, Tü-\"},\n    {\"n\": 11, \"text\": \"cher, Ober Freyenstrass.\"},\n    {\"n\": 12, \"text\": \"JOH. GEORG FÜRSTENBERGER, zum Sper-\"},\n    {\"n\": 13, \"text\": \"ber, am Spalenberg.\"},\n    {\"n\": 14, \"text\": \"RYHINER, zu St. Peter.\"},\n    {\"n\": 15, \"text\": \"Papierfabriken.\"},\n    {\"n\": 16, \"text\": \"JACOB de NICOL. HEUSLER, St. Albanthal.\"},\n    {\"n\": 17, \"text\": \"MARCUS HEUSLER, St. Albanthal.\"},\n    {\"n\": 18, \"text\": \"JACOB CHRISTOPH IMHOF, St. Albanthal.\"},\n    {\"n\": 19, \"text\": \"FRANZ ROSENBURGER, St. Albanthal.\"},\n    {\"n\": 20, \"text\": \"JOH. FRIED. STRAMPFER, St. Albanthal.\"},\n    {\"n\": 21, \"text\": \"Banquiers, Commissions- Speditions- und\"},\n    {\"n\": 22, \"text\": \"Speculationshandlungen.\"},\n    {\"n\": 23, \"text\": \"FELIX BATTIER & EHINGER, zum Raben,\"},\n    {\"n\": 24, \"text\": \"Aescher Vorstadt.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Rattinfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"ZAESLIN\",\n      \"forename\": \"DANIEL\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Aescher Vorstadt\",\n      \"quarter\": \"Aescher Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"DANIEL ZAESLIN, Aescher Vorstadt.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Rattinfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"BURCKHARDT\",\n      \"forename\": \"JOH. RUDOLF\",\n      \"title\": \"\",\n      \"occupation\": \"Rattin\",\n      \"address\": \"hinter Rümlins Mühle\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. RUDOLF BURCKHARDT, Rattin, hinter Rümlins Mühle.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Rattinfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"FAESCH\",\n      \"forename\": \"WERNHARD\",\n      \"title\": \"jünger\",\n      \"occupation\": \"Tücher und Rattin\",\n      \"address\": \"im Hunkele bey St. Elisabeth\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"WERNHARD FAESCH jünger, Tücher und Rattin, im Hunkele bey St. Elisabeth.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Rattinfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"FISCHER\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"\",\n      \"occupation\": \"Rattin\",\n      \"address\": \"hinter der Metzig\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB FISCHER, Rattin, hinter der Metzig.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollen Tuch- und Rattinfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"FÜRSTENBERGER\",\n      \"forename\": \"JOHANNES\",\n      \"title\": \"& SOHN\",\n      \"occupation\": \"Tücher\",\n      \"address\": \"Ober Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOHANNES FÜRSTENBERGER & SOHN, Tücher, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Rattinfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"FÜRSTENBERGER\",\n      \"forename\": \"JOH. GEORG\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zum Sperber, am Spalenberg\",\n      \"quarter\": \"\",\n      \"street\": \"am Spalenberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Sperber\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. GEORG FÜRSTENBERGER, zum Sperber, am Spalenberg.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Rattinfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"RYHINER\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zu St. Peter\",\n      \"quarter\": \"St. Peter\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"RYHINER, zu St. Peter.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Papierfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"HEUSLER\",\n      \"forename\": \"JACOB de NICOL.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Albanthal\",\n      \"quarter\": \"St. Albanthal\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JACOB de NICOL. HEUSLER, St. Albanthal.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Papierfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"HEUSLER\",\n      \"forename\": \"MARCUS\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Albanthal\",\n      \"quarter\": \"St. Albanthal\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MARCUS HEUSLER, St. Albanthal.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Papierfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"IMHOF\",\n      \"forename\": \"JACOB CHRISTOPH\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Albanthal\",\n      \"quarter\": \"St. Albanthal\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JACOB CHRISTOPH IMHOF, St. Albanthal.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Papierfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"ROSENBURGER\",\n      \"forename\": \"FRANZ\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Albanthal\",\n      \"quarter\": \"St. Albanthal\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"FRANZ ROSENBURGER, St. Albanthal.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Papierfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"STRAMPFER\",\n      \"forename\": \"JOH. FRIED.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Albanthal\",\n      \"quarter\": \"St. Albanthal\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. FRIED. STRAMPFER, St. Albanthal.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"firma\",\n      \"heading\": \"Banquiers, Commissions- Speditions- und Speculationshandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BATTIER & EHINGER\",\n      \"forename\": \"FELIX\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zum Raben, Aescher Vorstadt\",\n      \"quarter\": \"Aescher Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Raben\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"FELIX BATTIER & EHINGER, zum Raben, Aescher Vorstadt.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "8",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "8"
+   },
+   {
+    "n": 2,
+    "text": "DANIEL ZAESLIN, Aescher Vorstadt."
+   },
+   {
+    "n": 3,
+    "text": "Wollen Tuch- und Rattinfabriken."
+   },
+   {
+    "n": 4,
+    "text": "JOH. RUDOLF BURCKHARDT, Rattin, hin-"
+   },
+   {
+    "n": 5,
+    "text": "ter Rümlins Mühle."
+   },
+   {
+    "n": 6,
+    "text": "WERNHARD FAESCH jünger, Tücher und"
+   },
+   {
+    "n": 7,
+    "text": "Rattin, im Hunkele bey St. Elisabeth."
+   },
+   {
+    "n": 8,
+    "text": "JOH. JACOB FISCHER, Rattin, hinter der"
+   },
+   {
+    "n": 9,
+    "text": "Metzig."
+   },
+   {
+    "n": 10,
+    "text": "JOHANNES FÜRSTENBERGER & SOHN, Tü-"
+   },
+   {
+    "n": 11,
+    "text": "cher, Ober Freyenstrass."
+   },
+   {
+    "n": 12,
+    "text": "JOH. GEORG FÜRSTENBERGER, zum Sper-"
+   },
+   {
+    "n": 13,
+    "text": "ber, am Spalenberg."
+   },
+   {
+    "n": 14,
+    "text": "RYHINER, zu St. Peter."
+   },
+   {
+    "n": 15,
+    "text": "Papierfabriken."
+   },
+   {
+    "n": 16,
+    "text": "JACOB de NICOL. HEUSLER, St. Albanthal."
+   },
+   {
+    "n": 17,
+    "text": "MARCUS HEUSLER, St. Albanthal."
+   },
+   {
+    "n": 18,
+    "text": "JACOB CHRISTOPH IMHOF, St. Albanthal."
+   },
+   {
+    "n": 19,
+    "text": "FRANZ ROSENBURGER, St. Albanthal."
+   },
+   {
+    "n": 20,
+    "text": "JOH. FRIED. STRAMPFER, St. Albanthal."
+   },
+   {
+    "n": 21,
+    "text": "Banquiers, Commissions- Speditions- und"
+   },
+   {
+    "n": 22,
+    "text": "Speculationshandlungen."
+   },
+   {
+    "n": 23,
+    "text": "FELIX BATTIER & EHINGER, zum Raben,"
+   },
+   {
+    "n": 24,
+    "text": "Aescher Vorstadt."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Rattinfabriken",
+    "place": "Basel",
+    "surname": "ZAESLIN",
+    "forename": "DANIEL",
+    "title": "",
+    "occupation": "",
+    "address": "Aescher Vorstadt",
+    "quarter": "Aescher Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "DANIEL ZAESLIN, Aescher Vorstadt."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Rattinfabriken",
+    "place": "Basel",
+    "surname": "BURCKHARDT",
+    "forename": "JOH. RUDOLF",
+    "title": "",
+    "occupation": "Rattin",
+    "address": "hinter Rümlins Mühle",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. RUDOLF BURCKHARDT, Rattin, hinter Rümlins Mühle."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Rattinfabriken",
+    "place": "Basel",
+    "surname": "FAESCH",
+    "forename": "WERNHARD",
+    "title": "jünger",
+    "occupation": "Tücher und Rattin",
+    "address": "im Hunkele bey St. Elisabeth",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "WERNHARD FAESCH jünger, Tücher und Rattin, im Hunkele bey St. Elisabeth."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Rattinfabriken",
+    "place": "Basel",
+    "surname": "FISCHER",
+    "forename": "JOH. JACOB",
+    "title": "",
+    "occupation": "Rattin",
+    "address": "hinter der Metzig",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB FISCHER, Rattin, hinter der Metzig."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Wollen Tuch- und Rattinfabriken",
+    "place": "Basel",
+    "surname": "FÜRSTENBERGER",
+    "forename": "JOHANNES",
+    "title": "& SOHN",
+    "occupation": "Tücher",
+    "address": "Ober Freyenstrass",
+    "quarter": "",
+    "street": "Ober Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOHANNES FÜRSTENBERGER & SOHN, Tücher, Ober Freyenstrass."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Rattinfabriken",
+    "place": "Basel",
+    "surname": "FÜRSTENBERGER",
+    "forename": "JOH. GEORG",
+    "title": "",
+    "occupation": "",
+    "address": "zum Sperber, am Spalenberg",
+    "quarter": "",
+    "street": "am Spalenberg",
+    "house_no": "",
+    "house_name": "zum Sperber",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. GEORG FÜRSTENBERGER, zum Sperber, am Spalenberg."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Rattinfabriken",
+    "place": "Basel",
+    "surname": "RYHINER",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "zu St. Peter",
+    "quarter": "St. Peter",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "RYHINER, zu St. Peter."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Papierfabriken",
+    "place": "Basel",
+    "surname": "HEUSLER",
+    "forename": "JACOB de NICOL.",
+    "title": "",
+    "occupation": "",
+    "address": "St. Albanthal",
+    "quarter": "St. Albanthal",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JACOB de NICOL. HEUSLER, St. Albanthal."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Papierfabriken",
+    "place": "Basel",
+    "surname": "HEUSLER",
+    "forename": "MARCUS",
+    "title": "",
+    "occupation": "",
+    "address": "St. Albanthal",
+    "quarter": "St. Albanthal",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MARCUS HEUSLER, St. Albanthal."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Papierfabriken",
+    "place": "Basel",
+    "surname": "IMHOF",
+    "forename": "JACOB CHRISTOPH",
+    "title": "",
+    "occupation": "",
+    "address": "St. Albanthal",
+    "quarter": "St. Albanthal",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JACOB CHRISTOPH IMHOF, St. Albanthal."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Papierfabriken",
+    "place": "Basel",
+    "surname": "ROSENBURGER",
+    "forename": "FRANZ",
+    "title": "",
+    "occupation": "",
+    "address": "St. Albanthal",
+    "quarter": "St. Albanthal",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "FRANZ ROSENBURGER, St. Albanthal."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Papierfabriken",
+    "place": "Basel",
+    "surname": "STRAMPFER",
+    "forename": "JOH. FRIED.",
+    "title": "",
+    "occupation": "",
+    "address": "St. Albanthal",
+    "quarter": "St. Albanthal",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. FRIED. STRAMPFER, St. Albanthal."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "firma",
+    "heading": "Banquiers, Commissions- Speditions- und Speculationshandlungen",
+    "place": "Basel",
+    "surname": "BATTIER & EHINGER",
+    "forename": "FELIX",
+    "title": "",
+    "occupation": "",
+    "address": "zum Raben, Aescher Vorstadt",
+    "quarter": "Aescher Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "zum Raben",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "FELIX BATTIER & EHINGER, zum Raben, Aescher Vorstadt."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:34:42+01:00",
+ "last_error": null
+}

@@ -1,0 +1,528 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 15,
+ "section": "schema",
+ "started": "2026-11-14T15:34:42+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3626,
+  "output": 4024,
+  "thoughts": null
+ },
+ "seconds": 111.9,
+ "response_text": "{\n  \"printed_page\": \"9\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"9\"},\n    {\"n\": 2, \"text\": \"FELIX BATTIER SOHN, zum Drachen, Aescher\"},\n    {\"n\": 3, \"text\": \"Vorstadt.\"},\n    {\"n\": 4, \"text\": \"EMANUEL BIENTZ, St. Alban Graben.\"},\n    {\"n\": 5, \"text\": \"JOH. LUDWIG BURCKHARDT & SOHN,\"},\n    {\"n\": 6, \"text\": \"Aescher Vorstadt.\"},\n    {\"n\": 7, \"text\": \"CHRIST, ZAESLIN & COMP. find Directoren\"},\n    {\"n\": 8, \"text\": \"der Strafsburger Diligence, St. Martin.\"},\n    {\"n\": 9, \"text\": \"JOH. JACOB FAESCH, St. Joh. Schwibbogen.\"},\n    {\"n\": 10, \"text\": \"GEMUSEUS, zum Pflug, Ober Freyenstrass.\"},\n    {\"n\": 11, \"text\": \"BENEDICT LA ROCHE, Freyenstrass.\"},\n    {\"n\": 12, \"text\": \"EMANUEL LA ROCHE, Kornmarkt.\"},\n    {\"n\": 13, \"text\": \"JOH. LUDW. de PETER MERIAN, Strafsbur-\"},\n    {\"n\": 14, \"text\": \"ger Hof, Herbergberg.\"},\n    {\"n\": 15, \"text\": \"JOH. JACOB OBERMEYER, Ober Freyenstrass.\"},\n    {\"n\": 16, \"text\": \"LUCAS PREISWERCKH, beym Kaufhaus, Un-\"},\n    {\"n\": 17, \"text\": \"ter Freyenstrass.\"},\n    {\"n\": 18, \"text\": \"NICOLAS PREISWERCKH, Adelberg.\"},\n    {\"n\": 19, \"text\": \"JOHANNES PREISWERCKH & SOHN, Ober\"},\n    {\"n\": 20, \"text\": \"Schneidergass.\"},\n    {\"n\": 21, \"text\": \"JOH. RUDOLF PREISWERCKH, Ober Schnei-\"},\n    {\"n\": 22, \"text\": \"dergass.\"},\n    {\"n\": 23, \"text\": \"NICOLAS REBER, zum Agstein, St. Martins-\"},\n    {\"n\": 24, \"text\": \"gässgen.\"},\n    {\"n\": 25, \"text\": \"J. RONUS SOHN älter feel. Wittwe, Schlüs-\"},\n    {\"n\": 26, \"text\": \"selberg.\"},\n    {\"n\": 27, \"text\": \"JOH. de JOH. LUC. SARRASIN, im Lohnhof.\"},\n    {\"n\": 28, \"text\": \"BALTHASAR STEHELIN jünger, an der\"},\n    {\"n\": 29, \"text\": \"Streitgass.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"BATTIER\",\n      \"forename\": \"FELIX\",\n      \"title\": \"SOHN\",\n      \"occupation\": \"\",\n      \"address\": \"zum Drachen, Aescher Vorstadt.\",\n      \"quarter\": \"Aescher Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Drachen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"FELIX BATTIER SOHN, zum Drachen, Aescher Vorstadt.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"BIENTZ\",\n      \"forename\": \"EMANUEL\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Alban Graben.\",\n      \"quarter\": \"\",\n      \"street\": \"St. Alban Graben\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL BIENTZ, St. Alban Graben.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"BURCKHARDT\",\n      \"forename\": \"JOH. LUDWIG\",\n      \"title\": \"& SOHN\",\n      \"occupation\": \"\",\n      \"address\": \"Aescher Vorstadt.\",\n      \"quarter\": \"Aescher Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. LUDWIG BURCKHARDT & SOHN, Aescher Vorstadt.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"CHRIST, ZAESLIN & COMP.\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"find Directoren der Strafsburger Diligence\",\n      \"address\": \"St. Martin.\",\n      \"quarter\": \"\",\n      \"street\": \"St. Martin\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRIST, ZAESLIN & COMP. find Directoren der Strafsburger Diligence, St. Martin.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"FAESCH\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Joh. Schwibbogen.\",\n      \"quarter\": \"\",\n      \"street\": \"St. Joh. Schwibbogen\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB FAESCH, St. Joh. Schwibbogen.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"GEMUSEUS\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zum Pflug, Ober Freyenstrass.\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Pflug\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"GEMUSEUS, zum Pflug, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"LA ROCHE\",\n      \"forename\": \"BENEDICT\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Freyenstrass.\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BENEDICT LA ROCHE, Freyenstrass.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"LA ROCHE\",\n      \"forename\": \"EMANUEL\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Kornmarkt.\",\n      \"quarter\": \"\",\n      \"street\": \"Kornmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL LA ROCHE, Kornmarkt.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"de PETER MERIAN\",\n      \"forename\": \"JOH. LUDW.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Strafsburger Hof, Herbergberg.\",\n      \"quarter\": \"\",\n      \"street\": \"Herbergberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"Strafsburger Hof\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. LUDW. de PETER MERIAN, Strafsburger Hof, Herbergberg.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"OBERMEYER\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Ober Freyenstrass.\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB OBERMEYER, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"PREISWERCKH\",\n      \"forename\": \"LUCAS\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"beym Kaufhaus, Unter Freyenstrass.\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"beym Kaufhaus\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LUCAS PREISWERCKH, beym Kaufhaus, Unter Freyenstrass.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"PREISWERCKH\",\n      \"forename\": \"NICOLAS\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Adelberg.\",\n      \"quarter\": \"\",\n      \"street\": \"Adelberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"NICOLAS PREISWERCKH, Adelberg.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"PREISWERCKH\",\n      \"forename\": \"JOHANNES\",\n      \"title\": \"& SOHN\",\n      \"occupation\": \"\",\n      \"address\": \"Ober Schneidergass.\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Schneidergass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOHANNES PREISWERCKH & SOHN, Ober Schneidergass.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"PREISWERCKH\",\n      \"forename\": \"JOH. RUDOLF\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Ober Schneidergass.\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Schneidergass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. RUDOLF PREISWERCKH, Ober Schneidergass.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"REBER\",\n      \"forename\": \"NICOLAS\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zum Agstein, St. Martinsgässgen.\",\n      \"quarter\": \"\",\n      \"street\": \"St. Martinsgässgen\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Agstein\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"NICOLAS REBER, zum Agstein, St. Martinsgässgen.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"RONUS\",\n      \"forename\": \"J.\",\n      \"title\": \"SOHN älter feel. Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"Schlüsselberg.\",\n      \"quarter\": \"\",\n      \"street\": \"Schlüsselberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. RONUS SOHN älter feel. Wittwe, Schlüsselberg.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"SARRASIN\",\n      \"forename\": \"JOH. de JOH. LUC.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"im Lohnhof.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"im Lohnhof\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. de JOH. LUC. SARRASIN, im Lohnhof.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"STEHELIN\",\n      \"forename\": \"BALTHASAR\",\n      \"title\": \"jünger\",\n      \"occupation\": \"\",\n      \"address\": \"an der Streitgass.\",\n      \"quarter\": \"\",\n      \"street\": \"Streitgass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BALTHASAR STEHELIN jünger, an der Streitgass.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "9",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "9"
+   },
+   {
+    "n": 2,
+    "text": "FELIX BATTIER SOHN, zum Drachen, Aescher"
+   },
+   {
+    "n": 3,
+    "text": "Vorstadt."
+   },
+   {
+    "n": 4,
+    "text": "EMANUEL BIENTZ, St. Alban Graben."
+   },
+   {
+    "n": 5,
+    "text": "JOH. LUDWIG BURCKHARDT & SOHN,"
+   },
+   {
+    "n": 6,
+    "text": "Aescher Vorstadt."
+   },
+   {
+    "n": 7,
+    "text": "CHRIST, ZAESLIN & COMP. find Directoren"
+   },
+   {
+    "n": 8,
+    "text": "der Strafsburger Diligence, St. Martin."
+   },
+   {
+    "n": 9,
+    "text": "JOH. JACOB FAESCH, St. Joh. Schwibbogen."
+   },
+   {
+    "n": 10,
+    "text": "GEMUSEUS, zum Pflug, Ober Freyenstrass."
+   },
+   {
+    "n": 11,
+    "text": "BENEDICT LA ROCHE, Freyenstrass."
+   },
+   {
+    "n": 12,
+    "text": "EMANUEL LA ROCHE, Kornmarkt."
+   },
+   {
+    "n": 13,
+    "text": "JOH. LUDW. de PETER MERIAN, Strafsbur-"
+   },
+   {
+    "n": 14,
+    "text": "ger Hof, Herbergberg."
+   },
+   {
+    "n": 15,
+    "text": "JOH. JACOB OBERMEYER, Ober Freyenstrass."
+   },
+   {
+    "n": 16,
+    "text": "LUCAS PREISWERCKH, beym Kaufhaus, Un-"
+   },
+   {
+    "n": 17,
+    "text": "ter Freyenstrass."
+   },
+   {
+    "n": 18,
+    "text": "NICOLAS PREISWERCKH, Adelberg."
+   },
+   {
+    "n": 19,
+    "text": "JOHANNES PREISWERCKH & SOHN, Ober"
+   },
+   {
+    "n": 20,
+    "text": "Schneidergass."
+   },
+   {
+    "n": 21,
+    "text": "JOH. RUDOLF PREISWERCKH, Ober Schnei-"
+   },
+   {
+    "n": 22,
+    "text": "dergass."
+   },
+   {
+    "n": 23,
+    "text": "NICOLAS REBER, zum Agstein, St. Martins-"
+   },
+   {
+    "n": 24,
+    "text": "gässgen."
+   },
+   {
+    "n": 25,
+    "text": "J. RONUS SOHN älter feel. Wittwe, Schlüs-"
+   },
+   {
+    "n": 26,
+    "text": "selberg."
+   },
+   {
+    "n": 27,
+    "text": "JOH. de JOH. LUC. SARRASIN, im Lohnhof."
+   },
+   {
+    "n": 28,
+    "text": "BALTHASAR STEHELIN jünger, an der"
+   },
+   {
+    "n": 29,
+    "text": "Streitgass."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "BATTIER",
+    "forename": "FELIX",
+    "title": "SOHN",
+    "occupation": "",
+    "address": "zum Drachen, Aescher Vorstadt.",
+    "quarter": "Aescher Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "zum Drachen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "FELIX BATTIER SOHN, zum Drachen, Aescher Vorstadt."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "BIENTZ",
+    "forename": "EMANUEL",
+    "title": "",
+    "occupation": "",
+    "address": "St. Alban Graben.",
+    "quarter": "",
+    "street": "St. Alban Graben",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL BIENTZ, St. Alban Graben."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "firma",
+    "heading": "",
+    "place": "Basel",
+    "surname": "BURCKHARDT",
+    "forename": "JOH. LUDWIG",
+    "title": "& SOHN",
+    "occupation": "",
+    "address": "Aescher Vorstadt.",
+    "quarter": "Aescher Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. LUDWIG BURCKHARDT & SOHN, Aescher Vorstadt."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "firma",
+    "heading": "",
+    "place": "Basel",
+    "surname": "CHRIST, ZAESLIN & COMP.",
+    "forename": "",
+    "title": "",
+    "occupation": "find Directoren der Strafsburger Diligence",
+    "address": "St. Martin.",
+    "quarter": "",
+    "street": "St. Martin",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRIST, ZAESLIN & COMP. find Directoren der Strafsburger Diligence, St. Martin."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "FAESCH",
+    "forename": "JOH. JACOB",
+    "title": "",
+    "occupation": "",
+    "address": "St. Joh. Schwibbogen.",
+    "quarter": "",
+    "street": "St. Joh. Schwibbogen",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB FAESCH, St. Joh. Schwibbogen."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "GEMUSEUS",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "zum Pflug, Ober Freyenstrass.",
+    "quarter": "",
+    "street": "Ober Freyenstrass",
+    "house_no": "",
+    "house_name": "zum Pflug",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "GEMUSEUS, zum Pflug, Ober Freyenstrass."
+   },
+   {
+    "line_from": 11,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "LA ROCHE",
+    "forename": "BENEDICT",
+    "title": "",
+    "occupation": "",
+    "address": "Freyenstrass.",
+    "quarter": "",
+    "street": "Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BENEDICT LA ROCHE, Freyenstrass."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "LA ROCHE",
+    "forename": "EMANUEL",
+    "title": "",
+    "occupation": "",
+    "address": "Kornmarkt.",
+    "quarter": "",
+    "street": "Kornmarkt",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL LA ROCHE, Kornmarkt."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "de PETER MERIAN",
+    "forename": "JOH. LUDW.",
+    "title": "",
+    "occupation": "",
+    "address": "Strafsburger Hof, Herbergberg.",
+    "quarter": "",
+    "street": "Herbergberg",
+    "house_no": "",
+    "house_name": "Strafsburger Hof",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. LUDW. de PETER MERIAN, Strafsburger Hof, Herbergberg."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "OBERMEYER",
+    "forename": "JOH. JACOB",
+    "title": "",
+    "occupation": "",
+    "address": "Ober Freyenstrass.",
+    "quarter": "",
+    "street": "Ober Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB OBERMEYER, Ober Freyenstrass."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "PREISWERCKH",
+    "forename": "LUCAS",
+    "title": "",
+    "occupation": "",
+    "address": "beym Kaufhaus, Unter Freyenstrass.",
+    "quarter": "",
+    "street": "Unter Freyenstrass",
+    "house_no": "",
+    "house_name": "beym Kaufhaus",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LUCAS PREISWERCKH, beym Kaufhaus, Unter Freyenstrass."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "PREISWERCKH",
+    "forename": "NICOLAS",
+    "title": "",
+    "occupation": "",
+    "address": "Adelberg.",
+    "quarter": "",
+    "street": "Adelberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "NICOLAS PREISWERCKH, Adelberg."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "firma",
+    "heading": "",
+    "place": "Basel",
+    "surname": "PREISWERCKH",
+    "forename": "JOHANNES",
+    "title": "& SOHN",
+    "occupation": "",
+    "address": "Ober Schneidergass.",
+    "quarter": "",
+    "street": "Ober Schneidergass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOHANNES PREISWERCKH & SOHN, Ober Schneidergass."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "PREISWERCKH",
+    "forename": "JOH. RUDOLF",
+    "title": "",
+    "occupation": "",
+    "address": "Ober Schneidergass.",
+    "quarter": "",
+    "street": "Ober Schneidergass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. RUDOLF PREISWERCKH, Ober Schneidergass."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "REBER",
+    "forename": "NICOLAS",
+    "title": "",
+    "occupation": "",
+    "address": "zum Agstein, St. Martinsgässgen.",
+    "quarter": "",
+    "street": "St. Martinsgässgen",
+    "house_no": "",
+    "house_name": "zum Agstein",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "NICOLAS REBER, zum Agstein, St. Martinsgässgen."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "RONUS",
+    "forename": "J.",
+    "title": "SOHN älter feel. Wittwe",
+    "occupation": "",
+    "address": "Schlüsselberg.",
+    "quarter": "",
+    "street": "Schlüsselberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. RONUS SOHN älter feel. Wittwe, Schlüsselberg."
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "SARRASIN",
+    "forename": "JOH. de JOH. LUC.",
+    "title": "",
+    "occupation": "",
+    "address": "im Lohnhof.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "im Lohnhof",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. de JOH. LUC. SARRASIN, im Lohnhof."
+   },
+   {
+    "line_from": 28,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "STEHELIN",
+    "forename": "BALTHASAR",
+    "title": "jünger",
+    "occupation": "",
+    "address": "an der Streitgass.",
+    "quarter": "",
+    "street": "Streitgass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BALTHASAR STEHELIN jünger, an der Streitgass."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:36:34+01:00",
+ "last_error": null
+}

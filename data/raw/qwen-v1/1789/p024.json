@@ -1,0 +1,391 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 24,
+ "section": "schema",
+ "started": "2026-11-14T15:39:55+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3626,
+  "output": 2898,
+  "thoughts": null
+ },
+ "seconds": 67.4,
+ "response_text": "{\n  \"printed_page\": \"18\",\n  \"running_head\": null,\n  \"lines\": [\n    \"18\",\n    \"JOSEPH SOCIN jünger, wollene Zeug, Tape-\",\n    \"ten &c., Eifengass.\",\n    \"STEHELIN & MERIAN, im Kettenhof, wol-\",\n    \"lene Zeug, beym Aescher Schwibbogen.\",\n    \"DANIEL WOLLEB feel. Wittwe, wollene\",\n    \"Tücher und Kölsch, Eifengass.\",\n    \"Hänfen und leinen Tücher- Schweitzer-\",\n    \"und Oftindische Mousselines- Hand-\",\n    \"lungen:\",\n    \"BATTIER, zum Pfauen, Oftindische Mouffe-\",\n    \"lines &c., Nächt dem Kornmarkt.\",\n    \"SEBASTIAN BAULER, an der Hutgass.\",\n    \"EMANUEL FESCH, leinen und halbleinen\",\n    \"Zeug und Sacktücher, Schneidergass.\",\n    \"LUDWIG GISLER, auch in Band, neben dem\",\n    \"Rathhaus.\",\n    \"ISAAC HAGENBACH & COMP., zur Lauten,\",\n    \"Kornmarkt.\",\n    \"JOH. de SAMUEL HAGENBACH, zum Haafen,\",\n    \"Kornmarkt.\",\n    \"NICOLAS HARSCHER & SÖHNE, Spieshof,\",\n    \"Heuberg.\",\n    \"JOHANNES HENNEYSEN, St. Alb. Vorstadt.\",\n    \"GERMAN HERRMANN, leinen und baumwol-\",\n    \"len Zeug, Kornmarkt.\"\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Wollene Zeug, Tappen\",\n      \"place\": \"Basel\",\n      \"surname\": \"SOCIN\",\n      \"forename\": \"JOSEPH\",\n      \"title\": \"jünger\",\n      \"occupation\": \"wollene Zeug, Tappen &c.\",\n      \"address\": \"Eifengass\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOSEPH SOCIN jünger, wollene Zeug, Tappen &c., Eifengass.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollene Zeug, Tappen\",\n      \"place\": \"Basel\",\n      \"surname\": \"STEHELIN & MERIAN\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"wollene Zeug\",\n      \"address\": \"im Kettenhof, beym Aescher Schwibbogen\",\n      \"quarter\": \"\",\n      \"street\": \"im Kettenhof\",\n      \"house_no\": \"\",\n      \"house_name\": \"beym Aescher Schwibbogen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"STEHELIN & MERIAN, im Kettenhof, wollene Zeug, beym Aescher Schwibbogen.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Wollene Zeug, Tappen\",\n      \"place\": \"Basel\",\n      \"surname\": \"WOLLEB\",\n      \"forename\": \"DANIEL\",\n      \"title\": \"feel. Wittwe\",\n      \"occupation\": \"wollene Tücher und Kölsch\",\n      \"address\": \"Eifengass\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"DANIEL WOLLEB feel. Wittwe, wollene Tücher und Kölsch, Eifengass.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BATTIER\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Oftindische Mousselines &c.\",\n      \"address\": \"zum Pfauen, Nächt dem Kornmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Kornmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Pfauen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BATTIER, zum Pfauen, Oftindische Mousselines &c., Nächt dem Kornmarkt.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BAULER\",\n      \"forename\": \"SEBASTIAN\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"an der Hutgass\",\n      \"quarter\": \"\",\n      \"street\": \"Hutgass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"SEBASTIAN BAULER, an der Hutgass.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"FESCH\",\n      \"forename\": \"EMANUEL\",\n      \"title\": \"\",\n      \"occupation\": \"leinen und halbleinen Zeug und Sacktücher\",\n      \"address\": \"Schneidergass\",\n      \"quarter\": \"\",\n      \"street\": \"Schneidergass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL FESCH, leinen und halbleinen Zeug und Sacktücher, Schneidergass.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"GISLER\",\n      \"forename\": \"LUDWIG\",\n      \"title\": \"\",\n      \"occupation\": \"auch in Band\",\n      \"address\": \"neben dem Rathhaus\",\n      \"quarter\": \"\",\n      \"street\": \"Rathhaus\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LUDWIG GISLER, auch in Band, neben dem Rathhaus.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"HAGENBACH\",\n      \"forename\": \"ISAAC\",\n      \"title\": \"& COMP.\",\n      \"occupation\": \"\",\n      \"address\": \"zur Lauten, Kornmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Kornmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"zur Lauten\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ISAAC HAGENBACH & COMP., zur Lauten, Kornmarkt.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"HAGENBACH\",\n      \"forename\": \"JOH. de SAMUEL\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zum Haafen, Kornmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Kornmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Haafen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. de SAMUEL HAGENBACH, zum Haafen, Kornmarkt.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"firma\",\n      \"heading\": \"Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"HARSCHER\",\n      \"forename\": \"NICOLAS\",\n      \"title\": \"& SÖHNE\",\n      \"occupation\": \"\",\n      \"address\": \"Spieshof, Heuberg\",\n      \"quarter\": \"Heuberg\",\n      \"street\": \"Spieshof\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"NICOLAS HARSCHER & SÖHNE, Spieshof, Heuberg.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"HENNEYSEN\",\n      \"forename\": \"JOHANNES\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Alb. Vorstadt\",\n      \"quarter\": \"St. Alb. Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOHANNES HENNEYSEN, St. Alb. Vorstadt.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"HERRMANN\",\n      \"forename\": \"GERMAN\",\n      \"title\": \"\",\n      \"occupation\": \"leinen und baumwollen Zeug\",\n      \"address\": \"Kornmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Kornmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"GERMAN HERRMANN, leinen und baumwollen Zeug, Kornmarkt.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "lines_numbered": true,
+ "parsed": {
+  "printed_page": "18",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "18"
+   },
+   {
+    "n": 2,
+    "text": "JOSEPH SOCIN jünger, wollene Zeug, Tape-"
+   },
+   {
+    "n": 3,
+    "text": "ten &c., Eifengass."
+   },
+   {
+    "n": 4,
+    "text": "STEHELIN & MERIAN, im Kettenhof, wol-"
+   },
+   {
+    "n": 5,
+    "text": "lene Zeug, beym Aescher Schwibbogen."
+   },
+   {
+    "n": 6,
+    "text": "DANIEL WOLLEB feel. Wittwe, wollene"
+   },
+   {
+    "n": 7,
+    "text": "Tücher und Kölsch, Eifengass."
+   },
+   {
+    "n": 8,
+    "text": "Hänfen und leinen Tücher- Schweitzer-"
+   },
+   {
+    "n": 9,
+    "text": "und Oftindische Mousselines- Hand-"
+   },
+   {
+    "n": 10,
+    "text": "lungen:"
+   },
+   {
+    "n": 11,
+    "text": "BATTIER, zum Pfauen, Oftindische Mouffe-"
+   },
+   {
+    "n": 12,
+    "text": "lines &c., Nächt dem Kornmarkt."
+   },
+   {
+    "n": 13,
+    "text": "SEBASTIAN BAULER, an der Hutgass."
+   },
+   {
+    "n": 14,
+    "text": "EMANUEL FESCH, leinen und halbleinen"
+   },
+   {
+    "n": 15,
+    "text": "Zeug und Sacktücher, Schneidergass."
+   },
+   {
+    "n": 16,
+    "text": "LUDWIG GISLER, auch in Band, neben dem"
+   },
+   {
+    "n": 17,
+    "text": "Rathhaus."
+   },
+   {
+    "n": 18,
+    "text": "ISAAC HAGENBACH & COMP., zur Lauten,"
+   },
+   {
+    "n": 19,
+    "text": "Kornmarkt."
+   },
+   {
+    "n": 20,
+    "text": "JOH. de SAMUEL HAGENBACH, zum Haafen,"
+   },
+   {
+    "n": 21,
+    "text": "Kornmarkt."
+   },
+   {
+    "n": 22,
+    "text": "NICOLAS HARSCHER & SÖHNE, Spieshof,"
+   },
+   {
+    "n": 23,
+    "text": "Heuberg."
+   },
+   {
+    "n": 24,
+    "text": "JOHANNES HENNEYSEN, St. Alb. Vorstadt."
+   },
+   {
+    "n": 25,
+    "text": "GERMAN HERRMANN, leinen und baumwol-"
+   },
+   {
+    "n": 26,
+    "text": "len Zeug, Kornmarkt."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Wollene Zeug, Tappen",
+    "place": "Basel",
+    "surname": "SOCIN",
+    "forename": "JOSEPH",
+    "title": "jünger",
+    "occupation": "wollene Zeug, Tappen &c.",
+    "address": "Eifengass",
+    "quarter": "",
+    "street": "Eifengass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOSEPH SOCIN jünger, wollene Zeug, Tappen &c., Eifengass."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "firma",
+    "heading": "Wollene Zeug, Tappen",
+    "place": "Basel",
+    "surname": "STEHELIN & MERIAN",
+    "forename": "",
+    "title": "",
+    "occupation": "wollene Zeug",
+    "address": "im Kettenhof, beym Aescher Schwibbogen",
+    "quarter": "",
+    "street": "im Kettenhof",
+    "house_no": "",
+    "house_name": "beym Aescher Schwibbogen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "STEHELIN & MERIAN, im Kettenhof, wollene Zeug, beym Aescher Schwibbogen."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Wollene Zeug, Tappen",
+    "place": "Basel",
+    "surname": "WOLLEB",
+    "forename": "DANIEL",
+    "title": "feel. Wittwe",
+    "occupation": "wollene Tücher und Kölsch",
+    "address": "Eifengass",
+    "quarter": "",
+    "street": "Eifengass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "DANIEL WOLLEB feel. Wittwe, wollene Tücher und Kölsch, Eifengass."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen",
+    "place": "Basel",
+    "surname": "BATTIER",
+    "forename": "",
+    "title": "",
+    "occupation": "Oftindische Mousselines &c.",
+    "address": "zum Pfauen, Nächt dem Kornmarkt",
+    "quarter": "",
+    "street": "Kornmarkt",
+    "house_no": "",
+    "house_name": "zum Pfauen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BATTIER, zum Pfauen, Oftindische Mousselines &c., Nächt dem Kornmarkt."
+   },
+   {
+    "line_from": 13,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen",
+    "place": "Basel",
+    "surname": "BAULER",
+    "forename": "SEBASTIAN",
+    "title": "",
+    "occupation": "",
+    "address": "an der Hutgass",
+    "quarter": "",
+    "street": "Hutgass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "SEBASTIAN BAULER, an der Hutgass."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen",
+    "place": "Basel",
+    "surname": "FESCH",
+    "forename": "EMANUEL",
+    "title": "",
+    "occupation": "leinen und halbleinen Zeug und Sacktücher",
+    "address": "Schneidergass",
+    "quarter": "",
+    "street": "Schneidergass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL FESCH, leinen und halbleinen Zeug und Sacktücher, Schneidergass."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen",
+    "place": "Basel",
+    "surname": "GISLER",
+    "forename": "LUDWIG",
+    "title": "",
+    "occupation": "auch in Band",
+    "address": "neben dem Rathhaus",
+    "quarter": "",
+    "street": "Rathhaus",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LUDWIG GISLER, auch in Band, neben dem Rathhaus."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen",
+    "place": "Basel",
+    "surname": "HAGENBACH",
+    "forename": "ISAAC",
+    "title": "& COMP.",
+    "occupation": "",
+    "address": "zur Lauten, Kornmarkt",
+    "quarter": "",
+    "street": "Kornmarkt",
+    "house_no": "",
+    "house_name": "zur Lauten",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ISAAC HAGENBACH & COMP., zur Lauten, Kornmarkt."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen",
+    "place": "Basel",
+    "surname": "HAGENBACH",
+    "forename": "JOH. de SAMUEL",
+    "title": "",
+    "occupation": "",
+    "address": "zum Haafen, Kornmarkt",
+    "quarter": "",
+    "street": "Kornmarkt",
+    "house_no": "",
+    "house_name": "zum Haafen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. de SAMUEL HAGENBACH, zum Haafen, Kornmarkt."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "firma",
+    "heading": "Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen",
+    "place": "Basel",
+    "surname": "HARSCHER",
+    "forename": "NICOLAS",
+    "title": "& SÖHNE",
+    "occupation": "",
+    "address": "Spieshof, Heuberg",
+    "quarter": "Heuberg",
+    "street": "Spieshof",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "NICOLAS HARSCHER & SÖHNE, Spieshof, Heuberg."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen",
+    "place": "Basel",
+    "surname": "HENNEYSEN",
+    "forename": "JOHANNES",
+    "title": "",
+    "occupation": "",
+    "address": "St. Alb. Vorstadt",
+    "quarter": "St. Alb. Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOHANNES HENNEYSEN, St. Alb. Vorstadt."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Hänfen und leinen Tücher- Schweitzer- und Oftindische Mousselines- Handlungen",
+    "place": "Basel",
+    "surname": "HERRMANN",
+    "forename": "GERMAN",
+    "title": "",
+    "occupation": "leinen und baumwollen Zeug",
+    "address": "Kornmarkt",
+    "quarter": "",
+    "street": "Kornmarkt",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "GERMAN HERRMANN, leinen und baumwollen Zeug, Kornmarkt."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:41:03+01:00",
+ "last_error": null
+}

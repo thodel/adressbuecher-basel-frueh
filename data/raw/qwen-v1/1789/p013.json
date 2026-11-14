@@ -1,0 +1,478 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 13,
+ "section": "schema",
+ "started": "2026-11-14T15:33:09+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3548,
+  "output": 3788,
+  "thoughts": null
+ },
+ "seconds": 105.0,
+ "response_text": "{\n  \"printed_page\": \"7\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"7\"},\n    {\"n\": 2, \"text\": \"JOH. JACOB & CONRAD BURKHARDT, zwi-\"},\n    {\"n\": 3, \"text\": \"schen St. Blaise und Richen Thor ausser\"},\n    {\"n\": 4, \"text\": \"der Stadt.\"},\n    {\"n\": 5, \"text\": \"EMANUEL LINDER, Mouchoirs &c. blau in\"},\n    {\"n\": 6, \"text\": \"weiss, auf dem Blömlein.\"},\n    {\"n\": 7, \"text\": \"MIEG & COMP. wohnhaft in der kleinen Stadt,\"},\n    {\"n\": 8, \"text\": \"hat fein Magazin aber auf dem Blu-\"},\n    {\"n\": 9, \"text\": \"menplatz.\"},\n    {\"n\": 10, \"text\": \"EMANUEL RYHINER VATER & SOHN, am\"},\n    {\"n\": 11, \"text\": \"Todtentanz.\"},\n    {\"n\": 12, \"text\": \"JOH. & SAMUEL RYHINER, St. Joh. Vorstadt.\"},\n    {\"n\": 13, \"text\": \"Wollene Strumpffabriken.\"},\n    {\"n\": 14, \"text\": \"JOHANNES BRENNER, älter, Sta. Clara.\"},\n    {\"n\": 15, \"text\": \"JOH. HEINRICH BRUCKNER, Unter Gerber-\"},\n    {\"n\": 16, \"text\": \"gafs.\"},\n    {\"n\": 17, \"text\": \"ISAAC BURCKHARDT, jünger, Ober Gerber-\"},\n    {\"n\": 18, \"text\": \"gafs.\"},\n    {\"n\": 19, \"text\": \"GEBRÜDER ELSNER, Unter Gerbergafs.\"},\n    {\"n\": 20, \"text\": \"WERNHARD IMHOF, Rindermarkt.\"},\n    {\"n\": 21, \"text\": \"FRIEDRICH LŒW, Gerbergafs.\"},\n    {\"n\": 22, \"text\": \"JOHANNES PREISWERCKH & SOHN, sind\"},\n    {\"n\": 23, \"text\": \"auch Speditoren, Schneidergafs.\"},\n    {\"n\": 24, \"text\": \"RUDOLF RITTER, Sta. Clarastrass.\"},\n    {\"n\": 25, \"text\": \"THEODOR SCHARDT, Rheingafs.\"},\n    {\"n\": 26, \"text\": \"ELIAS & DANIEL STEIGER, St. Albanthal.\"},\n    {\"n\": 27, \"text\": \"JOH. FRIEDRICH STRAMPFFER, St. Albanthal.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 4,\n      \"kind\": \"firma\",\n      \"heading\": \"Fortsetzung der Vorseite\",\n      \"place\": \"Basel\",\n      \"surname\": \"Burkhardt\",\n      \"forename\": \"Joh. Jacob & Conrad\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zwischen St. Blaise und Richen Thor ausser der Stadt\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB & CONRAD BURKHARDT, zwischen St. Blaise und Richen Thor ausser der Stadt.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Fortsetzung der Vorseite\",\n      \"place\": \"Basel\",\n      \"surname\": \"Linder\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Mouchoirs &c. blau in weiss\",\n      \"address\": \"auf dem Blömlein\",\n      \"quarter\": \"\",\n      \"street\": \"Blömlein\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL LINDER, Mouchoirs &c. blau in weiss, auf dem Blömlein.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"firma\",\n      \"heading\": \"Fortsetzung der Vorseite\",\n      \"place\": \"Basel\",\n      \"surname\": \"Mieg\",\n      \"forename\": \"\",\n      \"title\": \"& Comp.\",\n      \"occupation\": \"wohnhaft in der kleinen Stadt, hat fein Magazin aber auf dem Blumenplatz\",\n      \"address\": \"in der kleinen Stadt, Magazin auf dem Blumenplatz\",\n      \"quarter\": \"kleine Stadt\",\n      \"street\": \"Blumenplatz\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MIEG & COMP. wohnhaft in der kleinen Stadt, hat fein Magazin aber auf dem Blumenplatz.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Fortsetzung der Vorseite\",\n      \"place\": \"Basel\",\n      \"surname\": \"Ryhiner\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"Vater & Sohn\",\n      \"occupation\": \"\",\n      \"address\": \"am Todtentanz\",\n      \"quarter\": \"\",\n      \"street\": \"Todtentanz\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL RYHINER VATER & SOHN, am Todtentanz.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"firma\",\n      \"heading\": \"Fortsetzung der Vorseite\",\n      \"place\": \"Basel\",\n      \"surname\": \"Ryhiner\",\n      \"forename\": \"Joh. & Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Joh. Vorstadt\",\n      \"quarter\": \"St. Joh. Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. & SAMUEL RYHINER, St. Joh. Vorstadt.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Brenner\",\n      \"forename\": \"Johannes\",\n      \"title\": \"älter\",\n      \"occupation\": \"Wollene Strumpffabriken\",\n      \"address\": \"Sta. Clara\",\n      \"quarter\": \"Sta. Clara\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOHANNES BRENNER, älter, Sta. Clara.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Bruckner\",\n      \"forename\": \"Joh. Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Wollene Strumpffabriken\",\n      \"address\": \"Unter Gerbergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Gerbergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. HEINRICH BRUCKNER, Unter Gerbergafs.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Burckhardt\",\n      \"forename\": \"Isaac\",\n      \"title\": \"jünger\",\n      \"occupation\": \"Wollene Strumpffabriken\",\n      \"address\": \"Ober Gerbergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Gerbergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ISAAC BURCKHARDT, jünger, Ober Gerbergafs.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Elsner\",\n      \"forename\": \"\",\n      \"title\": \"Gebrüder\",\n      \"occupation\": \"Wollene Strumpffabriken\",\n      \"address\": \"Unter Gerbergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Gerbergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"GEBRÜDER ELSNER, Unter Gerbergafs.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Imhof\",\n      \"forename\": \"Wernhard\",\n      \"title\": \"\",\n      \"occupation\": \"Wollene Strumpffabriken\",\n      \"address\": \"Rindermarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Rindermarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"WERNHARD IMHOF, Rindermarkt.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Löw\",\n      \"forename\": \"Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Wollene Strumpffabriken\",\n      \"address\": \"Gerbergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Gerbergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"FRIEDRICH LŒW, Gerbergafs.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Preiswerckh\",\n      \"forename\": \"Johannes\",\n      \"title\": \"& Sohn\",\n      \"occupation\": \"Wollene Strumpffabriken, auch Speditoren\",\n      \"address\": \"Schneidergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Schneidergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOHANNES PREISWERCKH & SOHN, sind auch Speditoren, Schneidergafs.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Ritter\",\n      \"forename\": \"Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Wollene Strumpffabriken\",\n      \"address\": \"Sta. Clarastrass\",\n      \"quarter\": \"\",\n      \"street\": \"Sta. Clarastrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"RUDOLF RITTER, Sta. Clarastrass.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Schartd\",\n      \"forename\": \"Theodor\",\n      \"title\": \"\",\n      \"occupation\": \"Wollene Strumpffabriken\",\n      \"address\": \"Rheingafs\",\n      \"quarter\": \"\",\n      \"street\": \"Rheingafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"THEODOR SCHARDT, Rheingafs.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 26,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Steiger\",\n      \"forename\": \"Elias & Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Wollene Strumpffabriken\",\n      \"address\": \"St. Albanthal\",\n      \"quarter\": \"St. Albanthal\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ELIAS & DANIEL STEIGER, St. Albanthal.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Wollene Strumpffabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"Strampffer\",\n      \"forename\": \"Joh. Friedrich\",\n      \"title\": \"\",\n      \"occupation\": \"Wollene Strumpffabriken\",\n      \"address\": \"St. Albanthal\",\n      \"quarter\": \"St. Albanthal\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. FRIEDRICH STRAMPFFER, St. Albanthal.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "7",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "7"
+   },
+   {
+    "n": 2,
+    "text": "JOH. JACOB & CONRAD BURKHARDT, zwi-"
+   },
+   {
+    "n": 3,
+    "text": "schen St. Blaise und Richen Thor ausser"
+   },
+   {
+    "n": 4,
+    "text": "der Stadt."
+   },
+   {
+    "n": 5,
+    "text": "EMANUEL LINDER, Mouchoirs &c. blau in"
+   },
+   {
+    "n": 6,
+    "text": "weiss, auf dem Blömlein."
+   },
+   {
+    "n": 7,
+    "text": "MIEG & COMP. wohnhaft in der kleinen Stadt,"
+   },
+   {
+    "n": 8,
+    "text": "hat fein Magazin aber auf dem Blu-"
+   },
+   {
+    "n": 9,
+    "text": "menplatz."
+   },
+   {
+    "n": 10,
+    "text": "EMANUEL RYHINER VATER & SOHN, am"
+   },
+   {
+    "n": 11,
+    "text": "Todtentanz."
+   },
+   {
+    "n": 12,
+    "text": "JOH. & SAMUEL RYHINER, St. Joh. Vorstadt."
+   },
+   {
+    "n": 13,
+    "text": "Wollene Strumpffabriken."
+   },
+   {
+    "n": 14,
+    "text": "JOHANNES BRENNER, älter, Sta. Clara."
+   },
+   {
+    "n": 15,
+    "text": "JOH. HEINRICH BRUCKNER, Unter Gerber-"
+   },
+   {
+    "n": 16,
+    "text": "gafs."
+   },
+   {
+    "n": 17,
+    "text": "ISAAC BURCKHARDT, jünger, Ober Gerber-"
+   },
+   {
+    "n": 18,
+    "text": "gafs."
+   },
+   {
+    "n": 19,
+    "text": "GEBRÜDER ELSNER, Unter Gerbergafs."
+   },
+   {
+    "n": 20,
+    "text": "WERNHARD IMHOF, Rindermarkt."
+   },
+   {
+    "n": 21,
+    "text": "FRIEDRICH LŒW, Gerbergafs."
+   },
+   {
+    "n": 22,
+    "text": "JOHANNES PREISWERCKH & SOHN, sind"
+   },
+   {
+    "n": 23,
+    "text": "auch Speditoren, Schneidergafs."
+   },
+   {
+    "n": 24,
+    "text": "RUDOLF RITTER, Sta. Clarastrass."
+   },
+   {
+    "n": 25,
+    "text": "THEODOR SCHARDT, Rheingafs."
+   },
+   {
+    "n": 26,
+    "text": "ELIAS & DANIEL STEIGER, St. Albanthal."
+   },
+   {
+    "n": 27,
+    "text": "JOH. FRIEDRICH STRAMPFFER, St. Albanthal."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 4,
+    "kind": "firma",
+    "heading": "Fortsetzung der Vorseite",
+    "place": "Basel",
+    "surname": "Burkhardt",
+    "forename": "Joh. Jacob & Conrad",
+    "title": "",
+    "occupation": "",
+    "address": "zwischen St. Blaise und Richen Thor ausser der Stadt",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB & CONRAD BURKHARDT, zwischen St. Blaise und Richen Thor ausser der Stadt."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Fortsetzung der Vorseite",
+    "place": "Basel",
+    "surname": "Linder",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "Mouchoirs &c. blau in weiss",
+    "address": "auf dem Blömlein",
+    "quarter": "",
+    "street": "Blömlein",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL LINDER, Mouchoirs &c. blau in weiss, auf dem Blömlein."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "firma",
+    "heading": "Fortsetzung der Vorseite",
+    "place": "Basel",
+    "surname": "Mieg",
+    "forename": "",
+    "title": "& Comp.",
+    "occupation": "wohnhaft in der kleinen Stadt, hat fein Magazin aber auf dem Blumenplatz",
+    "address": "in der kleinen Stadt, Magazin auf dem Blumenplatz",
+    "quarter": "kleine Stadt",
+    "street": "Blumenplatz",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MIEG & COMP. wohnhaft in der kleinen Stadt, hat fein Magazin aber auf dem Blumenplatz."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Fortsetzung der Vorseite",
+    "place": "Basel",
+    "surname": "Ryhiner",
+    "forename": "Emanuel",
+    "title": "Vater & Sohn",
+    "occupation": "",
+    "address": "am Todtentanz",
+    "quarter": "",
+    "street": "Todtentanz",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL RYHINER VATER & SOHN, am Todtentanz."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "firma",
+    "heading": "Fortsetzung der Vorseite",
+    "place": "Basel",
+    "surname": "Ryhiner",
+    "forename": "Joh. & Samuel",
+    "title": "",
+    "occupation": "",
+    "address": "St. Joh. Vorstadt",
+    "quarter": "St. Joh. Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. & SAMUEL RYHINER, St. Joh. Vorstadt."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Brenner",
+    "forename": "Johannes",
+    "title": "älter",
+    "occupation": "Wollene Strumpffabriken",
+    "address": "Sta. Clara",
+    "quarter": "Sta. Clara",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOHANNES BRENNER, älter, Sta. Clara."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Bruckner",
+    "forename": "Joh. Heinrich",
+    "title": "",
+    "occupation": "Wollene Strumpffabriken",
+    "address": "Unter Gerbergafs",
+    "quarter": "",
+    "street": "Unter Gerbergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. HEINRICH BRUCKNER, Unter Gerbergafs."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Burckhardt",
+    "forename": "Isaac",
+    "title": "jünger",
+    "occupation": "Wollene Strumpffabriken",
+    "address": "Ober Gerbergafs",
+    "quarter": "",
+    "street": "Ober Gerbergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ISAAC BURCKHARDT, jünger, Ober Gerbergafs."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Elsner",
+    "forename": "",
+    "title": "Gebrüder",
+    "occupation": "Wollene Strumpffabriken",
+    "address": "Unter Gerbergafs",
+    "quarter": "",
+    "street": "Unter Gerbergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "GEBRÜDER ELSNER, Unter Gerbergafs."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Imhof",
+    "forename": "Wernhard",
+    "title": "",
+    "occupation": "Wollene Strumpffabriken",
+    "address": "Rindermarkt",
+    "quarter": "",
+    "street": "Rindermarkt",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "WERNHARD IMHOF, Rindermarkt."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Löw",
+    "forename": "Friedrich",
+    "title": "",
+    "occupation": "Wollene Strumpffabriken",
+    "address": "Gerbergafs",
+    "quarter": "",
+    "street": "Gerbergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "FRIEDRICH LŒW, Gerbergafs."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "firma",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Preiswerckh",
+    "forename": "Johannes",
+    "title": "& Sohn",
+    "occupation": "Wollene Strumpffabriken, auch Speditoren",
+    "address": "Schneidergafs",
+    "quarter": "",
+    "street": "Schneidergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOHANNES PREISWERCKH & SOHN, sind auch Speditoren, Schneidergafs."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Ritter",
+    "forename": "Rudolf",
+    "title": "",
+    "occupation": "Wollene Strumpffabriken",
+    "address": "Sta. Clarastrass",
+    "quarter": "",
+    "street": "Sta. Clarastrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "RUDOLF RITTER, Sta. Clarastrass."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Schartd",
+    "forename": "Theodor",
+    "title": "",
+    "occupation": "Wollene Strumpffabriken",
+    "address": "Rheingafs",
+    "quarter": "",
+    "street": "Rheingafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "THEODOR SCHARDT, Rheingafs."
+   },
+   {
+    "line_from": 26,
+    "line_to": 26,
+    "kind": "firma",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Steiger",
+    "forename": "Elias & Daniel",
+    "title": "",
+    "occupation": "Wollene Strumpffabriken",
+    "address": "St. Albanthal",
+    "quarter": "St. Albanthal",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ELIAS & DANIEL STEIGER, St. Albanthal."
+   },
+   {
+    "line_from": 27,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Wollene Strumpffabriken",
+    "place": "Basel",
+    "surname": "Strampffer",
+    "forename": "Joh. Friedrich",
+    "title": "",
+    "occupation": "Wollene Strumpffabriken",
+    "address": "St. Albanthal",
+    "quarter": "St. Albanthal",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. FRIEDRICH STRAMPFFER, St. Albanthal."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:34:54+01:00",
+ "last_error": null
+}

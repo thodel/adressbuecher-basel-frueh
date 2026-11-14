@@ -1,0 +1,454 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 12,
+ "section": "schema",
+ "started": "2026-11-14T15:31:48+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3548,
+  "output": 3182,
+  "thoughts": null
+ },
+ "seconds": 80.9,
+ "response_text": "{\n  \"printed_page\": \"6\",\n  \"running_head\": null,\n  \"lines\": [\n    \"6\",\n    \"LINDENMEYER, ISELIN & LEGRAND, And-\",\n    \"lauer Hof, hinterm schwarzen Pfahl.\",\n    \"MERIAN & BECK, auf dem Blömlein.\",\n    \"MITZ & WILDT, neue Vorstadt.\",\n    \"HANS FRANZ SARRASIN, St. Martin.\",\n    \"JOH. JACOB SCHŒLLY & SOHN, Eifengass,\",\n    \"JOH. JACOB THURNEYSEN, guten Hof, St.\",\n    \"Elisabeth.\",\n    \"ACHILLES WEIS & COMP. St. Alb. Graben.\",\n    \"HIERON. WIELAND & SOHN, Spalen Vor-\",\n    \"stadt.\",\n    \"Seidenfabriken.\",\n    \"ANDREAS BUXTORFF, Stepp- und Nähefei-\",\n    \"den, Schlüsselberg.\",\n    \"FORCARD & DOBLER, in der Capelen, auf\",\n    \"dem Münsterplatz.\",\n    \"IMHOF & LINDENMEYER, Spalenberg.\",\n    \"ULRICH MIVILLE & SCHORENDORF, St.\",\n    \"Joh. Schwibbogen.\",\n    \"STICKELBERGER, Adelberg.\",\n    \"MATHIAS STRECKEYSEN jünger, Unter\",\n    \"Freyenstrass.\",\n    \"Indiennesfabriken.\",\n    \"CHRISTOPH BURCKHARDT & SOHN, goldne\",\n    \"Münz, Sporn gass,\"\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"LINDENMEYER, ISELIN & LEGRAND\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Andlauer Hof, hinterm schwarzen Pfahl.\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"Andlauer Hof\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LINDENMEYER, ISELIN & LEGRAND, Andlauer Hof, hinterm schwarzen Pfahl.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"MERIAN & BECK\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"auf dem Blömlein.\",\n      \"quarter\": \"\",\n      \"street\": \"Blömlein\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MERIAN & BECK, auf dem Blömlein.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"MITZ & WILDT\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"neue Vorstadt.\",\n      \"quarter\": \"neue Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MITZ & WILDT, neue Vorstadt.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"SARRASIN\",\n      \"forename\": \"HANS FRANZ\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Martin.\",\n      \"quarter\": \"St. Martin\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"HANS FRANZ SARRASIN, St. Martin.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHŒLLY\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"& SOHN\",\n      \"occupation\": \"\",\n      \"address\": \"Eifengass,\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB SCHŒLLY & SOHN, Eifengass,\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"THURNEYSEN\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"guten Hof, St. Elisabeth.\",\n      \"quarter\": \"St. Elisabeth\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"guten Hof\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB THURNEYSEN, guten Hof, St. Elisabeth.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"WEIS\",\n      \"forename\": \"ACHILLES\",\n      \"title\": \"& COMP.\",\n      \"occupation\": \"\",\n      \"address\": \"St. Alb. Graben.\",\n      \"quarter\": \"St. Alb.\",\n      \"street\": \"Graben\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ACHILLES WEIS & COMP. St. Alb. Graben.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"firma\",\n      \"heading\": \"\",\n      \"place\": \"Basel\",\n      \"surname\": \"WIELAND\",\n      \"forename\": \"HIERON.\",\n      \"title\": \"& SOHN\",\n      \"occupation\": \"\",\n      \"address\": \"Spalen Vorstadt.\",\n      \"quarter\": \"Spalen Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"HIERON. WIELAND & SOHN, Spalen Vorstadt.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Seidenfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"BUXTORFF\",\n      \"forename\": \"ANDREAS\",\n      \"title\": \"\",\n      \"occupation\": \"Seidenfabrikant\",\n      \"address\": \"Stepp- und Nähefeiden, Schlüsselberg.\",\n      \"quarter\": \"\",\n      \"street\": \"Schlüsselberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ANDREAS BUXTORFF, Stepp- und Nähefeiden, Schlüsselberg.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Seidenfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"FORCARD & DOBLER\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Seidenfabrikanten\",\n      \"address\": \"in der Capelen, auf dem Münsterplatz.\",\n      \"quarter\": \"\",\n      \"street\": \"Münsterplatz\",\n      \"house_no\": \"\",\n      \"house_name\": \"in der Capelen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"FORCARD & DOBLER, in der Capelen, auf dem Münsterplatz.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"firma\",\n      \"heading\": \"Seidenfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"IMHOF & LINDENMEYER\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Seidenfabrikanten\",\n      \"address\": \"Spalenberg.\",\n      \"quarter\": \"\",\n      \"street\": \"Spalenberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"IMHOF & LINDENMEYER, Spalenberg.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"firma\",\n      \"heading\": \"Seidenfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"MIVILLE & SCHORENDORF\",\n      \"forename\": \"ULRICH\",\n      \"title\": \"\",\n      \"occupation\": \"Seidenfabrikanten\",\n      \"address\": \"St. Joh. Schwibbogen.\",\n      \"quarter\": \"St. Joh.\",\n      \"street\": \"Schwibbogen\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ULRICH MIVILLE & SCHORENDORF, St. Joh. Schwibbogen.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Seidenfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"STICKELBERGER\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Seidenfabrikant\",\n      \"address\": \"Adelberg.\",\n      \"quarter\": \"\",\n      \"street\": \"Adelberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"STICKELBERGER, Adelberg.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Seidenfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"STRECKEYSEN\",\n      \"forename\": \"MATHIAS\",\n      \"title\": \"jünger\",\n      \"occupation\": \"Seidenfabrikant\",\n      \"address\": \"Unter Freyenstrass.\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MATHIAS STRECKEYSEN jünger, Unter Freyenstrass.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"firma\",\n      \"heading\": \"Indiennesfabriken\",\n      \"place\": \"Basel\",\n      \"surname\": \"BURCKHARDT\",\n      \"forename\": \"CHRISTOPH\",\n      \"title\": \"& SOHN\",\n      \"occupation\": \"Indiennesfabrikanten\",\n      \"address\": \"goldne Münz, Sporn gass,\",\n      \"quarter\": \"\",\n      \"street\": \"Sporn gass\",\n      \"house_no\": \"\",\n      \"house_name\": \"goldne Münz\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRISTOPH BURCKHARDT & SOHN, goldne Münz, Sporn gass,\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": true,\n  \"complete\": true\n}",
+ "lines_numbered": true,
+ "parsed": {
+  "printed_page": "6",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "6"
+   },
+   {
+    "n": 2,
+    "text": "LINDENMEYER, ISELIN & LEGRAND, And-"
+   },
+   {
+    "n": 3,
+    "text": "lauer Hof, hinterm schwarzen Pfahl."
+   },
+   {
+    "n": 4,
+    "text": "MERIAN & BECK, auf dem Blömlein."
+   },
+   {
+    "n": 5,
+    "text": "MITZ & WILDT, neue Vorstadt."
+   },
+   {
+    "n": 6,
+    "text": "HANS FRANZ SARRASIN, St. Martin."
+   },
+   {
+    "n": 7,
+    "text": "JOH. JACOB SCHŒLLY & SOHN, Eifengass,"
+   },
+   {
+    "n": 8,
+    "text": "JOH. JACOB THURNEYSEN, guten Hof, St."
+   },
+   {
+    "n": 9,
+    "text": "Elisabeth."
+   },
+   {
+    "n": 10,
+    "text": "ACHILLES WEIS & COMP. St. Alb. Graben."
+   },
+   {
+    "n": 11,
+    "text": "HIERON. WIELAND & SOHN, Spalen Vor-"
+   },
+   {
+    "n": 12,
+    "text": "stadt."
+   },
+   {
+    "n": 13,
+    "text": "Seidenfabriken."
+   },
+   {
+    "n": 14,
+    "text": "ANDREAS BUXTORFF, Stepp- und Nähefei-"
+   },
+   {
+    "n": 15,
+    "text": "den, Schlüsselberg."
+   },
+   {
+    "n": 16,
+    "text": "FORCARD & DOBLER, in der Capelen, auf"
+   },
+   {
+    "n": 17,
+    "text": "dem Münsterplatz."
+   },
+   {
+    "n": 18,
+    "text": "IMHOF & LINDENMEYER, Spalenberg."
+   },
+   {
+    "n": 19,
+    "text": "ULRICH MIVILLE & SCHORENDORF, St."
+   },
+   {
+    "n": 20,
+    "text": "Joh. Schwibbogen."
+   },
+   {
+    "n": 21,
+    "text": "STICKELBERGER, Adelberg."
+   },
+   {
+    "n": 22,
+    "text": "MATHIAS STRECKEYSEN jünger, Unter"
+   },
+   {
+    "n": 23,
+    "text": "Freyenstrass."
+   },
+   {
+    "n": 24,
+    "text": "Indiennesfabriken."
+   },
+   {
+    "n": 25,
+    "text": "CHRISTOPH BURCKHARDT & SOHN, goldne"
+   },
+   {
+    "n": 26,
+    "text": "Münz, Sporn gass,"
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "firma",
+    "heading": "",
+    "place": "Basel",
+    "surname": "LINDENMEYER, ISELIN & LEGRAND",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "Andlauer Hof, hinterm schwarzen Pfahl.",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "Andlauer Hof",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LINDENMEYER, ISELIN & LEGRAND, Andlauer Hof, hinterm schwarzen Pfahl."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "firma",
+    "heading": "",
+    "place": "Basel",
+    "surname": "MERIAN & BECK",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "auf dem Blömlein.",
+    "quarter": "",
+    "street": "Blömlein",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MERIAN & BECK, auf dem Blömlein."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "firma",
+    "heading": "",
+    "place": "Basel",
+    "surname": "MITZ & WILDT",
+    "forename": "",
+    "title": "",
+    "occupation": "",
+    "address": "neue Vorstadt.",
+    "quarter": "neue Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MITZ & WILDT, neue Vorstadt."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "SARRASIN",
+    "forename": "HANS FRANZ",
+    "title": "",
+    "occupation": "",
+    "address": "St. Martin.",
+    "quarter": "St. Martin",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "HANS FRANZ SARRASIN, St. Martin."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "firma",
+    "heading": "",
+    "place": "Basel",
+    "surname": "SCHŒLLY",
+    "forename": "JOH. JACOB",
+    "title": "& SOHN",
+    "occupation": "",
+    "address": "Eifengass,",
+    "quarter": "",
+    "street": "Eifengass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB SCHŒLLY & SOHN, Eifengass,"
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "",
+    "place": "Basel",
+    "surname": "THURNEYSEN",
+    "forename": "JOH. JACOB",
+    "title": "",
+    "occupation": "",
+    "address": "guten Hof, St. Elisabeth.",
+    "quarter": "St. Elisabeth",
+    "street": "",
+    "house_no": "",
+    "house_name": "guten Hof",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB THURNEYSEN, guten Hof, St. Elisabeth."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "firma",
+    "heading": "",
+    "place": "Basel",
+    "surname": "WEIS",
+    "forename": "ACHILLES",
+    "title": "& COMP.",
+    "occupation": "",
+    "address": "St. Alb. Graben.",
+    "quarter": "St. Alb.",
+    "street": "Graben",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ACHILLES WEIS & COMP. St. Alb. Graben."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "firma",
+    "heading": "",
+    "place": "Basel",
+    "surname": "WIELAND",
+    "forename": "HIERON.",
+    "title": "& SOHN",
+    "occupation": "",
+    "address": "Spalen Vorstadt.",
+    "quarter": "Spalen Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "HIERON. WIELAND & SOHN, Spalen Vorstadt."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Seidenfabriken",
+    "place": "Basel",
+    "surname": "BUXTORFF",
+    "forename": "ANDREAS",
+    "title": "",
+    "occupation": "Seidenfabrikant",
+    "address": "Stepp- und Nähefeiden, Schlüsselberg.",
+    "quarter": "",
+    "street": "Schlüsselberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ANDREAS BUXTORFF, Stepp- und Nähefeiden, Schlüsselberg."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Seidenfabriken",
+    "place": "Basel",
+    "surname": "FORCARD & DOBLER",
+    "forename": "",
+    "title": "",
+    "occupation": "Seidenfabrikanten",
+    "address": "in der Capelen, auf dem Münsterplatz.",
+    "quarter": "",
+    "street": "Münsterplatz",
+    "house_no": "",
+    "house_name": "in der Capelen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "FORCARD & DOBLER, in der Capelen, auf dem Münsterplatz."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "firma",
+    "heading": "Seidenfabriken",
+    "place": "Basel",
+    "surname": "IMHOF & LINDENMEYER",
+    "forename": "",
+    "title": "",
+    "occupation": "Seidenfabrikanten",
+    "address": "Spalenberg.",
+    "quarter": "",
+    "street": "Spalenberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "IMHOF & LINDENMEYER, Spalenberg."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "firma",
+    "heading": "Seidenfabriken",
+    "place": "Basel",
+    "surname": "MIVILLE & SCHORENDORF",
+    "forename": "ULRICH",
+    "title": "",
+    "occupation": "Seidenfabrikanten",
+    "address": "St. Joh. Schwibbogen.",
+    "quarter": "St. Joh.",
+    "street": "Schwibbogen",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ULRICH MIVILLE & SCHORENDORF, St. Joh. Schwibbogen."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Seidenfabriken",
+    "place": "Basel",
+    "surname": "STICKELBERGER",
+    "forename": "",
+    "title": "",
+    "occupation": "Seidenfabrikant",
+    "address": "Adelberg.",
+    "quarter": "",
+    "street": "Adelberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "STICKELBERGER, Adelberg."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Seidenfabriken",
+    "place": "Basel",
+    "surname": "STRECKEYSEN",
+    "forename": "MATHIAS",
+    "title": "jünger",
+    "occupation": "Seidenfabrikant",
+    "address": "Unter Freyenstrass.",
+    "quarter": "",
+    "street": "Unter Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MATHIAS STRECKEYSEN jünger, Unter Freyenstrass."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "firma",
+    "heading": "Indiennesfabriken",
+    "place": "Basel",
+    "surname": "BURCKHARDT",
+    "forename": "CHRISTOPH",
+    "title": "& SOHN",
+    "occupation": "Indiennesfabrikanten",
+    "address": "goldne Münz, Sporn gass,",
+    "quarter": "",
+    "street": "Sporn gass",
+    "house_no": "",
+    "house_name": "goldne Münz",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRISTOPH BURCKHARDT & SOHN, goldne Münz, Sporn gass,"
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": true,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:33:09+01:00",
+ "last_error": null
+}

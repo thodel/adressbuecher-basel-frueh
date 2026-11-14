@@ -1,0 +1,353 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 32,
+ "section": "schema",
+ "started": "2026-11-14T15:44:15+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3743,
+  "output": 2675,
+  "thoughts": null
+ },
+ "seconds": 48.4,
+ "response_text": "{\n  \"printed_page\": \"26\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"26\"},\n    {\"n\": 2, \"text\": \"Gürtler oder Rothgieſſer.\"},\n    {\"n\": 3, \"text\": \"HERONIMUS FETZER, beym Schwanen.\"},\n    {\"n\": 4, \"text\": \"RUDOLF SCHLEGEL, bey der Poſt.\"},\n    {\"n\": 5, \"text\": \"Lichterfabrik.\"},\n    {\"n\": 6, \"text\": \"JACOB CHRISTOPH OSER, am Heuberg.\"},\n    {\"n\": 7, \"text\": \"Kupferſtichverlag.\"},\n    {\"n\": 8, \"text\": \"CHRISTIAN VON MECHEL, St. Joh. Vorſtadt.\"},\n    {\"n\": 9, \"text\": \"DANIEL SCHMIDT, Fiſchmarkt.\"},\n    {\"n\": 10, \"text\": \"Jungfern SCHMIDT, Ober Freyenſtraß.\"},\n    {\"n\": 11, \"text\": \"Berühmte Künſtler.\"},\n    {\"n\": 12, \"text\": \"WILHELM HAAS & SOHN, Schriftgieſſer &c.\"},\n    {\"n\": 13, \"text\": \"Leonhardsgraben.\"},\n    {\"n\": 14, \"text\": \"ANDREAS MÆRKLIN, Kunſtdrechsler, Unter\"},\n    {\"n\": 15, \"text\": \"Gerbergaff.\"},\n    {\"n\": 16, \"text\": \"CHRISTIAN VON MECHEL, Kupferſtecher.\"},\n    {\"n\": 17, \"text\": \"ÜLRIH SAMSON, Graveur & Medailleur,\"},\n    {\"n\": 18, \"text\": \"außer der kleinen Stadt, zwiſchen Ri-\"},\n    {\"n\": 19, \"text\": \"chen und St. Blaſer Thor.\"},\n    {\"n\": 20, \"text\": \"JEREMIAS SCHLEGEL, Muſik-Inſtrumenten-\"},\n    {\"n\": 21, \"text\": \"dreher, handelt auch mit Mahlereyen,\"},\n    {\"n\": 22, \"text\": \"zu St. Peter im Kirchgäff.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Gürtler oder Rothgießer\",\n      \"place\": \"Basel\",\n      \"surname\": \"FETZER\",\n      \"forename\": \"HERONIMUS\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"beym Schwanen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"beym Schwanen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"HERONIMUS FETZER, beym Schwanen.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Gürtler oder Rothgießer\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHLEGEL\",\n      \"forename\": \"RUDOLF\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"bey der Post\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"bey der Post\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"RUDOLF SCHLEGEL, bey der Post.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Lichterfabrik\",\n      \"place\": \"Basel\",\n      \"surname\": \"OSER\",\n      \"forename\": \"JACOB CHRISTOPH\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"am Heuberg\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JACOB CHRISTOPH OSER, am Heuberg.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Kupferstichverlag\",\n      \"place\": \"Basel\",\n      \"surname\": \"VON MECHEL\",\n      \"forename\": \"CHRISTIAN\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"St. Joh. Vorstadt\",\n      \"quarter\": \"St. Joh. Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRISTIAN VON MECHEL, St. Joh. Vorstadt.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Kupferstichverlag\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHMIDT\",\n      \"forename\": \"DANIEL\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Fischmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Fischmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"DANIEL SCHMIDT, Fischmarkt.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Kupferstichverlag\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHMIDT\",\n      \"forename\": \"\",\n      \"title\": \"Jungfern\",\n      \"occupation\": \"\",\n      \"address\": \"Ober Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jungfern SCHMIDT, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"firma\",\n      \"heading\": \"Berühmte Künstler\",\n      \"place\": \"Basel\",\n      \"surname\": \"HAAS\",\n      \"forename\": \"WILHELM\",\n      \"title\": \"& SOHN\",\n      \"occupation\": \"Schriftgießer &c.\",\n      \"address\": \"Leonhardsgraben\",\n      \"quarter\": \"\",\n      \"street\": \"Leonhardsgraben\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"WILHELM HAAS & SOHN, Schriftgießer &c. Leonhardsgraben.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Berühmte Künstler\",\n      \"place\": \"Basel\",\n      \"surname\": \"MÆRKLIN\",\n      \"forename\": \"ANDREAS\",\n      \"title\": \"\",\n      \"occupation\": \"Kunstdrechsler\",\n      \"address\": \"Unter Gerbergass\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Gerbergass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ANDREAS MÆRKLIN, Kunstdrechsler, Unter Gerbergass.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Berühmte Künstler\",\n      \"place\": \"Basel\",\n      \"surname\": \"VON MECHEL\",\n      \"forename\": \"CHRISTIAN\",\n      \"title\": \"\",\n      \"occupation\": \"Kupferstecher\",\n      \"address\": \"\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRISTIAN VON MECHEL, Kupferstecher.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Berühmte Künstler\",\n      \"place\": \"Basel\",\n      \"surname\": \"SAMSON\",\n      \"forename\": \"ÜLRIH\",\n      \"title\": \"\",\n      \"occupation\": \"Graveur & Medailleur\",\n      \"address\": \"außer der kleinen Stadt, zwischen Riehen und St. Blaser Thor\",\n      \"quarter\": \"außer der kleinen Stadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ÜLRIH SAMSON, Graveur & Medailleur, außer der kleinen Stadt, zwischen Riehen und St. Blaser Thor.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Berühmte Künstler\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHLEGEL\",\n      \"forename\": \"JEREMIAS\",\n      \"title\": \"\",\n      \"occupation\": \"Musik-Instrumenten-dreher, handelt auch mit Mahlereyen\",\n      \"address\": \"zu St. Peter im Kirchgäff\",\n      \"quarter\": \"St. Peter\",\n      \"street\": \"Kirchgäff\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JEREMIAS SCHLEGEL, Musik-Instrumenten-dreher, handelt auch mit Mahlereyen, zu St. Peter im Kirchgäff.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "26",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "26"
+   },
+   {
+    "n": 2,
+    "text": "Gürtler oder Rothgieſſer."
+   },
+   {
+    "n": 3,
+    "text": "HERONIMUS FETZER, beym Schwanen."
+   },
+   {
+    "n": 4,
+    "text": "RUDOLF SCHLEGEL, bey der Poſt."
+   },
+   {
+    "n": 5,
+    "text": "Lichterfabrik."
+   },
+   {
+    "n": 6,
+    "text": "JACOB CHRISTOPH OSER, am Heuberg."
+   },
+   {
+    "n": 7,
+    "text": "Kupferſtichverlag."
+   },
+   {
+    "n": 8,
+    "text": "CHRISTIAN VON MECHEL, St. Joh. Vorſtadt."
+   },
+   {
+    "n": 9,
+    "text": "DANIEL SCHMIDT, Fiſchmarkt."
+   },
+   {
+    "n": 10,
+    "text": "Jungfern SCHMIDT, Ober Freyenſtraß."
+   },
+   {
+    "n": 11,
+    "text": "Berühmte Künſtler."
+   },
+   {
+    "n": 12,
+    "text": "WILHELM HAAS & SOHN, Schriftgieſſer &c."
+   },
+   {
+    "n": 13,
+    "text": "Leonhardsgraben."
+   },
+   {
+    "n": 14,
+    "text": "ANDREAS MÆRKLIN, Kunſtdrechsler, Unter"
+   },
+   {
+    "n": 15,
+    "text": "Gerbergaff."
+   },
+   {
+    "n": 16,
+    "text": "CHRISTIAN VON MECHEL, Kupferſtecher."
+   },
+   {
+    "n": 17,
+    "text": "ÜLRIH SAMSON, Graveur & Medailleur,"
+   },
+   {
+    "n": 18,
+    "text": "außer der kleinen Stadt, zwiſchen Ri-"
+   },
+   {
+    "n": 19,
+    "text": "chen und St. Blaſer Thor."
+   },
+   {
+    "n": 20,
+    "text": "JEREMIAS SCHLEGEL, Muſik-Inſtrumenten-"
+   },
+   {
+    "n": 21,
+    "text": "dreher, handelt auch mit Mahlereyen,"
+   },
+   {
+    "n": 22,
+    "text": "zu St. Peter im Kirchgäff."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Gürtler oder Rothgießer",
+    "place": "Basel",
+    "surname": "FETZER",
+    "forename": "HERONIMUS",
+    "title": "",
+    "occupation": "",
+    "address": "beym Schwanen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "beym Schwanen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "HERONIMUS FETZER, beym Schwanen."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Gürtler oder Rothgießer",
+    "place": "Basel",
+    "surname": "SCHLEGEL",
+    "forename": "RUDOLF",
+    "title": "",
+    "occupation": "",
+    "address": "bey der Post",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "bey der Post",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "RUDOLF SCHLEGEL, bey der Post."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Lichterfabrik",
+    "place": "Basel",
+    "surname": "OSER",
+    "forename": "JACOB CHRISTOPH",
+    "title": "",
+    "occupation": "",
+    "address": "am Heuberg",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JACOB CHRISTOPH OSER, am Heuberg."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Kupferstichverlag",
+    "place": "Basel",
+    "surname": "VON MECHEL",
+    "forename": "CHRISTIAN",
+    "title": "",
+    "occupation": "",
+    "address": "St. Joh. Vorstadt",
+    "quarter": "St. Joh. Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRISTIAN VON MECHEL, St. Joh. Vorstadt."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Kupferstichverlag",
+    "place": "Basel",
+    "surname": "SCHMIDT",
+    "forename": "DANIEL",
+    "title": "",
+    "occupation": "",
+    "address": "Fischmarkt",
+    "quarter": "",
+    "street": "Fischmarkt",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "DANIEL SCHMIDT, Fischmarkt."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Kupferstichverlag",
+    "place": "Basel",
+    "surname": "SCHMIDT",
+    "forename": "",
+    "title": "Jungfern",
+    "occupation": "",
+    "address": "Ober Freyenstrass",
+    "quarter": "",
+    "street": "Ober Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jungfern SCHMIDT, Ober Freyenstrass."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "firma",
+    "heading": "Berühmte Künstler",
+    "place": "Basel",
+    "surname": "HAAS",
+    "forename": "WILHELM",
+    "title": "& SOHN",
+    "occupation": "Schriftgießer &c.",
+    "address": "Leonhardsgraben",
+    "quarter": "",
+    "street": "Leonhardsgraben",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "WILHELM HAAS & SOHN, Schriftgießer &c. Leonhardsgraben."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Berühmte Künstler",
+    "place": "Basel",
+    "surname": "MÆRKLIN",
+    "forename": "ANDREAS",
+    "title": "",
+    "occupation": "Kunstdrechsler",
+    "address": "Unter Gerbergass",
+    "quarter": "",
+    "street": "Unter Gerbergass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ANDREAS MÆRKLIN, Kunstdrechsler, Unter Gerbergass."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Berühmte Künstler",
+    "place": "Basel",
+    "surname": "VON MECHEL",
+    "forename": "CHRISTIAN",
+    "title": "",
+    "occupation": "Kupferstecher",
+    "address": "",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRISTIAN VON MECHEL, Kupferstecher."
+   },
+   {
+    "line_from": 17,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Berühmte Künstler",
+    "place": "Basel",
+    "surname": "SAMSON",
+    "forename": "ÜLRIH",
+    "title": "",
+    "occupation": "Graveur & Medailleur",
+    "address": "außer der kleinen Stadt, zwischen Riehen und St. Blaser Thor",
+    "quarter": "außer der kleinen Stadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ÜLRIH SAMSON, Graveur & Medailleur, außer der kleinen Stadt, zwischen Riehen und St. Blaser Thor."
+   },
+   {
+    "line_from": 20,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Berühmte Künstler",
+    "place": "Basel",
+    "surname": "SCHLEGEL",
+    "forename": "JEREMIAS",
+    "title": "",
+    "occupation": "Musik-Instrumenten-dreher, handelt auch mit Mahlereyen",
+    "address": "zu St. Peter im Kirchgäff",
+    "quarter": "St. Peter",
+    "street": "Kirchgäff",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JEREMIAS SCHLEGEL, Musik-Instrumenten-dreher, handelt auch mit Mahlereyen, zu St. Peter im Kirchgäff."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:45:03+01:00",
+ "last_error": null
+}

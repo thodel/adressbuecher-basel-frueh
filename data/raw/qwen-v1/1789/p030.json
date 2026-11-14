@@ -1,0 +1,449 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 30,
+ "section": "schema",
+ "started": "2026-11-14T15:43:08+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3743,
+  "output": 3417,
+  "thoughts": null
+ },
+ "seconds": 70.4,
+ "response_text": "{\n  \"printed_page\": \"24\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"24\"},\n    {\"n\": 2, \"text\": \"Gerbereyen.\"},\n    {\"n\": 3, \"text\": \"JOH. BALTHASAR BIELER, Rothgerber, Hut-\"},\n    {\"n\": 4, \"text\": \"gafs.\"},\n    {\"n\": 5, \"text\": \"SAMUEL BIENTZ, Rothgerber, Thorsteinen.\"},\n    {\"n\": 6, \"text\": \"PETER BIENTZ, Kalbleder, beym Gerber-\"},\n    {\"n\": 7, \"text\": \"brunnen.\"},\n    {\"n\": 8, \"text\": \"DANIEL BRANDT, Rothgerber, im Rumpel.\"},\n    {\"n\": 9, \"text\": \"LEONHARD GESSLER, Rothgerber im Rumpel.\"},\n    {\"n\": 10, \"text\": \"JOHANNES FALCKEYSEN, Rothgerber und\"},\n    {\"n\": 11, \"text\": \"etwas Kalbleder, Thorsteinen.\"},\n    {\"n\": 12, \"text\": \"DANIEL KÖENIG, Rothgerber, Unter Gerber-\"},\n    {\"n\": 13, \"text\": \"gafs.\"},\n    {\"n\": 14, \"text\": \"NICOLAS MERIAN, Rothgerber, Webergafs.\"},\n    {\"n\": 15, \"text\": \"MARTIN SALADÉ, Kalbleder, Gerbergafs.\"},\n    {\"n\": 16, \"text\": \"JOH. JACOB SALADÉ, Kalbleder, Greifengafs.\"},\n    {\"n\": 17, \"text\": \"MATHIAS SCHARDT, Kalbleder, Eifengafs.\"},\n    {\"n\": 18, \"text\": \"LUCAS THURNEYSEN, Kalbleder, hinterm\"},\n    {\"n\": 19, \"text\": \"Bach.\"},\n    {\"n\": 20, \"text\": \"MARTIN WENCK jünger, Sohl-und Kalbleder,\"},\n    {\"n\": 21, \"text\": \"neben der kleinen Metzig.\"},\n    {\"n\": 22, \"text\": \"JOH. HEINRICH WENCK, Kalbleder, We-\"},\n    {\"n\": 23, \"text\": \"bergafs.\"},\n    {\"n\": 24, \"text\": \"Saffianmacher und Weifsgerber.\"},\n    {\"n\": 25, \"text\": \"MELCHIOR IMHOF, Unter Gerbergafs.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BIELER\",\n      \"forename\": \"Joh. Balthasar\",\n      \"title\": \"\",\n      \"occupation\": \"Rothgerber\",\n      \"address\": \"Hutgafs\",\n      \"quarter\": \"\",\n      \"street\": \"Hutgafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. BALTHASAR BIELER, Rothgerber, Hutgafs.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BIENTZ\",\n      \"forename\": \"Samuel\",\n      \"title\": \"\",\n      \"occupation\": \"Rothgerber\",\n      \"address\": \"Thorsteinen\",\n      \"quarter\": \"\",\n      \"street\": \"Thorsteinen\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"SAMUEL BIENTZ, Rothgerber, Thorsteinen.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BIENTZ\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Kalbleder\",\n      \"address\": \"beym Gerberbrunnen\",\n      \"quarter\": \"\",\n      \"street\": \"beym Gerberbrunnen\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"PETER BIENTZ, Kalbleder, beym Gerberbrunnen.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BRANDT\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Rothgerber\",\n      \"address\": \"im Rumpel\",\n      \"quarter\": \"\",\n      \"street\": \"im Rumpel\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"DANIEL BRANDT, Rothgerber, im Rumpel.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"GESSLER\",\n      \"forename\": \"Leonhard\",\n      \"title\": \"\",\n      \"occupation\": \"Rothgerber\",\n      \"address\": \"im Rumpel\",\n      \"quarter\": \"\",\n      \"street\": \"im Rumpel\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LEONHARD GESSLER, Rothgerber im Rumpel.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"FALCKEYSEN\",\n      \"forename\": \"Johannes\",\n      \"title\": \"\",\n      \"occupation\": \"Rothgerber und etwas Kalbleder\",\n      \"address\": \"Thorsteinen\",\n      \"quarter\": \"\",\n      \"street\": \"Thorsteinen\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOHANNES FALCKEYSEN, Rothgerber und etwas Kalbleder, Thorsteinen.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"KÖENIG\",\n      \"forename\": \"Daniel\",\n      \"title\": \"\",\n      \"occupation\": \"Rothgerber\",\n      \"address\": \"Unter Gerbergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Gerbergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"DANIEL KÖENIG, Rothgerber, Unter Gerbergafs.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"MERIAN\",\n      \"forename\": \"Nicolas\",\n      \"title\": \"\",\n      \"occupation\": \"Rothgerber\",\n      \"address\": \"Webergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Webergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"NICOLAS MERIAN, Rothgerber, Webergafs.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"SALADÉ\",\n      \"forename\": \"Martin\",\n      \"title\": \"\",\n      \"occupation\": \"Kalbleder\",\n      \"address\": \"Gerbergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Gerbergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MARTIN SALADÉ, Kalbleder, Gerbergafs.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"SALADÉ\",\n      \"forename\": \"Joh. Jacob\",\n      \"title\": \"\",\n      \"occupation\": \"Kalbleder\",\n      \"address\": \"Greifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Greifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB SALADÉ, Kalbleder, Greifengafs.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHARDT\",\n      \"forename\": \"Mathias\",\n      \"title\": \"\",\n      \"occupation\": \"Kalbleder\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MATHIAS SCHARDT, Kalbleder, Eifengafs.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"THURNEYSEN\",\n      \"forename\": \"Lucas\",\n      \"title\": \"\",\n      \"occupation\": \"Kalbleder\",\n      \"address\": \"hinterm Bach\",\n      \"quarter\": \"\",\n      \"street\": \"hinterm Bach\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LUCAS THURNEYSEN, Kalbleder, hinterm Bach.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"WENCK\",\n      \"forename\": \"Martin\",\n      \"title\": \"jünger\",\n      \"occupation\": \"Sohl-und Kalbleder\",\n      \"address\": \"neben der kleinen Metzig\",\n      \"quarter\": \"\",\n      \"street\": \"neben der kleinen Metzig\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MARTIN WENCK jünger, Sohl-und Kalbleder, neben der kleinen Metzig.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Gerbereyen\",\n      \"place\": \"Basel\",\n      \"surname\": \"WENCK\",\n      \"forename\": \"Joh. Heinrich\",\n      \"title\": \"\",\n      \"occupation\": \"Kalbleder\",\n      \"address\": \"Webergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Webergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. HEINRICH WENCK, Kalbleder, Webergafs.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Saffianmacher und Weifsgerber\",\n      \"place\": \"Basel\",\n      \"surname\": \"IMHOF\",\n      \"forename\": \"Melchior\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Unter Gerbergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Gerbergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MELCHIOR IMHOF, Unter Gerbergafs.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "24",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "24"
+   },
+   {
+    "n": 2,
+    "text": "Gerbereyen."
+   },
+   {
+    "n": 3,
+    "text": "JOH. BALTHASAR BIELER, Rothgerber, Hut-"
+   },
+   {
+    "n": 4,
+    "text": "gafs."
+   },
+   {
+    "n": 5,
+    "text": "SAMUEL BIENTZ, Rothgerber, Thorsteinen."
+   },
+   {
+    "n": 6,
+    "text": "PETER BIENTZ, Kalbleder, beym Gerber-"
+   },
+   {
+    "n": 7,
+    "text": "brunnen."
+   },
+   {
+    "n": 8,
+    "text": "DANIEL BRANDT, Rothgerber, im Rumpel."
+   },
+   {
+    "n": 9,
+    "text": "LEONHARD GESSLER, Rothgerber im Rumpel."
+   },
+   {
+    "n": 10,
+    "text": "JOHANNES FALCKEYSEN, Rothgerber und"
+   },
+   {
+    "n": 11,
+    "text": "etwas Kalbleder, Thorsteinen."
+   },
+   {
+    "n": 12,
+    "text": "DANIEL KÖENIG, Rothgerber, Unter Gerber-"
+   },
+   {
+    "n": 13,
+    "text": "gafs."
+   },
+   {
+    "n": 14,
+    "text": "NICOLAS MERIAN, Rothgerber, Webergafs."
+   },
+   {
+    "n": 15,
+    "text": "MARTIN SALADÉ, Kalbleder, Gerbergafs."
+   },
+   {
+    "n": 16,
+    "text": "JOH. JACOB SALADÉ, Kalbleder, Greifengafs."
+   },
+   {
+    "n": 17,
+    "text": "MATHIAS SCHARDT, Kalbleder, Eifengafs."
+   },
+   {
+    "n": 18,
+    "text": "LUCAS THURNEYSEN, Kalbleder, hinterm"
+   },
+   {
+    "n": 19,
+    "text": "Bach."
+   },
+   {
+    "n": 20,
+    "text": "MARTIN WENCK jünger, Sohl-und Kalbleder,"
+   },
+   {
+    "n": 21,
+    "text": "neben der kleinen Metzig."
+   },
+   {
+    "n": 22,
+    "text": "JOH. HEINRICH WENCK, Kalbleder, We-"
+   },
+   {
+    "n": 23,
+    "text": "bergafs."
+   },
+   {
+    "n": 24,
+    "text": "Saffianmacher und Weifsgerber."
+   },
+   {
+    "n": 25,
+    "text": "MELCHIOR IMHOF, Unter Gerbergafs."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "BIELER",
+    "forename": "Joh. Balthasar",
+    "title": "",
+    "occupation": "Rothgerber",
+    "address": "Hutgafs",
+    "quarter": "",
+    "street": "Hutgafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. BALTHASAR BIELER, Rothgerber, Hutgafs."
+   },
+   {
+    "line_from": 5,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "BIENTZ",
+    "forename": "Samuel",
+    "title": "",
+    "occupation": "Rothgerber",
+    "address": "Thorsteinen",
+    "quarter": "",
+    "street": "Thorsteinen",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "SAMUEL BIENTZ, Rothgerber, Thorsteinen."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "BIENTZ",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Kalbleder",
+    "address": "beym Gerberbrunnen",
+    "quarter": "",
+    "street": "beym Gerberbrunnen",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "PETER BIENTZ, Kalbleder, beym Gerberbrunnen."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "BRANDT",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Rothgerber",
+    "address": "im Rumpel",
+    "quarter": "",
+    "street": "im Rumpel",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "DANIEL BRANDT, Rothgerber, im Rumpel."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "GESSLER",
+    "forename": "Leonhard",
+    "title": "",
+    "occupation": "Rothgerber",
+    "address": "im Rumpel",
+    "quarter": "",
+    "street": "im Rumpel",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LEONHARD GESSLER, Rothgerber im Rumpel."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "FALCKEYSEN",
+    "forename": "Johannes",
+    "title": "",
+    "occupation": "Rothgerber und etwas Kalbleder",
+    "address": "Thorsteinen",
+    "quarter": "",
+    "street": "Thorsteinen",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOHANNES FALCKEYSEN, Rothgerber und etwas Kalbleder, Thorsteinen."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "KÖENIG",
+    "forename": "Daniel",
+    "title": "",
+    "occupation": "Rothgerber",
+    "address": "Unter Gerbergafs",
+    "quarter": "",
+    "street": "Unter Gerbergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "DANIEL KÖENIG, Rothgerber, Unter Gerbergafs."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "MERIAN",
+    "forename": "Nicolas",
+    "title": "",
+    "occupation": "Rothgerber",
+    "address": "Webergafs",
+    "quarter": "",
+    "street": "Webergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "NICOLAS MERIAN, Rothgerber, Webergafs."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "SALADÉ",
+    "forename": "Martin",
+    "title": "",
+    "occupation": "Kalbleder",
+    "address": "Gerbergafs",
+    "quarter": "",
+    "street": "Gerbergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MARTIN SALADÉ, Kalbleder, Gerbergafs."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "SALADÉ",
+    "forename": "Joh. Jacob",
+    "title": "",
+    "occupation": "Kalbleder",
+    "address": "Greifengafs",
+    "quarter": "",
+    "street": "Greifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB SALADÉ, Kalbleder, Greifengafs."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "SCHARDT",
+    "forename": "Mathias",
+    "title": "",
+    "occupation": "Kalbleder",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MATHIAS SCHARDT, Kalbleder, Eifengafs."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "THURNEYSEN",
+    "forename": "Lucas",
+    "title": "",
+    "occupation": "Kalbleder",
+    "address": "hinterm Bach",
+    "quarter": "",
+    "street": "hinterm Bach",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LUCAS THURNEYSEN, Kalbleder, hinterm Bach."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "WENCK",
+    "forename": "Martin",
+    "title": "jünger",
+    "occupation": "Sohl-und Kalbleder",
+    "address": "neben der kleinen Metzig",
+    "quarter": "",
+    "street": "neben der kleinen Metzig",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MARTIN WENCK jünger, Sohl-und Kalbleder, neben der kleinen Metzig."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Gerbereyen",
+    "place": "Basel",
+    "surname": "WENCK",
+    "forename": "Joh. Heinrich",
+    "title": "",
+    "occupation": "Kalbleder",
+    "address": "Webergafs",
+    "quarter": "",
+    "street": "Webergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. HEINRICH WENCK, Kalbleder, Webergafs."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Saffianmacher und Weifsgerber",
+    "place": "Basel",
+    "surname": "IMHOF",
+    "forename": "Melchior",
+    "title": "",
+    "occupation": "",
+    "address": "Unter Gerbergafs",
+    "quarter": "",
+    "street": "Unter Gerbergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MELCHIOR IMHOF, Unter Gerbergafs."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:44:19+01:00",
+ "last_error": null
+}

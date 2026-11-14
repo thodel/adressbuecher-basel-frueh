@@ -1,0 +1,482 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 19,
+ "section": "schema",
+ "started": "2026-11-14T15:37:06+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3626,
+  "output": 3835,
+  "thoughts": null
+ },
+ "seconds": 64.8,
+ "response_text": "{\n  \"printed_page\": \"13\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"13\"},\n    {\"n\": 2, \"text\": \"PETER HANS HOSCH, Specerey und Käse,\"},\n    {\"n\": 3, \"text\": \"beym Waaghaus.\"},\n    {\"n\": 4, \"text\": \"HOSCH & SCHNEIDER, Specerey, Webergass.\"},\n    {\"n\": 5, \"text\": \"MATTHAEUS HUBER, zur eifernen Thür, Spe-\"},\n    {\"n\": 6, \"text\": \"cerey, am Bäumlein.\"},\n    {\"n\": 7, \"text\": \"WERNHARD HUBER, Droguerie, Rheinsprung.\"},\n    {\"n\": 8, \"text\": \"CHRISTOPH IMHOF, Specerey, Neben St. Ur-\"},\n    {\"n\": 9, \"text\": \"bansbrunnen.\"},\n    {\"n\": 10, \"text\": \"KOLB SOHN & BURCKHARDT, Specerey,\"},\n    {\"n\": 11, \"text\": \"neben der Metzig.\"},\n    {\"n\": 12, \"text\": \"CASPAR KRUG, Specerey, Unter Freyenstrass.\"},\n    {\"n\": 13, \"text\": \"JOHANNES KYBURTH, Specerey und Mine-\"},\n    {\"n\": 14, \"text\": \"ralwaffer, Rheinsprung.\"},\n    {\"n\": 15, \"text\": \"EMANUEL de ONOFRION MERIAN, Spece-\"},\n    {\"n\": 16, \"text\": \"rey, auf dem Heuberg.\"},\n    {\"n\": 17, \"text\": \"JACOB MIEG SOHN, Specerey, Barfüsserplatz.\"},\n    {\"n\": 18, \"text\": \"HIERONIM. MÜLLER, Specerey und Käse, an\"},\n    {\"n\": 19, \"text\": \"der Steinen.\"},\n    {\"n\": 20, \"text\": \"JOH. GEORG MÜLLER, Specerey und Käse,\"},\n    {\"n\": 21, \"text\": \"an der Steinen.\"},\n    {\"n\": 22, \"text\": \"JOH. JACOB de GEORG MÜLLER, Specerey\"},\n    {\"n\": 23, \"text\": \"und Käse, Grün Pfahlgässel.\"},\n    {\"n\": 24, \"text\": \"JOH. JACOB OBERMEYER, Specerey en gros,\"},\n    {\"n\": 25, \"text\": \"Ober Freyenstrass.\"},\n    {\"n\": 26, \"text\": \"JOH. HEINRICH OBERRIEDT, zum Schlegel,\"},\n    {\"n\": 27, \"text\": \"Specerey, neben dem Spital.\"},\n    {\"n\": 28, \"text\": \"GEBRÜDER OTTO, Specerey &c., Greifengass.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"HOSCH\",\n      \"forename\": \"PETER HANS\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Käse\",\n      \"address\": \"beym Waaghaus\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"PETER HANS HOSCH, Specerey und Käse, beym Waaghaus.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"firma\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"HOSCH & SCHNEIDER\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Webergass\",\n      \"quarter\": \"\",\n      \"street\": \"Webergass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"HOSCH & SCHNEIDER, Specerey, Webergass.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"HUBER\",\n      \"forename\": \"MATTHAEUS\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"zur eifernen Thür, am Bäumlein\",\n      \"quarter\": \"\",\n      \"street\": \"am Bäumlein\",\n      \"house_no\": \"\",\n      \"house_name\": \"zur eifernen Thür\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MATTHAEUS HUBER, zur eifernen Thür, Specerey, am Bäumlein.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"HUBER\",\n      \"forename\": \"WERNHARD\",\n      \"title\": \"\",\n      \"occupation\": \"Droguerie\",\n      \"address\": \"Rheinsprung\",\n      \"quarter\": \"\",\n      \"street\": \"Rheinsprung\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"WERNHARD HUBER, Droguerie, Rheinsprung.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"IMHOF\",\n      \"forename\": \"CHRISTOPH\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Neben St. Urbansbrunnen\",\n      \"quarter\": \"\",\n      \"street\": \"Neben St. Urbansbrunnen\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRISTOPH IMHOF, Specerey, Neben St. Urbansbrunnen.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"KOLB SOHN & BURCKHARDT\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"neben der Metzig\",\n      \"quarter\": \"\",\n      \"street\": \"neben der Metzig\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"KOLB SOHN & BURCKHARDT, Specerey, neben der Metzig.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"KRUG\",\n      \"forename\": \"CASPAR\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Unter Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CASPAR KRUG, Specerey, Unter Freyenstrass.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"KYBURTH\",\n      \"forename\": \"JOHANNES\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Mineralwaffer\",\n      \"address\": \"Rheinsprung\",\n      \"quarter\": \"\",\n      \"street\": \"Rheinsprung\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOHANNES KYBURTH, Specerey und Mineralwaffer, Rheinsprung.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"MERIAN\",\n      \"forename\": \"EMANUEL de ONOFRION\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"auf dem Heuberg\",\n      \"quarter\": \"\",\n      \"street\": \"Heuberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL de ONOFRION MERIAN, Specerey, auf dem Heuberg.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"MIEG\",\n      \"forename\": \"JACOB\",\n      \"title\": \"SOHN\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Barfüsserplatz\",\n      \"quarter\": \"\",\n      \"street\": \"Barfüsserplatz\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JACOB MIEG SOHN, Specerey, Barfüsserplatz.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"MÜLLER\",\n      \"forename\": \"HIERONIM.\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Käse\",\n      \"address\": \"an der Steinen\",\n      \"quarter\": \"\",\n      \"street\": \"Steinen\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"HIERONIM. MÜLLER, Specerey und Käse, an der Steinen.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"MÜLLER\",\n      \"forename\": \"JOH. GEORG\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Käse\",\n      \"address\": \"an der Steinen\",\n      \"quarter\": \"\",\n      \"street\": \"Steinen\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. GEORG MÜLLER, Specerey und Käse, an der Steinen.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"MÜLLER\",\n      \"forename\": \"JOH. JACOB de GEORG\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Käse\",\n      \"address\": \"Grün Pfahlgässel\",\n      \"quarter\": \"\",\n      \"street\": \"Grün Pfahlgässel\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB de GEORG MÜLLER, Specerey und Käse, Grün Pfahlgässel.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"OBERMEYER\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey en gros\",\n      \"address\": \"Ober Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB OBERMEYER, Specerey en gros, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"OBERRIEDT\",\n      \"forename\": \"JOH. HEINRICH\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"zum Schlegel, neben dem Spital\",\n      \"quarter\": \"\",\n      \"street\": \"neben dem Spital\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Schlegel\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. HEINRICH OBERRIEDT, zum Schlegel, Specerey, neben dem Spital.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"firma\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"OTTO\",\n      \"forename\": \"\",\n      \"title\": \"GEBRÜDER\",\n      \"occupation\": \"Specerey &c.\",\n      \"address\": \"Greifengass\",\n      \"quarter\": \"\",\n      \"street\": \"Greifengass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"GEBRÜDER OTTO, Specerey &c., Greifengass.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "13",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "13"
+   },
+   {
+    "n": 2,
+    "text": "PETER HANS HOSCH, Specerey und Käse,"
+   },
+   {
+    "n": 3,
+    "text": "beym Waaghaus."
+   },
+   {
+    "n": 4,
+    "text": "HOSCH & SCHNEIDER, Specerey, Webergass."
+   },
+   {
+    "n": 5,
+    "text": "MATTHAEUS HUBER, zur eifernen Thür, Spe-"
+   },
+   {
+    "n": 6,
+    "text": "cerey, am Bäumlein."
+   },
+   {
+    "n": 7,
+    "text": "WERNHARD HUBER, Droguerie, Rheinsprung."
+   },
+   {
+    "n": 8,
+    "text": "CHRISTOPH IMHOF, Specerey, Neben St. Ur-"
+   },
+   {
+    "n": 9,
+    "text": "bansbrunnen."
+   },
+   {
+    "n": 10,
+    "text": "KOLB SOHN & BURCKHARDT, Specerey,"
+   },
+   {
+    "n": 11,
+    "text": "neben der Metzig."
+   },
+   {
+    "n": 12,
+    "text": "CASPAR KRUG, Specerey, Unter Freyenstrass."
+   },
+   {
+    "n": 13,
+    "text": "JOHANNES KYBURTH, Specerey und Mine-"
+   },
+   {
+    "n": 14,
+    "text": "ralwaffer, Rheinsprung."
+   },
+   {
+    "n": 15,
+    "text": "EMANUEL de ONOFRION MERIAN, Spece-"
+   },
+   {
+    "n": 16,
+    "text": "rey, auf dem Heuberg."
+   },
+   {
+    "n": 17,
+    "text": "JACOB MIEG SOHN, Specerey, Barfüsserplatz."
+   },
+   {
+    "n": 18,
+    "text": "HIERONIM. MÜLLER, Specerey und Käse, an"
+   },
+   {
+    "n": 19,
+    "text": "der Steinen."
+   },
+   {
+    "n": 20,
+    "text": "JOH. GEORG MÜLLER, Specerey und Käse,"
+   },
+   {
+    "n": 21,
+    "text": "an der Steinen."
+   },
+   {
+    "n": 22,
+    "text": "JOH. JACOB de GEORG MÜLLER, Specerey"
+   },
+   {
+    "n": 23,
+    "text": "und Käse, Grün Pfahlgässel."
+   },
+   {
+    "n": 24,
+    "text": "JOH. JACOB OBERMEYER, Specerey en gros,"
+   },
+   {
+    "n": 25,
+    "text": "Ober Freyenstrass."
+   },
+   {
+    "n": 26,
+    "text": "JOH. HEINRICH OBERRIEDT, zum Schlegel,"
+   },
+   {
+    "n": 27,
+    "text": "Specerey, neben dem Spital."
+   },
+   {
+    "n": 28,
+    "text": "GEBRÜDER OTTO, Specerey &c., Greifengass."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "HOSCH",
+    "forename": "PETER HANS",
+    "title": "",
+    "occupation": "Specerey und Käse",
+    "address": "beym Waaghaus",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "PETER HANS HOSCH, Specerey und Käse, beym Waaghaus."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "firma",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "HOSCH & SCHNEIDER",
+    "forename": "",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Webergass",
+    "quarter": "",
+    "street": "Webergass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "HOSCH & SCHNEIDER, Specerey, Webergass."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "HUBER",
+    "forename": "MATTHAEUS",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "zur eifernen Thür, am Bäumlein",
+    "quarter": "",
+    "street": "am Bäumlein",
+    "house_no": "",
+    "house_name": "zur eifernen Thür",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MATTHAEUS HUBER, zur eifernen Thür, Specerey, am Bäumlein."
+   },
+   {
+    "line_from": 7,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "HUBER",
+    "forename": "WERNHARD",
+    "title": "",
+    "occupation": "Droguerie",
+    "address": "Rheinsprung",
+    "quarter": "",
+    "street": "Rheinsprung",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "WERNHARD HUBER, Droguerie, Rheinsprung."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "IMHOF",
+    "forename": "CHRISTOPH",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Neben St. Urbansbrunnen",
+    "quarter": "",
+    "street": "Neben St. Urbansbrunnen",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRISTOPH IMHOF, Specerey, Neben St. Urbansbrunnen."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "KOLB SOHN & BURCKHARDT",
+    "forename": "",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "neben der Metzig",
+    "quarter": "",
+    "street": "neben der Metzig",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "KOLB SOHN & BURCKHARDT, Specerey, neben der Metzig."
+   },
+   {
+    "line_from": 12,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "KRUG",
+    "forename": "CASPAR",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Unter Freyenstrass",
+    "quarter": "",
+    "street": "Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CASPAR KRUG, Specerey, Unter Freyenstrass."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "KYBURTH",
+    "forename": "JOHANNES",
+    "title": "",
+    "occupation": "Specerey und Mineralwaffer",
+    "address": "Rheinsprung",
+    "quarter": "",
+    "street": "Rheinsprung",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOHANNES KYBURTH, Specerey und Mineralwaffer, Rheinsprung."
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "MERIAN",
+    "forename": "EMANUEL de ONOFRION",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "auf dem Heuberg",
+    "quarter": "",
+    "street": "Heuberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL de ONOFRION MERIAN, Specerey, auf dem Heuberg."
+   },
+   {
+    "line_from": 17,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "MIEG",
+    "forename": "JACOB",
+    "title": "SOHN",
+    "occupation": "Specerey",
+    "address": "Barfüsserplatz",
+    "quarter": "",
+    "street": "Barfüsserplatz",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JACOB MIEG SOHN, Specerey, Barfüsserplatz."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "MÜLLER",
+    "forename": "HIERONIM.",
+    "title": "",
+    "occupation": "Specerey und Käse",
+    "address": "an der Steinen",
+    "quarter": "",
+    "street": "Steinen",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "HIERONIM. MÜLLER, Specerey und Käse, an der Steinen."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "MÜLLER",
+    "forename": "JOH. GEORG",
+    "title": "",
+    "occupation": "Specerey und Käse",
+    "address": "an der Steinen",
+    "quarter": "",
+    "street": "Steinen",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. GEORG MÜLLER, Specerey und Käse, an der Steinen."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "MÜLLER",
+    "forename": "JOH. JACOB de GEORG",
+    "title": "",
+    "occupation": "Specerey und Käse",
+    "address": "Grün Pfahlgässel",
+    "quarter": "",
+    "street": "Grün Pfahlgässel",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB de GEORG MÜLLER, Specerey und Käse, Grün Pfahlgässel."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "OBERMEYER",
+    "forename": "JOH. JACOB",
+    "title": "",
+    "occupation": "Specerey en gros",
+    "address": "Ober Freyenstrass",
+    "quarter": "",
+    "street": "Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB OBERMEYER, Specerey en gros, Ober Freyenstrass."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "OBERRIEDT",
+    "forename": "JOH. HEINRICH",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "zum Schlegel, neben dem Spital",
+    "quarter": "",
+    "street": "neben dem Spital",
+    "house_no": "",
+    "house_name": "zum Schlegel",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. HEINRICH OBERRIEDT, zum Schlegel, Specerey, neben dem Spital."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "firma",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "OTTO",
+    "forename": "",
+    "title": "GEBRÜDER",
+    "occupation": "Specerey &c.",
+    "address": "Greifengass",
+    "quarter": "",
+    "street": "Greifengass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "GEBRÜDER OTTO, Specerey &c., Greifengass."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:38:10+01:00",
+ "last_error": null
+}

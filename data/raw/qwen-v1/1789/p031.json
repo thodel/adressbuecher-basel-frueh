@@ -1,0 +1,442 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 31,
+ "section": "schema",
+ "started": "2026-11-14T15:43:14+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3743,
+  "output": 3079,
+  "thoughts": null
+ },
+ "seconds": 60.6,
+ "response_text": "{\n  \"printed_page\": \"25\",\n  \"running_head\": null,\n  \"lines\": [\n    \"25\",\n    \"JOH. GEORG GASSER, am Kohlenberg.\",\n    \"NICOLAS GASS, an der Webergaß.\",\n    \"GÖTZ & PACK, Saffian, Ober Gerbergaß.\",\n    \"BALTHASAR OSER, Saffian, am Kohlenberg\",\n    \"in der Stampfe.\",\n    \"J. R. SCHILLING, Unter Gerbergaß,\",\n    \"Handschuhmacher.\",\n    \"P. FÄSCH, gegen der Gerber Zunft über.\",\n    \"J. GLATZ, Leonhardsgraben.\",\n    \"ABRAHAM HINDENLANG, thut auch in Ry-\",\n    \"ften, Flachs und andern Waaren, Ober\",\n    \"Freyenstraß.\",\n    \"R. MITZ, Waifengaß.\",\n    \"ÜLRICH KETTERLIN, an der Gerbergaß.\",\n    \"ABRAHAM PREISWERCKH, Schneidergaß.\",\n    \"Bettfedernhändlerinnen.\",\n    \"JOH. RUDOLF GEYMÜLLER feel. Wittwe,\",\n    \"am Blumenrain.\",\n    \"Jungfern LÜDYN, am Kronengässel.\",\n    \"SPRÜNGLIN feel. Wittwe, Unter Freyenstraß.\",\n    \"STRECKEYSEN geborne Steiger, an der Hut-\",\n    \"gaß.\"\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"Saffian\",\n      \"place\": \"Basel\",\n      \"surname\": \"Gasser\",\n      \"forename\": \"Joh. Georg\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"am Kohlenberg\",\n      \"quarter\": \"\",\n      \"street\": \"Kohlenberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. GEORG GASSER, am Kohlenberg.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Saffian\",\n      \"place\": \"Basel\",\n      \"surname\": \"Gass\",\n      \"forename\": \"Nicolas\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"an der Webergaß\",\n      \"quarter\": \"\",\n      \"street\": \"Webergaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"NICOLAS GASS, an der Webergaß.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"firma\",\n      \"heading\": \"Saffian\",\n      \"place\": \"Basel\",\n      \"surname\": \"Götz & Pack\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Saffian\",\n      \"address\": \"Ober Gerbergaß\",\n      \"quarter\": \"\",\n      \"street\": \"Gerbergaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"GÖTZ & PACK, Saffian, Ober Gerbergaß.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Saffian\",\n      \"place\": \"Basel\",\n      \"surname\": \"Oser\",\n      \"forename\": \"Balthasar\",\n      \"title\": \"\",\n      \"occupation\": \"Saffian\",\n      \"address\": \"am Kohlenberg in der Stampfe\",\n      \"quarter\": \"\",\n      \"street\": \"Kohlenberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"in der Stampfe\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BALTHASAR OSER, Saffian, am Kohlenberg in der Stampfe.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Handschuhmacher\",\n      \"place\": \"Basel\",\n      \"surname\": \"Schilling\",\n      \"forename\": \"J. R.\",\n      \"title\": \"\",\n      \"occupation\": \"Handschuhmacher\",\n      \"address\": \"Unter Gerbergaß\",\n      \"quarter\": \"\",\n      \"street\": \"Gerbergaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. R. SCHILLING, Unter Gerbergaß, Handschuhmacher.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Handschuhmacher\",\n      \"place\": \"Basel\",\n      \"surname\": \"Fäsch\",\n      \"forename\": \"P.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"gegen der Gerber Zunft über\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"P. FÄSCH, gegen der Gerber Zunft über.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Handschuhmacher\",\n      \"place\": \"Basel\",\n      \"surname\": \"Glatz\",\n      \"forename\": \"J.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Leonhardsgraben\",\n      \"quarter\": \"\",\n      \"street\": \"Leonhardsgraben\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. GLATZ, Leonhardsgraben.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Handschuhmacher\",\n      \"place\": \"Basel\",\n      \"surname\": \"Hindenlang\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"thut auch in Ryften, Flachs und andern Waaren\",\n      \"address\": \"Ober Freyenstraß\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstraß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ABRAHAM HINDENLANG, thut auch in Ryften, Flachs und andern Waaren, Ober Freyenstraß.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Handschuhmacher\",\n      \"place\": \"Basel\",\n      \"surname\": \"Mitz\",\n      \"forename\": \"R.\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Waifengaß\",\n      \"quarter\": \"\",\n      \"street\": \"Waifengaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"R. MITZ, Waifengaß.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Handschuhmacher\",\n      \"place\": \"Basel\",\n      \"surname\": \"Ketterlin\",\n      \"forename\": \"Ulrich\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"an der Gerbergaß\",\n      \"quarter\": \"\",\n      \"street\": \"Gerbergaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ÜLRICH KETTERLIN, an der Gerbergaß.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Handschuhmacher\",\n      \"place\": \"Basel\",\n      \"surname\": \"Preiswerckh\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Schneidergaß\",\n      \"quarter\": \"\",\n      \"street\": \"Schneidergaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ABRAHAM PREISWERCKH, Schneidergaß.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Bettfedernhändlerinnen\",\n      \"place\": \"Basel\",\n      \"surname\": \"Geymüller\",\n      \"forename\": \"Joh. Rudolf\",\n      \"title\": \"feel. Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"am Blumenrain\",\n      \"quarter\": \"\",\n      \"street\": \"Blumenrain\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. RUDOLF GEYMÜLLER feel. Wittwe, am Blumenrain.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Bettfedernhändlerinnen\",\n      \"place\": \"Basel\",\n      \"surname\": \"Lüdyn\",\n      \"forename\": \"\",\n      \"title\": \"Jungfern\",\n      \"occupation\": \"\",\n      \"address\": \"am Kronengässel\",\n      \"quarter\": \"\",\n      \"street\": \"Kronengässel\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jungfern LÜDYN, am Kronengässel.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Bettfedernhändlerinnen\",\n      \"place\": \"Basel\",\n      \"surname\": \"Sprünglin\",\n      \"forename\": \"\",\n      \"title\": \"feel. Wittwe\",\n      \"occupation\": \"\",\n      \"address\": \"Unter Freyenstraß\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstraß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"SPRÜNGLIN feel. Wittwe, Unter Freyenstraß.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Bettfedernhändlerinnen\",\n      \"place\": \"Basel\",\n      \"surname\": \"Streckeysen\",\n      \"forename\": \"\",\n      \"title\": \"geb. Steiger\",\n      \"occupation\": \"\",\n      \"address\": \"an der Hutgaß\",\n      \"quarter\": \"\",\n      \"street\": \"Hutgaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"STRECKEYSEN geborne Steiger, an der Hutgaß.\"\n    }\n  ],\n  \"first_entry_continues\": true,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "lines_numbered": true,
+ "parsed": {
+  "printed_page": "25",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "25"
+   },
+   {
+    "n": 2,
+    "text": "JOH. GEORG GASSER, am Kohlenberg."
+   },
+   {
+    "n": 3,
+    "text": "NICOLAS GASS, an der Webergaß."
+   },
+   {
+    "n": 4,
+    "text": "GÖTZ & PACK, Saffian, Ober Gerbergaß."
+   },
+   {
+    "n": 5,
+    "text": "BALTHASAR OSER, Saffian, am Kohlenberg"
+   },
+   {
+    "n": 6,
+    "text": "in der Stampfe."
+   },
+   {
+    "n": 7,
+    "text": "J. R. SCHILLING, Unter Gerbergaß,"
+   },
+   {
+    "n": 8,
+    "text": "Handschuhmacher."
+   },
+   {
+    "n": 9,
+    "text": "P. FÄSCH, gegen der Gerber Zunft über."
+   },
+   {
+    "n": 10,
+    "text": "J. GLATZ, Leonhardsgraben."
+   },
+   {
+    "n": 11,
+    "text": "ABRAHAM HINDENLANG, thut auch in Ry-"
+   },
+   {
+    "n": 12,
+    "text": "ften, Flachs und andern Waaren, Ober"
+   },
+   {
+    "n": 13,
+    "text": "Freyenstraß."
+   },
+   {
+    "n": 14,
+    "text": "R. MITZ, Waifengaß."
+   },
+   {
+    "n": 15,
+    "text": "ÜLRICH KETTERLIN, an der Gerbergaß."
+   },
+   {
+    "n": 16,
+    "text": "ABRAHAM PREISWERCKH, Schneidergaß."
+   },
+   {
+    "n": 17,
+    "text": "Bettfedernhändlerinnen."
+   },
+   {
+    "n": 18,
+    "text": "JOH. RUDOLF GEYMÜLLER feel. Wittwe,"
+   },
+   {
+    "n": 19,
+    "text": "am Blumenrain."
+   },
+   {
+    "n": 20,
+    "text": "Jungfern LÜDYN, am Kronengässel."
+   },
+   {
+    "n": 21,
+    "text": "SPRÜNGLIN feel. Wittwe, Unter Freyenstraß."
+   },
+   {
+    "n": 22,
+    "text": "STRECKEYSEN geborne Steiger, an der Hut-"
+   },
+   {
+    "n": 23,
+    "text": "gaß."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "Saffian",
+    "place": "Basel",
+    "surname": "Gasser",
+    "forename": "Joh. Georg",
+    "title": "",
+    "occupation": "",
+    "address": "am Kohlenberg",
+    "quarter": "",
+    "street": "Kohlenberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. GEORG GASSER, am Kohlenberg."
+   },
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Saffian",
+    "place": "Basel",
+    "surname": "Gass",
+    "forename": "Nicolas",
+    "title": "",
+    "occupation": "",
+    "address": "an der Webergaß",
+    "quarter": "",
+    "street": "Webergaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "NICOLAS GASS, an der Webergaß."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "firma",
+    "heading": "Saffian",
+    "place": "Basel",
+    "surname": "Götz & Pack",
+    "forename": "",
+    "title": "",
+    "occupation": "Saffian",
+    "address": "Ober Gerbergaß",
+    "quarter": "",
+    "street": "Gerbergaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "GÖTZ & PACK, Saffian, Ober Gerbergaß."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Saffian",
+    "place": "Basel",
+    "surname": "Oser",
+    "forename": "Balthasar",
+    "title": "",
+    "occupation": "Saffian",
+    "address": "am Kohlenberg in der Stampfe",
+    "quarter": "",
+    "street": "Kohlenberg",
+    "house_no": "",
+    "house_name": "in der Stampfe",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BALTHASAR OSER, Saffian, am Kohlenberg in der Stampfe."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Handschuhmacher",
+    "place": "Basel",
+    "surname": "Schilling",
+    "forename": "J. R.",
+    "title": "",
+    "occupation": "Handschuhmacher",
+    "address": "Unter Gerbergaß",
+    "quarter": "",
+    "street": "Gerbergaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. R. SCHILLING, Unter Gerbergaß, Handschuhmacher."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Handschuhmacher",
+    "place": "Basel",
+    "surname": "Fäsch",
+    "forename": "P.",
+    "title": "",
+    "occupation": "",
+    "address": "gegen der Gerber Zunft über",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "P. FÄSCH, gegen der Gerber Zunft über."
+   },
+   {
+    "line_from": 10,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Handschuhmacher",
+    "place": "Basel",
+    "surname": "Glatz",
+    "forename": "J.",
+    "title": "",
+    "occupation": "",
+    "address": "Leonhardsgraben",
+    "quarter": "",
+    "street": "Leonhardsgraben",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. GLATZ, Leonhardsgraben."
+   },
+   {
+    "line_from": 11,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Handschuhmacher",
+    "place": "Basel",
+    "surname": "Hindenlang",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "thut auch in Ryften, Flachs und andern Waaren",
+    "address": "Ober Freyenstraß",
+    "quarter": "",
+    "street": "Freyenstraß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ABRAHAM HINDENLANG, thut auch in Ryften, Flachs und andern Waaren, Ober Freyenstraß."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Handschuhmacher",
+    "place": "Basel",
+    "surname": "Mitz",
+    "forename": "R.",
+    "title": "",
+    "occupation": "",
+    "address": "Waifengaß",
+    "quarter": "",
+    "street": "Waifengaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "R. MITZ, Waifengaß."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Handschuhmacher",
+    "place": "Basel",
+    "surname": "Ketterlin",
+    "forename": "Ulrich",
+    "title": "",
+    "occupation": "",
+    "address": "an der Gerbergaß",
+    "quarter": "",
+    "street": "Gerbergaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ÜLRICH KETTERLIN, an der Gerbergaß."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Handschuhmacher",
+    "place": "Basel",
+    "surname": "Preiswerckh",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "",
+    "address": "Schneidergaß",
+    "quarter": "",
+    "street": "Schneidergaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ABRAHAM PREISWERCKH, Schneidergaß."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Bettfedernhändlerinnen",
+    "place": "Basel",
+    "surname": "Geymüller",
+    "forename": "Joh. Rudolf",
+    "title": "feel. Wittwe",
+    "occupation": "",
+    "address": "am Blumenrain",
+    "quarter": "",
+    "street": "Blumenrain",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. RUDOLF GEYMÜLLER feel. Wittwe, am Blumenrain."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Bettfedernhändlerinnen",
+    "place": "Basel",
+    "surname": "Lüdyn",
+    "forename": "",
+    "title": "Jungfern",
+    "occupation": "",
+    "address": "am Kronengässel",
+    "quarter": "",
+    "street": "Kronengässel",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jungfern LÜDYN, am Kronengässel."
+   },
+   {
+    "line_from": 21,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Bettfedernhändlerinnen",
+    "place": "Basel",
+    "surname": "Sprünglin",
+    "forename": "",
+    "title": "feel. Wittwe",
+    "occupation": "",
+    "address": "Unter Freyenstraß",
+    "quarter": "",
+    "street": "Freyenstraß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "SPRÜNGLIN feel. Wittwe, Unter Freyenstraß."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Bettfedernhändlerinnen",
+    "place": "Basel",
+    "surname": "Streckeysen",
+    "forename": "",
+    "title": "geb. Steiger",
+    "occupation": "",
+    "address": "an der Hutgaß",
+    "quarter": "",
+    "street": "Hutgaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "STRECKEYSEN geborne Steiger, an der Hutgaß."
+   }
+  ],
+  "first_entry_continues": true,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:44:15+01:00",
+ "last_error": null
+}

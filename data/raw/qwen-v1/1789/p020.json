@@ -1,0 +1,470 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 20,
+ "section": "schema",
+ "started": "2026-11-14T15:37:42+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3626,
+  "output": 3441,
+  "thoughts": null
+ },
+ "seconds": 63.8,
+ "response_text": "{\n  \"printed_page\": \"14\",\n  \"running_head\": null,\n  \"lines\": [\n    \"14\",\n    \"JOH. RUDOLF PREISWERCKH jünger, Spe-\",\n    \"cerey und Hanf, Fischmarktgaßfel.\",\n    \"NICOLAS REBER, zum Agstein, Specerey en\",\n    \"gros und Krapp, Martingäßfel.\",\n    \"LUDWIG de LEONHARD RESPINGER, zum\",\n    \"mittlern Laden, Specerey, Sporngaßs.\",\n    \"LUDWIG RESPINGER, zum Nußbaum, Spe-\",\n    \"cerey, Sporngaßs.\",\n    \"LUDWIG & BENED. RESPINGER, zum Kra-\",\n    \"nich, Specerey en gros & en détail,\",\n    \"Sporngaßs.\",\n    \"LEONHARD RESPINGER & SOHN, zum Ber-\",\n    \"ner, Specerey, Unter Freyenstrass.\",\n    \"JOHANN RIPPEL, Specerey, Aescher Vorstadt.\",\n    \"JOH. JACOB RIPPEL älter, Specerey, Ger-\",\n    \"bergaßs.\",\n    \"ABR. & JOH. ANDREAS ROSCHET, zum\",\n    \"Lämmlein, Specerey, Spalenberg.\",\n    \"ISAAC ROSCHET, Specerey, Kornmarkt.\",\n    \"PETER ROSENBURGER, Specerey, St. Alban\",\n    \"Vorstadt.\",\n    \"SAMUEL de PETER RYHINER, Specerey und\",\n    \"Farbwaaren, Spiegelgaßlein.\",\n    \"EMANUEL SCHERB, zum Rebstock, Specerey\",\n    \"und Porcelaine, gegen der Metzig über.\",\n    \"ABRAHAM SCHLEGEL, Specerey und Tabak,\",\n    \"Eifengaßs.\",\n    \"ALBRECHT SCHNEIDER, Specerey, Barfüßer-\",\n    \"platz.\"\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"PREISWERCKH\",\n      \"forename\": \"JOH. RUDOLF\",\n      \"title\": \"jünger\",\n      \"occupation\": \"Specerey und Hanf\",\n      \"address\": \"Fischmarktgaßfel.\",\n      \"quarter\": \"\",\n      \"street\": \"Fischmarktgaßfel.\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. RUDOLF PREISWERCKH jünger, Specerey und Hanf, Fischmarktgaßfel.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 5,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"REBER\",\n      \"forename\": \"NICOLAS\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey en gros und Krapp\",\n      \"address\": \"zum Agstein, Martingäßfel.\",\n      \"quarter\": \"\",\n      \"street\": \"Martingäßfel.\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Agstein\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"NICOLAS REBER, zum Agstein, Specerey en gros und Krapp, Martingäßfel.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 7,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"RESPINGER\",\n      \"forename\": \"LUDWIG de LEONHARD\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"zum mittlern Laden, Sporngaßs.\",\n      \"quarter\": \"\",\n      \"street\": \"Sporngaßs.\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum mittlern Laden\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LUDWIG de LEONHARD RESPINGER, zum mittlern Laden, Specerey, Sporngaßs.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"RESPINGER\",\n      \"forename\": \"LUDWIG\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"zum Nußbaum, Sporngaßs.\",\n      \"quarter\": \"\",\n      \"street\": \"Sporngaßs.\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Nußbaum\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LUDWIG RESPINGER, zum Nußbaum, Specerey, Sporngaßs.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 12,\n      \"kind\": \"firma\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"RESPINGER\",\n      \"forename\": \"LUDWIG & BENED.\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey en gros & en détail\",\n      \"address\": \"zum Kranich, Sporngaßs.\",\n      \"quarter\": \"\",\n      \"street\": \"Sporngaßs.\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Kranich\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LUDWIG & BENED. RESPINGER, zum Kranich, Specerey en gros & en détail, Sporngaßs.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"firma\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"RESPINGER\",\n      \"forename\": \"LEONHARD\",\n      \"title\": \"& SOHN\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"zum Berner, Unter Freyenstrass.\",\n      \"quarter\": \"\",\n      \"street\": \"Unter Freyenstrass.\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Berner\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LEONHARD RESPINGER & SOHN, zum Berner, Specerey, Unter Freyenstrass.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"RIPPEL\",\n      \"forename\": \"JOHANN\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Aescher Vorstadt.\",\n      \"quarter\": \"Aescher Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOHANN RIPPEL, Specerey, Aescher Vorstadt.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"RIPPEL\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"älter\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Gerbergaßs.\",\n      \"quarter\": \"\",\n      \"street\": \"Gerbergaßs.\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB RIPPEL älter, Specerey, Gerbergaßs.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"firma\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"ROSCHET\",\n      \"forename\": \"ABR. & JOH. ANDREAS\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"zum Lämmlein, Spalenberg.\",\n      \"quarter\": \"\",\n      \"street\": \"Spalenberg.\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Lämmlein\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ABR. & JOH. ANDREAS ROSCHET, zum Lämmlein, Specerey, Spalenberg.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"ROSCHET\",\n      \"forename\": \"ISAAC\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Kornmarkt.\",\n      \"quarter\": \"\",\n      \"street\": \"Kornmarkt.\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ISAAC ROSCHET, Specerey, Kornmarkt.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"ROSENBURGER\",\n      \"forename\": \"PETER\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"St. Alban Vorstadt.\",\n      \"quarter\": \"St. Alban Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"PETER ROSENBURGER, Specerey, St. Alban Vorstadt.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"RYHINER\",\n      \"forename\": \"SAMUEL de PETER\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Farbwaaren\",\n      \"address\": \"Spiegelgaßlein.\",\n      \"quarter\": \"\",\n      \"street\": \"Spiegelgaßlein.\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"SAMUEL de PETER RYHINER, Specerey und Farbwaaren, Spiegelgaßlein.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHERB\",\n      \"forename\": \"EMANUEL\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Porcelaine\",\n      \"address\": \"zum Rebstock, gegen der Metzig über.\",\n      \"quarter\": \"\",\n      \"street\": \"gegen der Metzig über.\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Rebstock\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL SCHERB, zum Rebstock, Specerey und Porcelaine, gegen der Metzig über.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHLEGEL\",\n      \"forename\": \"ABRAHAM\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Tabak\",\n      \"address\": \"Eifengaßs.\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengaßs.\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ABRAHAM SCHLEGEL, Specerey und Tabak, Eifengaßs.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 30,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHNEIDER\",\n      \"forename\": \"ALBRECHT\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Barfüßerplatz.\",\n      \"quarter\": \"\",\n      \"street\": \"Barfüßerplatz.\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ALBRECHT SCHNEIDER, Specerey, Barfüßerplatz.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "lines_numbered": true,
+ "parsed": {
+  "printed_page": "14",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "14"
+   },
+   {
+    "n": 2,
+    "text": "JOH. RUDOLF PREISWERCKH jünger, Spe-"
+   },
+   {
+    "n": 3,
+    "text": "cerey und Hanf, Fischmarktgaßfel."
+   },
+   {
+    "n": 4,
+    "text": "NICOLAS REBER, zum Agstein, Specerey en"
+   },
+   {
+    "n": 5,
+    "text": "gros und Krapp, Martingäßfel."
+   },
+   {
+    "n": 6,
+    "text": "LUDWIG de LEONHARD RESPINGER, zum"
+   },
+   {
+    "n": 7,
+    "text": "mittlern Laden, Specerey, Sporngaßs."
+   },
+   {
+    "n": 8,
+    "text": "LUDWIG RESPINGER, zum Nußbaum, Spe-"
+   },
+   {
+    "n": 9,
+    "text": "cerey, Sporngaßs."
+   },
+   {
+    "n": 10,
+    "text": "LUDWIG & BENED. RESPINGER, zum Kra-"
+   },
+   {
+    "n": 11,
+    "text": "nich, Specerey en gros & en détail,"
+   },
+   {
+    "n": 12,
+    "text": "Sporngaßs."
+   },
+   {
+    "n": 13,
+    "text": "LEONHARD RESPINGER & SOHN, zum Ber-"
+   },
+   {
+    "n": 14,
+    "text": "ner, Specerey, Unter Freyenstrass."
+   },
+   {
+    "n": 15,
+    "text": "JOHANN RIPPEL, Specerey, Aescher Vorstadt."
+   },
+   {
+    "n": 16,
+    "text": "JOH. JACOB RIPPEL älter, Specerey, Ger-"
+   },
+   {
+    "n": 17,
+    "text": "bergaßs."
+   },
+   {
+    "n": 18,
+    "text": "ABR. & JOH. ANDREAS ROSCHET, zum"
+   },
+   {
+    "n": 19,
+    "text": "Lämmlein, Specerey, Spalenberg."
+   },
+   {
+    "n": 20,
+    "text": "ISAAC ROSCHET, Specerey, Kornmarkt."
+   },
+   {
+    "n": 21,
+    "text": "PETER ROSENBURGER, Specerey, St. Alban"
+   },
+   {
+    "n": 22,
+    "text": "Vorstadt."
+   },
+   {
+    "n": 23,
+    "text": "SAMUEL de PETER RYHINER, Specerey und"
+   },
+   {
+    "n": 24,
+    "text": "Farbwaaren, Spiegelgaßlein."
+   },
+   {
+    "n": 25,
+    "text": "EMANUEL SCHERB, zum Rebstock, Specerey"
+   },
+   {
+    "n": 26,
+    "text": "und Porcelaine, gegen der Metzig über."
+   },
+   {
+    "n": 27,
+    "text": "ABRAHAM SCHLEGEL, Specerey und Tabak,"
+   },
+   {
+    "n": 28,
+    "text": "Eifengaßs."
+   },
+   {
+    "n": 29,
+    "text": "ALBRECHT SCHNEIDER, Specerey, Barfüßer-"
+   },
+   {
+    "n": 30,
+    "text": "platz."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "PREISWERCKH",
+    "forename": "JOH. RUDOLF",
+    "title": "jünger",
+    "occupation": "Specerey und Hanf",
+    "address": "Fischmarktgaßfel.",
+    "quarter": "",
+    "street": "Fischmarktgaßfel.",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. RUDOLF PREISWERCKH jünger, Specerey und Hanf, Fischmarktgaßfel."
+   },
+   {
+    "line_from": 4,
+    "line_to": 5,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "REBER",
+    "forename": "NICOLAS",
+    "title": "",
+    "occupation": "Specerey en gros und Krapp",
+    "address": "zum Agstein, Martingäßfel.",
+    "quarter": "",
+    "street": "Martingäßfel.",
+    "house_no": "",
+    "house_name": "zum Agstein",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "NICOLAS REBER, zum Agstein, Specerey en gros und Krapp, Martingäßfel."
+   },
+   {
+    "line_from": 6,
+    "line_to": 7,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "RESPINGER",
+    "forename": "LUDWIG de LEONHARD",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "zum mittlern Laden, Sporngaßs.",
+    "quarter": "",
+    "street": "Sporngaßs.",
+    "house_no": "",
+    "house_name": "zum mittlern Laden",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LUDWIG de LEONHARD RESPINGER, zum mittlern Laden, Specerey, Sporngaßs."
+   },
+   {
+    "line_from": 8,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "RESPINGER",
+    "forename": "LUDWIG",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "zum Nußbaum, Sporngaßs.",
+    "quarter": "",
+    "street": "Sporngaßs.",
+    "house_no": "",
+    "house_name": "zum Nußbaum",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LUDWIG RESPINGER, zum Nußbaum, Specerey, Sporngaßs."
+   },
+   {
+    "line_from": 10,
+    "line_to": 12,
+    "kind": "firma",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "RESPINGER",
+    "forename": "LUDWIG & BENED.",
+    "title": "",
+    "occupation": "Specerey en gros & en détail",
+    "address": "zum Kranich, Sporngaßs.",
+    "quarter": "",
+    "street": "Sporngaßs.",
+    "house_no": "",
+    "house_name": "zum Kranich",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LUDWIG & BENED. RESPINGER, zum Kranich, Specerey en gros & en détail, Sporngaßs."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "firma",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "RESPINGER",
+    "forename": "LEONHARD",
+    "title": "& SOHN",
+    "occupation": "Specerey",
+    "address": "zum Berner, Unter Freyenstrass.",
+    "quarter": "",
+    "street": "Unter Freyenstrass.",
+    "house_no": "",
+    "house_name": "zum Berner",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LEONHARD RESPINGER & SOHN, zum Berner, Specerey, Unter Freyenstrass."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "RIPPEL",
+    "forename": "JOHANN",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Aescher Vorstadt.",
+    "quarter": "Aescher Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOHANN RIPPEL, Specerey, Aescher Vorstadt."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "RIPPEL",
+    "forename": "JOH. JACOB",
+    "title": "älter",
+    "occupation": "Specerey",
+    "address": "Gerbergaßs.",
+    "quarter": "",
+    "street": "Gerbergaßs.",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB RIPPEL älter, Specerey, Gerbergaßs."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "firma",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "ROSCHET",
+    "forename": "ABR. & JOH. ANDREAS",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "zum Lämmlein, Spalenberg.",
+    "quarter": "",
+    "street": "Spalenberg.",
+    "house_no": "",
+    "house_name": "zum Lämmlein",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ABR. & JOH. ANDREAS ROSCHET, zum Lämmlein, Specerey, Spalenberg."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "ROSCHET",
+    "forename": "ISAAC",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Kornmarkt.",
+    "quarter": "",
+    "street": "Kornmarkt.",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ISAAC ROSCHET, Specerey, Kornmarkt."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "ROSENBURGER",
+    "forename": "PETER",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "St. Alban Vorstadt.",
+    "quarter": "St. Alban Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "PETER ROSENBURGER, Specerey, St. Alban Vorstadt."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "RYHINER",
+    "forename": "SAMUEL de PETER",
+    "title": "",
+    "occupation": "Specerey und Farbwaaren",
+    "address": "Spiegelgaßlein.",
+    "quarter": "",
+    "street": "Spiegelgaßlein.",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "SAMUEL de PETER RYHINER, Specerey und Farbwaaren, Spiegelgaßlein."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "SCHERB",
+    "forename": "EMANUEL",
+    "title": "",
+    "occupation": "Specerey und Porcelaine",
+    "address": "zum Rebstock, gegen der Metzig über.",
+    "quarter": "",
+    "street": "gegen der Metzig über.",
+    "house_no": "",
+    "house_name": "zum Rebstock",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL SCHERB, zum Rebstock, Specerey und Porcelaine, gegen der Metzig über."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "SCHLEGEL",
+    "forename": "ABRAHAM",
+    "title": "",
+    "occupation": "Specerey und Tabak",
+    "address": "Eifengaßs.",
+    "quarter": "",
+    "street": "Eifengaßs.",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ABRAHAM SCHLEGEL, Specerey und Tabak, Eifengaßs."
+   },
+   {
+    "line_from": 29,
+    "line_to": 30,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "SCHNEIDER",
+    "forename": "ALBRECHT",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Barfüßerplatz.",
+    "quarter": "",
+    "street": "Barfüßerplatz.",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ALBRECHT SCHNEIDER, Specerey, Barfüßerplatz."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:38:46+01:00",
+ "last_error": null
+}

@@ -1,0 +1,357 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 33,
+ "section": "schema",
+ "started": "2026-11-14T15:44:19+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3743,
+  "output": 2665,
+  "thoughts": null
+ },
+ "seconds": 47.9,
+ "response_text": "{\n  \"printed_page\": \"27\",\n  \"running_head\": null,\n  \"lines\": [\n    {\"n\": 1, \"text\": \"27\"},\n    {\"n\": 2, \"text\": \"Streichenmacher.\"},\n    {\"n\": 3, \"text\": \"CHRISTOPH LEUTIN, beym Aescher Schwib-\"},\n    {\"n\": 4, \"text\": \"bogen.\"},\n    {\"n\": 5, \"text\": \"Pergamenter.\"},\n    {\"n\": 6, \"text\": \"PETER LINDENMEYER, Barfüsserplatz.\"},\n    {\"n\": 7, \"text\": \"Gasthöfe in Gross-Basel.\"},\n    {\"n\": 8, \"text\": \"ANDREAS ROCHET, zur Blume, Blumenstrass,\"},\n    {\"n\": 9, \"text\": \"JACOB CASPAR HAUSER, zur Krone, an der\"},\n    {\"n\": 10, \"text\": \"Schifflände.\"},\n    {\"n\": 11, \"text\": \"LUDWIG ISELIN, zu Drey Königen, am Blu-\"},\n    {\"n\": 12, \"text\": \"menrain.\"},\n    {\"n\": 13, \"text\": \"PETER HANS HOSCH, zum Kopf, an der\"},\n    {\"n\": 14, \"text\": \"Schifflände,\"},\n    {\"n\": 15, \"text\": \"CHRISTOPH IMHOF, zum Schiff, Barfüsser-\"},\n    {\"n\": 16, \"text\": \"platz.\"},\n    {\"n\": 17, \"text\": \"EMANUEL LINDER, zum Schnabel, Rinder-\"},\n    {\"n\": 18, \"text\": \"markt.\"},\n    {\"n\": 19, \"text\": \"JOH. HOCH, zum Schwanen, Fischmarkt.\"},\n    {\"n\": 20, \"text\": \"WITTWE BIENTZ, zum schwarzen Bären,\"},\n    {\"n\": 21, \"text\": \"Aescher Vorstadt.\"},\n    {\"n\": 22, \"text\": \"GREGORIUS SCHULER, zum schwarzen Och-\"},\n    {\"n\": 23, \"text\": \"sen, Spalen Vorstadt.\"}\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 3,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Streichenmacher\",\n      \"place\": \"Basel\",\n      \"surname\": \"LEUTIN\",\n      \"forename\": \"CHRISTOPH\",\n      \"title\": \"\",\n      \"occupation\": \"Streichenmacher\",\n      \"address\": \"beym Aescher Schwibbogen\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRISTOPH LEUTIN, beym Aescher Schwibbogen.\"\n    },\n    {\n      \"line_from\": 6,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Pergamenter\",\n      \"place\": \"Basel\",\n      \"surname\": \"LINDENMEYER\",\n      \"forename\": \"PETER\",\n      \"title\": \"\",\n      \"occupation\": \"Pergamenter\",\n      \"address\": \"Barfüsserplatz\",\n      \"quarter\": \"\",\n      \"street\": \"Barfüsserplatz\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"PETER LINDENMEYER, Barfüsserplatz.\"\n    },\n    {\n      \"line_from\": 8,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Gasthöfe in Gross-Basel\",\n      \"place\": \"Basel\",\n      \"surname\": \"ROCHET\",\n      \"forename\": \"ANDREAS\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirt\",\n      \"address\": \"Blumenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Blumenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"zur Blume\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ANDREAS ROCHET, zur Blume, Blumenstrass,\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Gasthöfe in Gross-Basel\",\n      \"place\": \"Basel\",\n      \"surname\": \"HAUSER\",\n      \"forename\": \"JACOB CASPAR\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirt\",\n      \"address\": \"an der Schifflände\",\n      \"quarter\": \"\",\n      \"street\": \"Schifflände\",\n      \"house_no\": \"\",\n      \"house_name\": \"zur Krone\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JACOB CASPAR HAUSER, zur Krone, an der Schifflände.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Gasthöfe in Gross-Basel\",\n      \"place\": \"Basel\",\n      \"surname\": \"ISELIN\",\n      \"forename\": \"LUDWIG\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirt\",\n      \"address\": \"am Blumenrain\",\n      \"quarter\": \"\",\n      \"street\": \"Blumenrain\",\n      \"house_no\": \"\",\n      \"house_name\": \"zu Drey Königen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LUDWIG ISELIN, zu Drey Königen, am Blumenrain.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Gasthöfe in Gross-Basel\",\n      \"place\": \"Basel\",\n      \"surname\": \"HOSCH\",\n      \"forename\": \"PETER HANS\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirt\",\n      \"address\": \"an der Schifflände\",\n      \"quarter\": \"\",\n      \"street\": \"Schifflände\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Kopf\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"PETER HANS HOSCH, zum Kopf, an der Schifflände,\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Gasthöfe in Gross-Basel\",\n      \"place\": \"Basel\",\n      \"surname\": \"IMHOF\",\n      \"forename\": \"CHRISTOPH\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirt\",\n      \"address\": \"Barfüsserplatz\",\n      \"quarter\": \"\",\n      \"street\": \"Barfüsserplatz\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Schiff\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRISTOPH IMHOF, zum Schiff, Barfüsserplatz.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Gasthöfe in Gross-Basel\",\n      \"place\": \"Basel\",\n      \"surname\": \"LINDER\",\n      \"forename\": \"EMANUEL\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirt\",\n      \"address\": \"Rindermarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Rindermarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Schnabel\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL LINDER, zum Schnabel, Rindermarkt.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Gasthöfe in Gross-Basel\",\n      \"place\": \"Basel\",\n      \"surname\": \"HOCH\",\n      \"forename\": \"JOH.\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirt\",\n      \"address\": \"Fischmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Fischmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Schwanen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. HOCH, zum Schwanen, Fischmarkt.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Gasthöfe in Gross-Basel\",\n      \"place\": \"Basel\",\n      \"surname\": \"BIENTZ\",\n      \"forename\": \"\",\n      \"title\": \"WITTWE\",\n      \"occupation\": \"Gastwirtin\",\n      \"address\": \"Aescher Vorstadt\",\n      \"quarter\": \"Aescher Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum schwarzen Bären\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"WITTWE BIENTZ, zum schwarzen Bären, Aescher Vorstadt.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Gasthöfe in Gross-Basel\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHULER\",\n      \"forename\": \"GREGORIUS\",\n      \"title\": \"\",\n      \"occupation\": \"Gastwirt\",\n      \"address\": \"Spalen Vorstadt\",\n      \"quarter\": \"Spalen Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum schwarzen Ochsen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"GREGORIUS SCHULER, zum schwarzen Ochsen, Spalen Vorstadt.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "parsed": {
+  "printed_page": "27",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "27"
+   },
+   {
+    "n": 2,
+    "text": "Streichenmacher."
+   },
+   {
+    "n": 3,
+    "text": "CHRISTOPH LEUTIN, beym Aescher Schwib-"
+   },
+   {
+    "n": 4,
+    "text": "bogen."
+   },
+   {
+    "n": 5,
+    "text": "Pergamenter."
+   },
+   {
+    "n": 6,
+    "text": "PETER LINDENMEYER, Barfüsserplatz."
+   },
+   {
+    "n": 7,
+    "text": "Gasthöfe in Gross-Basel."
+   },
+   {
+    "n": 8,
+    "text": "ANDREAS ROCHET, zur Blume, Blumenstrass,"
+   },
+   {
+    "n": 9,
+    "text": "JACOB CASPAR HAUSER, zur Krone, an der"
+   },
+   {
+    "n": 10,
+    "text": "Schifflände."
+   },
+   {
+    "n": 11,
+    "text": "LUDWIG ISELIN, zu Drey Königen, am Blu-"
+   },
+   {
+    "n": 12,
+    "text": "menrain."
+   },
+   {
+    "n": 13,
+    "text": "PETER HANS HOSCH, zum Kopf, an der"
+   },
+   {
+    "n": 14,
+    "text": "Schifflände,"
+   },
+   {
+    "n": 15,
+    "text": "CHRISTOPH IMHOF, zum Schiff, Barfüsser-"
+   },
+   {
+    "n": 16,
+    "text": "platz."
+   },
+   {
+    "n": 17,
+    "text": "EMANUEL LINDER, zum Schnabel, Rinder-"
+   },
+   {
+    "n": 18,
+    "text": "markt."
+   },
+   {
+    "n": 19,
+    "text": "JOH. HOCH, zum Schwanen, Fischmarkt."
+   },
+   {
+    "n": 20,
+    "text": "WITTWE BIENTZ, zum schwarzen Bären,"
+   },
+   {
+    "n": 21,
+    "text": "Aescher Vorstadt."
+   },
+   {
+    "n": 22,
+    "text": "GREGORIUS SCHULER, zum schwarzen Och-"
+   },
+   {
+    "n": 23,
+    "text": "sen, Spalen Vorstadt."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 3,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Streichenmacher",
+    "place": "Basel",
+    "surname": "LEUTIN",
+    "forename": "CHRISTOPH",
+    "title": "",
+    "occupation": "Streichenmacher",
+    "address": "beym Aescher Schwibbogen",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRISTOPH LEUTIN, beym Aescher Schwibbogen."
+   },
+   {
+    "line_from": 6,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Pergamenter",
+    "place": "Basel",
+    "surname": "LINDENMEYER",
+    "forename": "PETER",
+    "title": "",
+    "occupation": "Pergamenter",
+    "address": "Barfüsserplatz",
+    "quarter": "",
+    "street": "Barfüsserplatz",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "PETER LINDENMEYER, Barfüsserplatz."
+   },
+   {
+    "line_from": 8,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Gasthöfe in Gross-Basel",
+    "place": "Basel",
+    "surname": "ROCHET",
+    "forename": "ANDREAS",
+    "title": "",
+    "occupation": "Gastwirt",
+    "address": "Blumenstrass",
+    "quarter": "",
+    "street": "Blumenstrass",
+    "house_no": "",
+    "house_name": "zur Blume",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ANDREAS ROCHET, zur Blume, Blumenstrass,"
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Gasthöfe in Gross-Basel",
+    "place": "Basel",
+    "surname": "HAUSER",
+    "forename": "JACOB CASPAR",
+    "title": "",
+    "occupation": "Gastwirt",
+    "address": "an der Schifflände",
+    "quarter": "",
+    "street": "Schifflände",
+    "house_no": "",
+    "house_name": "zur Krone",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JACOB CASPAR HAUSER, zur Krone, an der Schifflände."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Gasthöfe in Gross-Basel",
+    "place": "Basel",
+    "surname": "ISELIN",
+    "forename": "LUDWIG",
+    "title": "",
+    "occupation": "Gastwirt",
+    "address": "am Blumenrain",
+    "quarter": "",
+    "street": "Blumenrain",
+    "house_no": "",
+    "house_name": "zu Drey Königen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LUDWIG ISELIN, zu Drey Königen, am Blumenrain."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Gasthöfe in Gross-Basel",
+    "place": "Basel",
+    "surname": "HOSCH",
+    "forename": "PETER HANS",
+    "title": "",
+    "occupation": "Gastwirt",
+    "address": "an der Schifflände",
+    "quarter": "",
+    "street": "Schifflände",
+    "house_no": "",
+    "house_name": "zum Kopf",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "PETER HANS HOSCH, zum Kopf, an der Schifflände,"
+   },
+   {
+    "line_from": 15,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Gasthöfe in Gross-Basel",
+    "place": "Basel",
+    "surname": "IMHOF",
+    "forename": "CHRISTOPH",
+    "title": "",
+    "occupation": "Gastwirt",
+    "address": "Barfüsserplatz",
+    "quarter": "",
+    "street": "Barfüsserplatz",
+    "house_no": "",
+    "house_name": "zum Schiff",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRISTOPH IMHOF, zum Schiff, Barfüsserplatz."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Gasthöfe in Gross-Basel",
+    "place": "Basel",
+    "surname": "LINDER",
+    "forename": "EMANUEL",
+    "title": "",
+    "occupation": "Gastwirt",
+    "address": "Rindermarkt",
+    "quarter": "",
+    "street": "Rindermarkt",
+    "house_no": "",
+    "house_name": "zum Schnabel",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL LINDER, zum Schnabel, Rindermarkt."
+   },
+   {
+    "line_from": 19,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Gasthöfe in Gross-Basel",
+    "place": "Basel",
+    "surname": "HOCH",
+    "forename": "JOH.",
+    "title": "",
+    "occupation": "Gastwirt",
+    "address": "Fischmarkt",
+    "quarter": "",
+    "street": "Fischmarkt",
+    "house_no": "",
+    "house_name": "zum Schwanen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. HOCH, zum Schwanen, Fischmarkt."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Gasthöfe in Gross-Basel",
+    "place": "Basel",
+    "surname": "BIENTZ",
+    "forename": "",
+    "title": "WITTWE",
+    "occupation": "Gastwirtin",
+    "address": "Aescher Vorstadt",
+    "quarter": "Aescher Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "zum schwarzen Bären",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "WITTWE BIENTZ, zum schwarzen Bären, Aescher Vorstadt."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Gasthöfe in Gross-Basel",
+    "place": "Basel",
+    "surname": "SCHULER",
+    "forename": "GREGORIUS",
+    "title": "",
+    "occupation": "Gastwirt",
+    "address": "Spalen Vorstadt",
+    "quarter": "Spalen Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "zum schwarzen Ochsen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "GREGORIUS SCHULER, zum schwarzen Ochsen, Spalen Vorstadt."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:45:06+01:00",
+ "last_error": null
+}

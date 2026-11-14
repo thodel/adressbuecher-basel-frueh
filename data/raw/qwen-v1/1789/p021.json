@@ -1,0 +1,437 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 21,
+ "section": "schema",
+ "started": "2026-11-14T15:38:10+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3626,
+  "output": 3105,
+  "thoughts": null
+ },
+ "seconds": 60.2,
+ "response_text": "{\n  \"printed_page\": \"15\",\n  \"running_head\": null,\n  \"lines\": [\n    \"15\",\n    \"PETER SOCIN, Specerey, St. Alban Vorstadt.\",\n    \"von SPEYR, Specerey und Käse, Hutgafs.\",\n    \"CHRISTIAN SPINDLER, Specerey, Webergafs.\",\n    \"BALTHASAR STEHELIN jünger, Specerey en\",\n    \"gros und Commission, Streitgafs.\",\n    \"MARTIN STEHELIN, Specerey, neben dem\",\n    \"Spalenthorn.\",\n    \"MATTHIAS STRECKEYSEN, Specerey en gros,\",\n    \"Ober Freyenstrass.\",\n    \"ANDREAS SULGER, die Hauptfache ist Tabak,\",\n    \"Ober Freyenstrass.\",\n    \"JOHANN THELLUSSON feel. Wittwe, Specerey\",\n    \"und Porcelaine, Blumenrain.\",\n    \"JOH. JACOB VEST, Specerey, beym Eselthurn.\",\n    \"JOH. JACOB VISCHER, im Winkel, Specerey\",\n    \"en gros, hinterm Münster.\",\n    \"PETER VISCHER, zur Gems, Spalenberg.\",\n    \"MARTIN WENCK älter, hat einen starken\",\n    \"Handel in Juchten, neben der kleinen\",\n    \"Metzig.\",\n    \"MARTIN WENCK jünger, hat einen starken\",\n    \"Handel in Bergerthran, neben der klei-\",\n    \"nen Metzig.\",\n    \"Wollen Tuch- und Stoffhandlungen.\",\n    \"JOH. JACOB BISCHOF älter, in wollen feinen\",\n    \"Tüchern, hinter dem Münster.\"\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 2,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"SOCIN\",\n      \"forename\": \"PETER\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"St. Alban Vorstadt\",\n      \"quarter\": \"St. Alban Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"PETER SOCIN, Specerey, St. Alban Vorstadt.\"\n    },\n    {\n      \"line_from\": 3,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"SPEYR\",\n      \"forename\": \"\",\n      \"title\": \"von\",\n      \"occupation\": \"Specerey und Käse\",\n      \"address\": \"Hutgafs\",\n      \"quarter\": \"\",\n      \"street\": \"Hutgafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"von SPEYR, Specerey und Käse, Hutgafs.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"SPINDLER\",\n      \"forename\": \"CHRISTIAN\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Webergafs\",\n      \"quarter\": \"\",\n      \"street\": \"Webergafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRISTIAN SPINDLER, Specerey, Webergafs.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"STEHELIN\",\n      \"forename\": \"BALTHASAR\",\n      \"title\": \"jünger\",\n      \"occupation\": \"Specerey en gros und Commission\",\n      \"address\": \"Streitgafs\",\n      \"quarter\": \"\",\n      \"street\": \"Streitgafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BALTHASAR STEHELIN jünger, Specerey en gros und Commission, Streitgafs.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"STEHELIN\",\n      \"forename\": \"MARTIN\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"neben dem Spalenthorn\",\n      \"quarter\": \"\",\n      \"street\": \"neben dem Spalenthorn\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MARTIN STEHELIN, Specerey, neben dem Spalenthorn.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"STRECKEYSEN\",\n      \"forename\": \"MATTHIAS\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey en gros\",\n      \"address\": \"Ober Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MATTHIAS STRECKEYSEN, Specerey en gros, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"SULGER\",\n      \"forename\": \"ANDREAS\",\n      \"title\": \"\",\n      \"occupation\": \"die Hauptfache ist Tabak\",\n      \"address\": \"Ober Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ANDREAS SULGER, die Hauptfache ist Tabak, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"THELLUSSON\",\n      \"forename\": \"JOHANN\",\n      \"title\": \"feel. Wittwe\",\n      \"occupation\": \"Specerey und Porcelaine\",\n      \"address\": \"Blumenrain\",\n      \"quarter\": \"\",\n      \"street\": \"Blumenrain\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOHANN THELLUSSON feel. Wittwe, Specerey und Porcelaine, Blumenrain.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"VEST\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"beym Eselthurn\",\n      \"quarter\": \"\",\n      \"street\": \"beym Eselthurn\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB VEST, Specerey, beym Eselthurn.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"VISCHER\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey en gros\",\n      \"address\": \"im Winkel, hinterm Münster\",\n      \"quarter\": \"\",\n      \"street\": \"im Winkel, hinterm Münster\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB VISCHER, im Winkel, Specerey en gros, hinterm Münster.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"VISCHER\",\n      \"forename\": \"PETER\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"Spalenberg\",\n      \"quarter\": \"Spalenberg\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"zur Gems\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"PETER VISCHER, zur Gems, Spalenberg.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"WENCK\",\n      \"forename\": \"MARTIN\",\n      \"title\": \"älter\",\n      \"occupation\": \"hat einen starken Handel in Juchten\",\n      \"address\": \"neben der kleinen Metzig\",\n      \"quarter\": \"\",\n      \"street\": \"neben der kleinen Metzig\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MARTIN WENCK älter, hat einen starken Handel in Juchten, neben der kleinen Metzig.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"WENCK\",\n      \"forename\": \"MARTIN\",\n      \"title\": \"jünger\",\n      \"occupation\": \"hat einen starken Handel in Bergerthran\",\n      \"address\": \"neben der kleinen Metzig\",\n      \"quarter\": \"\",\n      \"street\": \"neben der kleinen Metzig\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MARTIN WENCK jünger, hat einen starken Handel in Bergerthran, neben der kleinen Metzig.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Stoffhandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BISCHOF\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"älter\",\n      \"occupation\": \"in wollen feinen Tüchern\",\n      \"address\": \"hinter dem Münster\",\n      \"quarter\": \"\",\n      \"street\": \"hinter dem Münster\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB BISCHOF älter, in wollen feinen Tüchern, hinter dem Münster.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "lines_numbered": true,
+ "parsed": {
+  "printed_page": "15",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "15"
+   },
+   {
+    "n": 2,
+    "text": "PETER SOCIN, Specerey, St. Alban Vorstadt."
+   },
+   {
+    "n": 3,
+    "text": "von SPEYR, Specerey und Käse, Hutgafs."
+   },
+   {
+    "n": 4,
+    "text": "CHRISTIAN SPINDLER, Specerey, Webergafs."
+   },
+   {
+    "n": 5,
+    "text": "BALTHASAR STEHELIN jünger, Specerey en"
+   },
+   {
+    "n": 6,
+    "text": "gros und Commission, Streitgafs."
+   },
+   {
+    "n": 7,
+    "text": "MARTIN STEHELIN, Specerey, neben dem"
+   },
+   {
+    "n": 8,
+    "text": "Spalenthorn."
+   },
+   {
+    "n": 9,
+    "text": "MATTHIAS STRECKEYSEN, Specerey en gros,"
+   },
+   {
+    "n": 10,
+    "text": "Ober Freyenstrass."
+   },
+   {
+    "n": 11,
+    "text": "ANDREAS SULGER, die Hauptfache ist Tabak,"
+   },
+   {
+    "n": 12,
+    "text": "Ober Freyenstrass."
+   },
+   {
+    "n": 13,
+    "text": "JOHANN THELLUSSON feel. Wittwe, Specerey"
+   },
+   {
+    "n": 14,
+    "text": "und Porcelaine, Blumenrain."
+   },
+   {
+    "n": 15,
+    "text": "JOH. JACOB VEST, Specerey, beym Eselthurn."
+   },
+   {
+    "n": 16,
+    "text": "JOH. JACOB VISCHER, im Winkel, Specerey"
+   },
+   {
+    "n": 17,
+    "text": "en gros, hinterm Münster."
+   },
+   {
+    "n": 18,
+    "text": "PETER VISCHER, zur Gems, Spalenberg."
+   },
+   {
+    "n": 19,
+    "text": "MARTIN WENCK älter, hat einen starken"
+   },
+   {
+    "n": 20,
+    "text": "Handel in Juchten, neben der kleinen"
+   },
+   {
+    "n": 21,
+    "text": "Metzig."
+   },
+   {
+    "n": 22,
+    "text": "MARTIN WENCK jünger, hat einen starken"
+   },
+   {
+    "n": 23,
+    "text": "Handel in Bergerthran, neben der klei-"
+   },
+   {
+    "n": 24,
+    "text": "nen Metzig."
+   },
+   {
+    "n": 25,
+    "text": "Wollen Tuch- und Stoffhandlungen."
+   },
+   {
+    "n": 26,
+    "text": "JOH. JACOB BISCHOF älter, in wollen feinen"
+   },
+   {
+    "n": 27,
+    "text": "Tüchern, hinter dem Münster."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 2,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "SOCIN",
+    "forename": "PETER",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "St. Alban Vorstadt",
+    "quarter": "St. Alban Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "PETER SOCIN, Specerey, St. Alban Vorstadt."
+   },
+   {
+    "line_from": 3,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "SPEYR",
+    "forename": "",
+    "title": "von",
+    "occupation": "Specerey und Käse",
+    "address": "Hutgafs",
+    "quarter": "",
+    "street": "Hutgafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "von SPEYR, Specerey und Käse, Hutgafs."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "SPINDLER",
+    "forename": "CHRISTIAN",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Webergafs",
+    "quarter": "",
+    "street": "Webergafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRISTIAN SPINDLER, Specerey, Webergafs."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "STEHELIN",
+    "forename": "BALTHASAR",
+    "title": "jünger",
+    "occupation": "Specerey en gros und Commission",
+    "address": "Streitgafs",
+    "quarter": "",
+    "street": "Streitgafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BALTHASAR STEHELIN jünger, Specerey en gros und Commission, Streitgafs."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "STEHELIN",
+    "forename": "MARTIN",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "neben dem Spalenthorn",
+    "quarter": "",
+    "street": "neben dem Spalenthorn",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MARTIN STEHELIN, Specerey, neben dem Spalenthorn."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "STRECKEYSEN",
+    "forename": "MATTHIAS",
+    "title": "",
+    "occupation": "Specerey en gros",
+    "address": "Ober Freyenstrass",
+    "quarter": "",
+    "street": "Ober Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MATTHIAS STRECKEYSEN, Specerey en gros, Ober Freyenstrass."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "SULGER",
+    "forename": "ANDREAS",
+    "title": "",
+    "occupation": "die Hauptfache ist Tabak",
+    "address": "Ober Freyenstrass",
+    "quarter": "",
+    "street": "Ober Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ANDREAS SULGER, die Hauptfache ist Tabak, Ober Freyenstrass."
+   },
+   {
+    "line_from": 13,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "THELLUSSON",
+    "forename": "JOHANN",
+    "title": "feel. Wittwe",
+    "occupation": "Specerey und Porcelaine",
+    "address": "Blumenrain",
+    "quarter": "",
+    "street": "Blumenrain",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOHANN THELLUSSON feel. Wittwe, Specerey und Porcelaine, Blumenrain."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "VEST",
+    "forename": "JOH. JACOB",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "beym Eselthurn",
+    "quarter": "",
+    "street": "beym Eselthurn",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB VEST, Specerey, beym Eselthurn."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "VISCHER",
+    "forename": "JOH. JACOB",
+    "title": "",
+    "occupation": "Specerey en gros",
+    "address": "im Winkel, hinterm Münster",
+    "quarter": "",
+    "street": "im Winkel, hinterm Münster",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB VISCHER, im Winkel, Specerey en gros, hinterm Münster."
+   },
+   {
+    "line_from": 18,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "VISCHER",
+    "forename": "PETER",
+    "title": "",
+    "occupation": "",
+    "address": "Spalenberg",
+    "quarter": "Spalenberg",
+    "street": "",
+    "house_no": "",
+    "house_name": "zur Gems",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "PETER VISCHER, zur Gems, Spalenberg."
+   },
+   {
+    "line_from": 19,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "WENCK",
+    "forename": "MARTIN",
+    "title": "älter",
+    "occupation": "hat einen starken Handel in Juchten",
+    "address": "neben der kleinen Metzig",
+    "quarter": "",
+    "street": "neben der kleinen Metzig",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MARTIN WENCK älter, hat einen starken Handel in Juchten, neben der kleinen Metzig."
+   },
+   {
+    "line_from": 22,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "WENCK",
+    "forename": "MARTIN",
+    "title": "jünger",
+    "occupation": "hat einen starken Handel in Bergerthran",
+    "address": "neben der kleinen Metzig",
+    "quarter": "",
+    "street": "neben der kleinen Metzig",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MARTIN WENCK jünger, hat einen starken Handel in Bergerthran, neben der kleinen Metzig."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Stoffhandlungen",
+    "place": "Basel",
+    "surname": "BISCHOF",
+    "forename": "JOH. JACOB",
+    "title": "älter",
+    "occupation": "in wollen feinen Tüchern",
+    "address": "hinter dem Münster",
+    "quarter": "",
+    "street": "hinter dem Münster",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB BISCHOF älter, in wollen feinen Tüchern, hinter dem Münster."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:39:11+01:00",
+ "last_error": null
+}

@@ -1,0 +1,450 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 26,
+ "section": "schema",
+ "started": "2026-11-14T15:40:57+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3743,
+  "output": 3395,
+  "thoughts": null
+ },
+ "seconds": 68.3,
+ "response_text": "{\n  \"printed_page\": \"20\",\n  \"running_head\": null,\n  \"lines\": [\n    \"20\",\n    \"EMANUEL SCHNELL, Eifenhandlung, Spa-\",\n    \"lenberg.\",\n    \"HIERONIM. SCHŒLLY, Eifenladen, Eifengafs.\",\n    \"BENED. & EMANUEL STEHELIN, Drahtzüge,\",\n    \"Eifen- und Kupferhammer, Kornmarkt.\",\n    \"HIERONIM. STEHELIN, im Rofhof, Eifen-\",\n    \"handlung, Adelberg.\",\n    \"RAILLARD, Eifenhandlung, Fiſchmarkt.\",\n    \"ZÆSLIN & SŒHNE, Kupferhammer und Sen-\",\n    \"fen, St. Albangrabeneck.\",\n    \"Seiden- Moden- und Clincailleriehand-\",\n    \"lungen.\",\n    \"Jungfern BACHOFEN, Modenwaaren, Eifengafs.\",\n    \"Frau BERNOLLY, desgl. Ober Freyenſtrafs.\",\n    \"FÆSCH & KERN, zum Arm, Clincaillerie, ne-\",\n    \"ben dem Martinsgäffel.\",\n    \"BURCKHARDT ISELIN, Modenwaaren und\",\n    \"Seidenhandlung, Eifengafs.\",\n    \"LEOPARD & IMHOF, desgl., Ober Freyenſtrafs.\",\n    \"J. RONUS SOHN älter feel. Wittwe, desgl.,\",\n    \"Schlüsselberg.\",\n    \"CHRISTOPH RONUS, Clincaillerie, Eifengafs.\",\n    \"EMANUEL RONUS, desgl., Eifengafs.\",\n    \"EMANUEL ROTH, zum Roſenſtock, Eifengafs.\"\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Eifenhändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHNELL\",\n      \"forename\": \"EMANUEL\",\n      \"title\": \"\",\n      \"occupation\": \"Eifenhandlung\",\n      \"address\": \"Spalenberg\",\n      \"quarter\": \"\",\n      \"street\": \"Spalenberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL SCHNELL, Eifenhandlung, Spalenberg.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Eifenhändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"SCHŒLLY\",\n      \"forename\": \"HIERONIM.\",\n      \"title\": \"\",\n      \"occupation\": \"Eifenladen\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"HIERONIM. SCHŒLLY, Eifenladen, Eifengafs.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"firma\",\n      \"heading\": \"Eifenhändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"BENED. & EMANUEL STEHELIN\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Drahtzüge, Eifen- und Kupferhammer\",\n      \"address\": \"Kornmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Kornmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BENED. & EMANUEL STEHELIN, Drahtzüge, Eifen- und Kupferhammer, Kornmarkt.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Eifenhändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"STEHELIN\",\n      \"forename\": \"HIERONIM.\",\n      \"title\": \"\",\n      \"occupation\": \"Eifenhandlung\",\n      \"address\": \"im Rofhof, Adelberg\",\n      \"quarter\": \"Adelberg\",\n      \"street\": \"im Rofhof\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"HIERONIM. STEHELIN, im Rofhof, Eifenhandlung, Adelberg.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Eifenhändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"RAILLARD\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Eifenhandlung\",\n      \"address\": \"Fiſchmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Fiſchmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"RAILLARD, Eifenhandlung, Fiſchmarkt.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"firma\",\n      \"heading\": \"Eifenhändler\",\n      \"place\": \"Basel\",\n      \"surname\": \"ZÆSLIN & SŒHNE\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Kupferhammer und Senfen\",\n      \"address\": \"St. Albangrabeneck\",\n      \"quarter\": \"\",\n      \"street\": \"St. Albangrabeneck\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ZÆSLIN & SŒHNE, Kupferhammer und Senfen, St. Albangrabeneck.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 14,\n      \"kind\": \"person\",\n      \"heading\": \"Seiden- Moden- und Clincailleriehandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BACHOFEN\",\n      \"forename\": \"\",\n      \"title\": \"Jungfern\",\n      \"occupation\": \"Modenwaaren\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Jungfern BACHOFEN, Modenwaaren, Eifengafs.\"\n    },\n    {\n      \"line_from\": 15,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Seiden- Moden- und Clincailleriehandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BERNOLLY\",\n      \"forename\": \"\",\n      \"title\": \"Frau\",\n      \"occupation\": \"desgl.\",\n      \"address\": \"Ober Freyenſtrafs\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Freyenſtrafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"Frau BERNOLLY, desgl. Ober Freyenſtrafs.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Seiden- Moden- und Clincailleriehandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"FÆSCH & KERN\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Clincaillerie\",\n      \"address\": \"zum Arm, neben dem Martinsgäffel\",\n      \"quarter\": \"\",\n      \"street\": \"neben dem Martinsgäffel\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Arm\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"FÆSCH & KERN, zum Arm, Clincaillerie, neben dem Martinsgäffel.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Seiden- Moden- und Clincailleriehandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"ISELIN\",\n      \"forename\": \"BURCKHARDT\",\n      \"title\": \"\",\n      \"occupation\": \"Modenwaaren und Seidenhandlung\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BURCKHARDT ISELIN, Modenwaaren und Seidenhandlung, Eifengafs.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 20,\n      \"kind\": \"firma\",\n      \"heading\": \"Seiden- Moden- und Clincailleriehandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"LEOPARD & IMHOF\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"desgl.\",\n      \"address\": \"Ober Freyenſtrafs\",\n      \"quarter\": \"\",\n      \"street\": \"Ober Freyenſtrafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LEOPARD & IMHOF, desgl., Ober Freyenſtrafs.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Seiden- Moden- und Clincailleriehandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"RONUS\",\n      \"forename\": \"J.\",\n      \"title\": \"SOHN älter feel. Wittwe\",\n      \"occupation\": \"desgl.\",\n      \"address\": \"Schlüsselberg\",\n      \"quarter\": \"\",\n      \"street\": \"Schlüsselberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"J. RONUS SOHN älter feel. Wittwe, desgl., Schlüsselberg.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 23,\n      \"kind\": \"person\",\n      \"heading\": \"Seiden- Moden- und Clincailleriehandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"RONUS\",\n      \"forename\": \"CHRISTOPH\",\n      \"title\": \"\",\n      \"occupation\": \"Clincaillerie\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRISTOPH RONUS, Clincaillerie, Eifengafs.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Seiden- Moden- und Clincailleriehandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"RONUS\",\n      \"forename\": \"EMANUEL\",\n      \"title\": \"\",\n      \"occupation\": \"desgl.\",\n      \"address\": \"Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL RONUS, desgl., Eifengafs.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Seiden- Moden- und Clincailleriehandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"ROTH\",\n      \"forename\": \"EMANUEL\",\n      \"title\": \"\",\n      \"occupation\": \"\",\n      \"address\": \"zum Roſenſtock, Eifengafs\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengafs\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Roſenſtock\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL ROTH, zum Roſenſtock, Eifengafs.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "lines_numbered": true,
+ "parsed": {
+  "printed_page": "20",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "20"
+   },
+   {
+    "n": 2,
+    "text": "EMANUEL SCHNELL, Eifenhandlung, Spa-"
+   },
+   {
+    "n": 3,
+    "text": "lenberg."
+   },
+   {
+    "n": 4,
+    "text": "HIERONIM. SCHŒLLY, Eifenladen, Eifengafs."
+   },
+   {
+    "n": 5,
+    "text": "BENED. & EMANUEL STEHELIN, Drahtzüge,"
+   },
+   {
+    "n": 6,
+    "text": "Eifen- und Kupferhammer, Kornmarkt."
+   },
+   {
+    "n": 7,
+    "text": "HIERONIM. STEHELIN, im Rofhof, Eifen-"
+   },
+   {
+    "n": 8,
+    "text": "handlung, Adelberg."
+   },
+   {
+    "n": 9,
+    "text": "RAILLARD, Eifenhandlung, Fiſchmarkt."
+   },
+   {
+    "n": 10,
+    "text": "ZÆSLIN & SŒHNE, Kupferhammer und Sen-"
+   },
+   {
+    "n": 11,
+    "text": "fen, St. Albangrabeneck."
+   },
+   {
+    "n": 12,
+    "text": "Seiden- Moden- und Clincailleriehand-"
+   },
+   {
+    "n": 13,
+    "text": "lungen."
+   },
+   {
+    "n": 14,
+    "text": "Jungfern BACHOFEN, Modenwaaren, Eifengafs."
+   },
+   {
+    "n": 15,
+    "text": "Frau BERNOLLY, desgl. Ober Freyenſtrafs."
+   },
+   {
+    "n": 16,
+    "text": "FÆSCH & KERN, zum Arm, Clincaillerie, ne-"
+   },
+   {
+    "n": 17,
+    "text": "ben dem Martinsgäffel."
+   },
+   {
+    "n": 18,
+    "text": "BURCKHARDT ISELIN, Modenwaaren und"
+   },
+   {
+    "n": 19,
+    "text": "Seidenhandlung, Eifengafs."
+   },
+   {
+    "n": 20,
+    "text": "LEOPARD & IMHOF, desgl., Ober Freyenſtrafs."
+   },
+   {
+    "n": 21,
+    "text": "J. RONUS SOHN älter feel. Wittwe, desgl.,"
+   },
+   {
+    "n": 22,
+    "text": "Schlüsselberg."
+   },
+   {
+    "n": 23,
+    "text": "CHRISTOPH RONUS, Clincaillerie, Eifengafs."
+   },
+   {
+    "n": 24,
+    "text": "EMANUEL RONUS, desgl., Eifengafs."
+   },
+   {
+    "n": 25,
+    "text": "EMANUEL ROTH, zum Roſenſtock, Eifengafs."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Eifenhändler",
+    "place": "Basel",
+    "surname": "SCHNELL",
+    "forename": "EMANUEL",
+    "title": "",
+    "occupation": "Eifenhandlung",
+    "address": "Spalenberg",
+    "quarter": "",
+    "street": "Spalenberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL SCHNELL, Eifenhandlung, Spalenberg."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Eifenhändler",
+    "place": "Basel",
+    "surname": "SCHŒLLY",
+    "forename": "HIERONIM.",
+    "title": "",
+    "occupation": "Eifenladen",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "HIERONIM. SCHŒLLY, Eifenladen, Eifengafs."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "firma",
+    "heading": "Eifenhändler",
+    "place": "Basel",
+    "surname": "BENED. & EMANUEL STEHELIN",
+    "forename": "",
+    "title": "",
+    "occupation": "Drahtzüge, Eifen- und Kupferhammer",
+    "address": "Kornmarkt",
+    "quarter": "",
+    "street": "Kornmarkt",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BENED. & EMANUEL STEHELIN, Drahtzüge, Eifen- und Kupferhammer, Kornmarkt."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Eifenhändler",
+    "place": "Basel",
+    "surname": "STEHELIN",
+    "forename": "HIERONIM.",
+    "title": "",
+    "occupation": "Eifenhandlung",
+    "address": "im Rofhof, Adelberg",
+    "quarter": "Adelberg",
+    "street": "im Rofhof",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "HIERONIM. STEHELIN, im Rofhof, Eifenhandlung, Adelberg."
+   },
+   {
+    "line_from": 9,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Eifenhändler",
+    "place": "Basel",
+    "surname": "RAILLARD",
+    "forename": "",
+    "title": "",
+    "occupation": "Eifenhandlung",
+    "address": "Fiſchmarkt",
+    "quarter": "",
+    "street": "Fiſchmarkt",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "RAILLARD, Eifenhandlung, Fiſchmarkt."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "firma",
+    "heading": "Eifenhändler",
+    "place": "Basel",
+    "surname": "ZÆSLIN & SŒHNE",
+    "forename": "",
+    "title": "",
+    "occupation": "Kupferhammer und Senfen",
+    "address": "St. Albangrabeneck",
+    "quarter": "",
+    "street": "St. Albangrabeneck",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ZÆSLIN & SŒHNE, Kupferhammer und Senfen, St. Albangrabeneck."
+   },
+   {
+    "line_from": 14,
+    "line_to": 14,
+    "kind": "person",
+    "heading": "Seiden- Moden- und Clincailleriehandlungen",
+    "place": "Basel",
+    "surname": "BACHOFEN",
+    "forename": "",
+    "title": "Jungfern",
+    "occupation": "Modenwaaren",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Jungfern BACHOFEN, Modenwaaren, Eifengafs."
+   },
+   {
+    "line_from": 15,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Seiden- Moden- und Clincailleriehandlungen",
+    "place": "Basel",
+    "surname": "BERNOLLY",
+    "forename": "",
+    "title": "Frau",
+    "occupation": "desgl.",
+    "address": "Ober Freyenſtrafs",
+    "quarter": "",
+    "street": "Ober Freyenſtrafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "Frau BERNOLLY, desgl. Ober Freyenſtrafs."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Seiden- Moden- und Clincailleriehandlungen",
+    "place": "Basel",
+    "surname": "FÆSCH & KERN",
+    "forename": "",
+    "title": "",
+    "occupation": "Clincaillerie",
+    "address": "zum Arm, neben dem Martinsgäffel",
+    "quarter": "",
+    "street": "neben dem Martinsgäffel",
+    "house_no": "",
+    "house_name": "zum Arm",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "FÆSCH & KERN, zum Arm, Clincaillerie, neben dem Martinsgäffel."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Seiden- Moden- und Clincailleriehandlungen",
+    "place": "Basel",
+    "surname": "ISELIN",
+    "forename": "BURCKHARDT",
+    "title": "",
+    "occupation": "Modenwaaren und Seidenhandlung",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BURCKHARDT ISELIN, Modenwaaren und Seidenhandlung, Eifengafs."
+   },
+   {
+    "line_from": 20,
+    "line_to": 20,
+    "kind": "firma",
+    "heading": "Seiden- Moden- und Clincailleriehandlungen",
+    "place": "Basel",
+    "surname": "LEOPARD & IMHOF",
+    "forename": "",
+    "title": "",
+    "occupation": "desgl.",
+    "address": "Ober Freyenſtrafs",
+    "quarter": "",
+    "street": "Ober Freyenſtrafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LEOPARD & IMHOF, desgl., Ober Freyenſtrafs."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Seiden- Moden- und Clincailleriehandlungen",
+    "place": "Basel",
+    "surname": "RONUS",
+    "forename": "J.",
+    "title": "SOHN älter feel. Wittwe",
+    "occupation": "desgl.",
+    "address": "Schlüsselberg",
+    "quarter": "",
+    "street": "Schlüsselberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "J. RONUS SOHN älter feel. Wittwe, desgl., Schlüsselberg."
+   },
+   {
+    "line_from": 23,
+    "line_to": 23,
+    "kind": "person",
+    "heading": "Seiden- Moden- und Clincailleriehandlungen",
+    "place": "Basel",
+    "surname": "RONUS",
+    "forename": "CHRISTOPH",
+    "title": "",
+    "occupation": "Clincaillerie",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRISTOPH RONUS, Clincaillerie, Eifengafs."
+   },
+   {
+    "line_from": 24,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Seiden- Moden- und Clincailleriehandlungen",
+    "place": "Basel",
+    "surname": "RONUS",
+    "forename": "EMANUEL",
+    "title": "",
+    "occupation": "desgl.",
+    "address": "Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL RONUS, desgl., Eifengafs."
+   },
+   {
+    "line_from": 25,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Seiden- Moden- und Clincailleriehandlungen",
+    "place": "Basel",
+    "surname": "ROTH",
+    "forename": "EMANUEL",
+    "title": "",
+    "occupation": "",
+    "address": "zum Roſenſtock, Eifengafs",
+    "quarter": "",
+    "street": "Eifengafs",
+    "house_no": "",
+    "house_name": "zum Roſenſtock",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL ROTH, zum Roſenſtock, Eifengafs."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:42:05+01:00",
+ "last_error": null
+}

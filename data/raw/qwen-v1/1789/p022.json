@@ -1,0 +1,445 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 22,
+ "section": "schema",
+ "started": "2026-11-14T15:38:46+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3626,
+  "output": 3292,
+  "thoughts": null
+ },
+ "seconds": 69.9,
+ "response_text": "{\n  \"printed_page\": \"16\",\n  \"running_head\": null,\n  \"lines\": [\n    \"16\",\n    \"BENEDICT BISCHOF, zum Salmen, in wollenen\",\n    \"feinen Tüchern, auf dem Kornmarkt.\",\n    \"CHRISTOPH BURKHARDT & SOHN, goldene\",\n    \"Münz, in wollenen Stoffen, Trilch &c.\",\n    \"Sporngaß.\",\n    \"LEONH. de ANDREAS BURCKHARDT, in\",\n    \"wollenen Stoffen, Trilch &c., am Fisch-\",\n    \"marktgaßel.\",\n    \"MATHIAS DIETSCHY, in wollenen Stoffen,\",\n    \"Unter Freyenstrass.\",\n    \"JOH. JACOB FREY, in feinen wollenen Tü-\",\n    \"chern, Ober Freyenstrass.\",\n    \"JOH. JACOB GEORG, zum Lämplein, in In-\",\n    \"diennes und wollenen Gezeug, Sporngaß.\",\n    \"FRIEDRICH GNOEFF & COMP., zum Affen,\",\n    \"neben der Metzig.\",\n    \"BERNHARD GÖTZ, wollenen Stoffen, Ober\",\n    \"Gerbergaß.\",\n    \"SAMUEL HAAG jünger, wollenen Stoffen,\",\n    \"Hutgaß.\",\n    \"NICOLAS HARSCHER & SÖHNE, wollenen\",\n    \"Tücher, Heuberg.\",\n    \"THEODOR HOFFMANN, wollenen Stoffen,\",\n    \"Eifengaß.\",\n    \"GEBRÜDER ISELIN, in feinen wollenen Tü-\",\n    \"chern und Stoffen, Adelberg.\",\n    \"ABRAHAM ISELIN, desgl., Neuen Brücke.\",\n    \"BERNH. LAROCHE, wollenen Zeug, Eifengaß.\"\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BISCHOF\",\n      \"forename\": \"BENEDICT\",\n      \"title\": \"\",\n      \"occupation\": \"in wollenen feinen Tüchern\",\n      \"address\": \"zum Salmen, auf dem Kornmarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Kornmarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Salmen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BENEDICT BISCHOF, zum Salmen, in wollenen feinen Tüchern, auf dem Kornmarkt.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 6,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BURKHARDT\",\n      \"forename\": \"CHRISTOPH\",\n      \"title\": \"& SOHN\",\n      \"occupation\": \"in wollenen Stoffen, Trilch &c.\",\n      \"address\": \"goldene Münz, Sporngaß\",\n      \"quarter\": \"\",\n      \"street\": \"Sporngaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"goldene Münz\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"CHRISTOPH BURKHARDT & SOHN, goldene Münz, in wollenen Stoffen, Trilch &c., Sporngaß.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 9,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"BURCKHARDT\",\n      \"forename\": \"LEONH. de ANDREAS\",\n      \"title\": \"\",\n      \"occupation\": \"in wollenen Stoffen, Trilch &c.\",\n      \"address\": \"am Fischmarktgaßel\",\n      \"quarter\": \"\",\n      \"street\": \"Fischmarktgaßel\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LEONH. de ANDREAS BURCKHARDT, in wollenen Stoffen, Trilch &c., am Fischmarktgaßel.\"\n    },\n    {\n      \"line_from\": 10,\n      \"line_to\": 11,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"DIETSCHY\",\n      \"forename\": \"MATHIAS\",\n      \"title\": \"\",\n      \"occupation\": \"in wollenen Stoffen\",\n      \"address\": \"Unter Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"MATHIAS DIETSCHY, in wollenen Stoffen, Unter Freyenstrass.\"\n    },\n    {\n      \"line_from\": 12,\n      \"line_to\": 13,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"FREY\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"\",\n      \"occupation\": \"in feinen wollenen Tüchern\",\n      \"address\": \"Ober Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB FREY, in feinen wollenen Tüchern, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 14,\n      \"line_to\": 15,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"GEORG\",\n      \"forename\": \"JOH. JACOB\",\n      \"title\": \"\",\n      \"occupation\": \"in Indiennes und wollenen Gezeug\",\n      \"address\": \"zum Lämplein, Sporngaß\",\n      \"quarter\": \"\",\n      \"street\": \"Sporngaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Lämplein\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB GEORG, zum Lämplein, in Indiennes und wollenen Gezeug, Sporngaß.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 17,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"GNOEFF\",\n      \"forename\": \"FRIEDRICH\",\n      \"title\": \"& COMP.\",\n      \"occupation\": \"\",\n      \"address\": \"zum Affen, neben der Metzig\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Affen\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"FRIEDRICH GNOEFF & COMP., zum Affen, neben der Metzig.\"\n    },\n    {\n      \"line_from\": 18,\n      \"line_to\": 19,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"GÖTZ\",\n      \"forename\": \"BERNHARD\",\n      \"title\": \"\",\n      \"occupation\": \"wollenen Stoffen\",\n      \"address\": \"Ober Gerbergaß\",\n      \"quarter\": \"\",\n      \"street\": \"Gerbergaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BERNHARD GÖTZ, wollenen Stoffen, Ober Gerbergaß.\"\n    },\n    {\n      \"line_from\": 20,\n      \"line_to\": 21,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"HAAG\",\n      \"forename\": \"SAMUEL\",\n      \"title\": \"jünger\",\n      \"occupation\": \"wollenen Stoffen\",\n      \"address\": \"Hutgaß\",\n      \"quarter\": \"\",\n      \"street\": \"Hutgaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"SAMUEL HAAG jünger, wollenen Stoffen, Hutgaß.\"\n    },\n    {\n      \"line_from\": 22,\n      \"line_to\": 23,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"HARSCHER\",\n      \"forename\": \"NICOLAS\",\n      \"title\": \"& SÖHNE\",\n      \"occupation\": \"wollenen Tücher\",\n      \"address\": \"Heuberg\",\n      \"quarter\": \"\",\n      \"street\": \"Heuberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"NICOLAS HARSCHER & SÖHNE, wollenen Tücher, Heuberg.\"\n    },\n    {\n      \"line_from\": 24,\n      \"line_to\": 25,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"HOFFMANN\",\n      \"forename\": \"THEODOR\",\n      \"title\": \"\",\n      \"occupation\": \"wollenen Stoffen\",\n      \"address\": \"Eifengaß\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"THEODOR HOFFMANN, wollenen Stoffen, Eifengaß.\"\n    },\n    {\n      \"line_from\": 26,\n      \"line_to\": 27,\n      \"kind\": \"firma\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"ISELIN\",\n      \"forename\": \"\",\n      \"title\": \"GEBRÜDER\",\n      \"occupation\": \"in feinen wollenen Tüchern und Stoffen\",\n      \"address\": \"Adelberg\",\n      \"quarter\": \"\",\n      \"street\": \"Adelberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"GEBRÜDER ISELIN, in feinen wollenen Tüchern und Stoffen, Adelberg.\"\n    },\n    {\n      \"line_from\": 28,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"ISELIN\",\n      \"forename\": \"ABRAHAM\",\n      \"title\": \"\",\n      \"occupation\": \"desgl.\",\n      \"address\": \"Neuen Brücke\",\n      \"quarter\": \"\",\n      \"street\": \"Neuen Brücke\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ABRAHAM ISELIN, desgl., Neuen Brücke.\"\n    },\n    {\n      \"line_from\": 29,\n      \"line_to\": 29,\n      \"kind\": \"person\",\n      \"heading\": \"Wollen Tuch- und Zeughandlungen\",\n      \"place\": \"Basel\",\n      \"surname\": \"LAROCHE\",\n      \"forename\": \"BERNH.\",\n      \"title\": \"\",\n      \"occupation\": \"wollenen Zeug\",\n      \"address\": \"Eifengaß\",\n      \"quarter\": \"\",\n      \"street\": \"Eifengaß\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"BERNH. LAROCHE, wollenen Zeug, Eifengaß.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "lines_numbered": true,
+ "parsed": {
+  "printed_page": "16",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "16"
+   },
+   {
+    "n": 2,
+    "text": "BENEDICT BISCHOF, zum Salmen, in wollenen"
+   },
+   {
+    "n": 3,
+    "text": "feinen Tüchern, auf dem Kornmarkt."
+   },
+   {
+    "n": 4,
+    "text": "CHRISTOPH BURKHARDT & SOHN, goldene"
+   },
+   {
+    "n": 5,
+    "text": "Münz, in wollenen Stoffen, Trilch &c."
+   },
+   {
+    "n": 6,
+    "text": "Sporngaß."
+   },
+   {
+    "n": 7,
+    "text": "LEONH. de ANDREAS BURCKHARDT, in"
+   },
+   {
+    "n": 8,
+    "text": "wollenen Stoffen, Trilch &c., am Fisch-"
+   },
+   {
+    "n": 9,
+    "text": "marktgaßel."
+   },
+   {
+    "n": 10,
+    "text": "MATHIAS DIETSCHY, in wollenen Stoffen,"
+   },
+   {
+    "n": 11,
+    "text": "Unter Freyenstrass."
+   },
+   {
+    "n": 12,
+    "text": "JOH. JACOB FREY, in feinen wollenen Tü-"
+   },
+   {
+    "n": 13,
+    "text": "chern, Ober Freyenstrass."
+   },
+   {
+    "n": 14,
+    "text": "JOH. JACOB GEORG, zum Lämplein, in In-"
+   },
+   {
+    "n": 15,
+    "text": "diennes und wollenen Gezeug, Sporngaß."
+   },
+   {
+    "n": 16,
+    "text": "FRIEDRICH GNOEFF & COMP., zum Affen,"
+   },
+   {
+    "n": 17,
+    "text": "neben der Metzig."
+   },
+   {
+    "n": 18,
+    "text": "BERNHARD GÖTZ, wollenen Stoffen, Ober"
+   },
+   {
+    "n": 19,
+    "text": "Gerbergaß."
+   },
+   {
+    "n": 20,
+    "text": "SAMUEL HAAG jünger, wollenen Stoffen,"
+   },
+   {
+    "n": 21,
+    "text": "Hutgaß."
+   },
+   {
+    "n": 22,
+    "text": "NICOLAS HARSCHER & SÖHNE, wollenen"
+   },
+   {
+    "n": 23,
+    "text": "Tücher, Heuberg."
+   },
+   {
+    "n": 24,
+    "text": "THEODOR HOFFMANN, wollenen Stoffen,"
+   },
+   {
+    "n": 25,
+    "text": "Eifengaß."
+   },
+   {
+    "n": 26,
+    "text": "GEBRÜDER ISELIN, in feinen wollenen Tü-"
+   },
+   {
+    "n": 27,
+    "text": "chern und Stoffen, Adelberg."
+   },
+   {
+    "n": 28,
+    "text": "ABRAHAM ISELIN, desgl., Neuen Brücke."
+   },
+   {
+    "n": 29,
+    "text": "BERNH. LAROCHE, wollenen Zeug, Eifengaß."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "BISCHOF",
+    "forename": "BENEDICT",
+    "title": "",
+    "occupation": "in wollenen feinen Tüchern",
+    "address": "zum Salmen, auf dem Kornmarkt",
+    "quarter": "",
+    "street": "Kornmarkt",
+    "house_no": "",
+    "house_name": "zum Salmen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BENEDICT BISCHOF, zum Salmen, in wollenen feinen Tüchern, auf dem Kornmarkt."
+   },
+   {
+    "line_from": 4,
+    "line_to": 6,
+    "kind": "firma",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "BURKHARDT",
+    "forename": "CHRISTOPH",
+    "title": "& SOHN",
+    "occupation": "in wollenen Stoffen, Trilch &c.",
+    "address": "goldene Münz, Sporngaß",
+    "quarter": "",
+    "street": "Sporngaß",
+    "house_no": "",
+    "house_name": "goldene Münz",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "CHRISTOPH BURKHARDT & SOHN, goldene Münz, in wollenen Stoffen, Trilch &c., Sporngaß."
+   },
+   {
+    "line_from": 7,
+    "line_to": 9,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "BURCKHARDT",
+    "forename": "LEONH. de ANDREAS",
+    "title": "",
+    "occupation": "in wollenen Stoffen, Trilch &c.",
+    "address": "am Fischmarktgaßel",
+    "quarter": "",
+    "street": "Fischmarktgaßel",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LEONH. de ANDREAS BURCKHARDT, in wollenen Stoffen, Trilch &c., am Fischmarktgaßel."
+   },
+   {
+    "line_from": 10,
+    "line_to": 11,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "DIETSCHY",
+    "forename": "MATHIAS",
+    "title": "",
+    "occupation": "in wollenen Stoffen",
+    "address": "Unter Freyenstrass",
+    "quarter": "",
+    "street": "Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "MATHIAS DIETSCHY, in wollenen Stoffen, Unter Freyenstrass."
+   },
+   {
+    "line_from": 12,
+    "line_to": 13,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "FREY",
+    "forename": "JOH. JACOB",
+    "title": "",
+    "occupation": "in feinen wollenen Tüchern",
+    "address": "Ober Freyenstrass",
+    "quarter": "",
+    "street": "Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB FREY, in feinen wollenen Tüchern, Ober Freyenstrass."
+   },
+   {
+    "line_from": 14,
+    "line_to": 15,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "GEORG",
+    "forename": "JOH. JACOB",
+    "title": "",
+    "occupation": "in Indiennes und wollenen Gezeug",
+    "address": "zum Lämplein, Sporngaß",
+    "quarter": "",
+    "street": "Sporngaß",
+    "house_no": "",
+    "house_name": "zum Lämplein",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB GEORG, zum Lämplein, in Indiennes und wollenen Gezeug, Sporngaß."
+   },
+   {
+    "line_from": 16,
+    "line_to": 17,
+    "kind": "firma",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "GNOEFF",
+    "forename": "FRIEDRICH",
+    "title": "& COMP.",
+    "occupation": "",
+    "address": "zum Affen, neben der Metzig",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "zum Affen",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "FRIEDRICH GNOEFF & COMP., zum Affen, neben der Metzig."
+   },
+   {
+    "line_from": 18,
+    "line_to": 19,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "GÖTZ",
+    "forename": "BERNHARD",
+    "title": "",
+    "occupation": "wollenen Stoffen",
+    "address": "Ober Gerbergaß",
+    "quarter": "",
+    "street": "Gerbergaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BERNHARD GÖTZ, wollenen Stoffen, Ober Gerbergaß."
+   },
+   {
+    "line_from": 20,
+    "line_to": 21,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "HAAG",
+    "forename": "SAMUEL",
+    "title": "jünger",
+    "occupation": "wollenen Stoffen",
+    "address": "Hutgaß",
+    "quarter": "",
+    "street": "Hutgaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "SAMUEL HAAG jünger, wollenen Stoffen, Hutgaß."
+   },
+   {
+    "line_from": 22,
+    "line_to": 23,
+    "kind": "firma",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "HARSCHER",
+    "forename": "NICOLAS",
+    "title": "& SÖHNE",
+    "occupation": "wollenen Tücher",
+    "address": "Heuberg",
+    "quarter": "",
+    "street": "Heuberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "NICOLAS HARSCHER & SÖHNE, wollenen Tücher, Heuberg."
+   },
+   {
+    "line_from": 24,
+    "line_to": 25,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "HOFFMANN",
+    "forename": "THEODOR",
+    "title": "",
+    "occupation": "wollenen Stoffen",
+    "address": "Eifengaß",
+    "quarter": "",
+    "street": "Eifengaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "THEODOR HOFFMANN, wollenen Stoffen, Eifengaß."
+   },
+   {
+    "line_from": 26,
+    "line_to": 27,
+    "kind": "firma",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "ISELIN",
+    "forename": "",
+    "title": "GEBRÜDER",
+    "occupation": "in feinen wollenen Tüchern und Stoffen",
+    "address": "Adelberg",
+    "quarter": "",
+    "street": "Adelberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "GEBRÜDER ISELIN, in feinen wollenen Tüchern und Stoffen, Adelberg."
+   },
+   {
+    "line_from": 28,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "ISELIN",
+    "forename": "ABRAHAM",
+    "title": "",
+    "occupation": "desgl.",
+    "address": "Neuen Brücke",
+    "quarter": "",
+    "street": "Neuen Brücke",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ABRAHAM ISELIN, desgl., Neuen Brücke."
+   },
+   {
+    "line_from": 29,
+    "line_to": 29,
+    "kind": "person",
+    "heading": "Wollen Tuch- und Zeughandlungen",
+    "place": "Basel",
+    "surname": "LAROCHE",
+    "forename": "BERNH.",
+    "title": "",
+    "occupation": "wollenen Zeug",
+    "address": "Eifengaß",
+    "quarter": "",
+    "street": "Eifengaß",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "BERNH. LAROCHE, wollenen Zeug, Eifengaß."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:39:55+01:00",
+ "last_error": null
+}

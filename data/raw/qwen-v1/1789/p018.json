@@ -1,0 +1,441 @@
+{
+ "run": "qwen-v1",
+ "model": "qwen3.8-27b",
+ "prompt_sha": "7e3f68da3e41",
+ "volume": "1789",
+ "page": 18,
+ "section": "schema",
+ "started": "2026-11-14T15:36:34+01:00",
+ "thinking": "low",
+ "temperature": 0.0,
+ "finish_reason": "STOP",
+ "usage": {
+  "prompt": 3626,
+  "output": 3111,
+  "thoughts": null
+ },
+ "seconds": 67.7,
+ "response_text": "{\n  \"printed_page\": \"12\",\n  \"running_head\": null,\n  \"lines\": [\n    \"12\",\n    \"JOH. CASPAR ECKENSTEIN, Specerey und\",\n    \"Farbwaaren, Rindermarkt.\",\n    \"PETER FALKNER, Specerey, Spalenberg.\",\n    \"JOH. JACOB FAESCH, Speculationshandlung,\",\n    \"St. Joh. Schwibbogen.\",\n    \"ABRAHAM FRÜHE, Specerey und Mineral-\",\n    \"wasser, Ober Freyenstrass.\",\n    \"GEMUSEUS, zum Pflug, Specerey und Com-\",\n    \"missionshandlung, Ober Freyenstrass.\",\n    \"GEYGI & BERNOLLY, Drogueries, Ober\",\n    \"Freyenstrass.\",\n    \"JACOB GEYMÜLLER & BERNOLLY, zum\",\n    \"Pallast, Specerey- und Oelhandlung, Ober\",\n    \"Freyenstrass.\",\n    \"EMANUEL HAAG, Specerey, Aescher Vorstadt.\",\n    \"JOH. RUDOLF HAGENBACH, Wein, Brandt-\",\n    \"wein und Tabak, Spalenberg.\",\n    \"JOH. RUDOLF HARDER, Speculationshand-\",\n    \"lung, Steinentorgass.\",\n    \"NIC. de REINHARDT HARSCHER, Specerey,\",\n    \"Rindermarkt.\",\n    \"LEONHARD HEITZ, Specerey, beym Richener\",\n    \"Thor.\",\n    \"LEONHARD HEUSLER SOHN, Specerey, Unter\",\n    \"Rheingass.\",\n    \"JOH. HEINR. HINDENLANG, Specerey, Ober\",\n    \"Gerbergass.\"\n  ],\n  \"entries\": [\n    {\n      \"line_from\": 2,\n      \"line_to\": 3,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"ECKENSTEIN\",\n      \"forename\": \"Joh. Caspar\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Farbwaaren\",\n      \"address\": \"Rindermarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Rindermarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. CASPAR ECKENSTEIN, Specerey und Farbwaaren, Rindermarkt.\"\n    },\n    {\n      \"line_from\": 4,\n      \"line_to\": 4,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"FALKNER\",\n      \"forename\": \"Peter\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Spalenberg\",\n      \"quarter\": \"\",\n      \"street\": \"Spalenberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"PETER FALKNER, Specerey, Spalenberg.\"\n    },\n    {\n      \"line_from\": 5,\n      \"line_to\": 6,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"FAESCH\",\n      \"forename\": \"Joh. Jacob\",\n      \"title\": \"\",\n      \"occupation\": \"Speculationshandlung\",\n      \"address\": \"St. Joh. Schwibbogen\",\n      \"quarter\": \"St. Joh.\",\n      \"street\": \"Schwibbogen\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. JACOB FAESCH, Speculationshandlung, St. Joh. Schwibbogen.\"\n    },\n    {\n      \"line_from\": 7,\n      \"line_to\": 8,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"FRÜHE\",\n      \"forename\": \"Abraham\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Mineralwasser\",\n      \"address\": \"Ober Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"ABRAHAM FRÜHE, Specerey und Mineralwasser, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 9,\n      \"line_to\": 10,\n      \"kind\": \"firma\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"GEMUSEUS\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey und Commissionshandlung\",\n      \"address\": \"zum Pflug, Ober Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Pflug\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"GEMUSEUS, zum Pflug, Specerey und Commissionshandlung, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 11,\n      \"line_to\": 12,\n      \"kind\": \"firma\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"GEYGI & BERNOLLY\",\n      \"forename\": \"\",\n      \"title\": \"\",\n      \"occupation\": \"Drogueries\",\n      \"address\": \"Ober Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"GEYGI & BERNOLLY, Drogueries, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 13,\n      \"line_to\": 15,\n      \"kind\": \"firma\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"GEYMÜLLER & BERNOLLY\",\n      \"forename\": \"Jacob\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey- und Oelhandlung\",\n      \"address\": \"zum Pallast, Ober Freyenstrass\",\n      \"quarter\": \"\",\n      \"street\": \"Freyenstrass\",\n      \"house_no\": \"\",\n      \"house_name\": \"zum Pallast\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JACOB GEYMÜLLER & BERNOLLY, zum Pallast, Specerey- und Oelhandlung, Ober Freyenstrass.\"\n    },\n    {\n      \"line_from\": 16,\n      \"line_to\": 16,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"HAAG\",\n      \"forename\": \"Emanuel\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Aescher Vorstadt\",\n      \"quarter\": \"Aescher Vorstadt\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"EMANUEL HAAG, Specerey, Aescher Vorstadt.\"\n    },\n    {\n      \"line_from\": 17,\n      \"line_to\": 18,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"HAGENBACH\",\n      \"forename\": \"Joh. Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Wein, Brandtwein und Tabak\",\n      \"address\": \"Spalenberg\",\n      \"quarter\": \"\",\n      \"street\": \"Spalenberg\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. RUDOLF HAGENBACH, Wein, Brandtwein und Tabak, Spalenberg.\"\n    },\n    {\n      \"line_from\": 19,\n      \"line_to\": 20,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"HARDER\",\n      \"forename\": \"Joh. Rudolf\",\n      \"title\": \"\",\n      \"occupation\": \"Speculationshandlung\",\n      \"address\": \"Steinentorgass\",\n      \"quarter\": \"\",\n      \"street\": \"Steinentorgass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. RUDOLF HARDER, Speculationshandlung, Steinentorgass.\"\n    },\n    {\n      \"line_from\": 21,\n      \"line_to\": 22,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"de REINHARDT HARSCHER\",\n      \"forename\": \"Nic.\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Rindermarkt\",\n      \"quarter\": \"\",\n      \"street\": \"Rindermarkt\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"NIC. de REINHARDT HARSCHER, Specerey, Rindermarkt.\"\n    },\n    {\n      \"line_from\": 23,\n      \"line_to\": 24,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"HEITZ\",\n      \"forename\": \"Leonhard\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"beym Richener Thor\",\n      \"quarter\": \"\",\n      \"street\": \"\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LEONHARD HEITZ, Specerey, beym Richener Thor.\"\n    },\n    {\n      \"line_from\": 25,\n      \"line_to\": 26,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"HEUSLER\",\n      \"forename\": \"Leonhard\",\n      \"title\": \"Sohn\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Unter Rheingass\",\n      \"quarter\": \"\",\n      \"street\": \"Rheingass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"LEONHARD HEUSLER SOHN, Specerey, Unter Rheingass.\"\n    },\n    {\n      \"line_from\": 27,\n      \"line_to\": 28,\n      \"kind\": \"person\",\n      \"heading\": \"Specerey\",\n      \"place\": \"Basel\",\n      \"surname\": \"HINDENLANG\",\n      \"forename\": \"Joh. Heinr.\",\n      \"title\": \"\",\n      \"occupation\": \"Specerey\",\n      \"address\": \"Ober Gerbergass\",\n      \"quarter\": \"\",\n      \"street\": \"Gerbergass\",\n      \"house_no\": \"\",\n      \"house_name\": \"\",\n      \"origin\": \"\",\n      \"birth_year\": \"\",\n      \"household\": \"\",\n      \"note\": \"\",\n      \"text\": \"JOH. HEINR. HINDENLANG, Specerey, Ober Gerbergass.\"\n    }\n  ],\n  \"first_entry_continues\": false,\n  \"last_entry_continues\": false,\n  \"complete\": true\n}",
+ "lines_numbered": true,
+ "parsed": {
+  "printed_page": "12",
+  "running_head": null,
+  "lines": [
+   {
+    "n": 1,
+    "text": "12"
+   },
+   {
+    "n": 2,
+    "text": "JOH. CASPAR ECKENSTEIN, Specerey und"
+   },
+   {
+    "n": 3,
+    "text": "Farbwaaren, Rindermarkt."
+   },
+   {
+    "n": 4,
+    "text": "PETER FALKNER, Specerey, Spalenberg."
+   },
+   {
+    "n": 5,
+    "text": "JOH. JACOB FAESCH, Speculationshandlung,"
+   },
+   {
+    "n": 6,
+    "text": "St. Joh. Schwibbogen."
+   },
+   {
+    "n": 7,
+    "text": "ABRAHAM FRÜHE, Specerey und Mineral-"
+   },
+   {
+    "n": 8,
+    "text": "wasser, Ober Freyenstrass."
+   },
+   {
+    "n": 9,
+    "text": "GEMUSEUS, zum Pflug, Specerey und Com-"
+   },
+   {
+    "n": 10,
+    "text": "missionshandlung, Ober Freyenstrass."
+   },
+   {
+    "n": 11,
+    "text": "GEYGI & BERNOLLY, Drogueries, Ober"
+   },
+   {
+    "n": 12,
+    "text": "Freyenstrass."
+   },
+   {
+    "n": 13,
+    "text": "JACOB GEYMÜLLER & BERNOLLY, zum"
+   },
+   {
+    "n": 14,
+    "text": "Pallast, Specerey- und Oelhandlung, Ober"
+   },
+   {
+    "n": 15,
+    "text": "Freyenstrass."
+   },
+   {
+    "n": 16,
+    "text": "EMANUEL HAAG, Specerey, Aescher Vorstadt."
+   },
+   {
+    "n": 17,
+    "text": "JOH. RUDOLF HAGENBACH, Wein, Brandt-"
+   },
+   {
+    "n": 18,
+    "text": "wein und Tabak, Spalenberg."
+   },
+   {
+    "n": 19,
+    "text": "JOH. RUDOLF HARDER, Speculationshand-"
+   },
+   {
+    "n": 20,
+    "text": "lung, Steinentorgass."
+   },
+   {
+    "n": 21,
+    "text": "NIC. de REINHARDT HARSCHER, Specerey,"
+   },
+   {
+    "n": 22,
+    "text": "Rindermarkt."
+   },
+   {
+    "n": 23,
+    "text": "LEONHARD HEITZ, Specerey, beym Richener"
+   },
+   {
+    "n": 24,
+    "text": "Thor."
+   },
+   {
+    "n": 25,
+    "text": "LEONHARD HEUSLER SOHN, Specerey, Unter"
+   },
+   {
+    "n": 26,
+    "text": "Rheingass."
+   },
+   {
+    "n": 27,
+    "text": "JOH. HEINR. HINDENLANG, Specerey, Ober"
+   },
+   {
+    "n": 28,
+    "text": "Gerbergass."
+   }
+  ],
+  "entries": [
+   {
+    "line_from": 2,
+    "line_to": 3,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "ECKENSTEIN",
+    "forename": "Joh. Caspar",
+    "title": "",
+    "occupation": "Specerey und Farbwaaren",
+    "address": "Rindermarkt",
+    "quarter": "",
+    "street": "Rindermarkt",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. CASPAR ECKENSTEIN, Specerey und Farbwaaren, Rindermarkt."
+   },
+   {
+    "line_from": 4,
+    "line_to": 4,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "FALKNER",
+    "forename": "Peter",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Spalenberg",
+    "quarter": "",
+    "street": "Spalenberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "PETER FALKNER, Specerey, Spalenberg."
+   },
+   {
+    "line_from": 5,
+    "line_to": 6,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "FAESCH",
+    "forename": "Joh. Jacob",
+    "title": "",
+    "occupation": "Speculationshandlung",
+    "address": "St. Joh. Schwibbogen",
+    "quarter": "St. Joh.",
+    "street": "Schwibbogen",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. JACOB FAESCH, Speculationshandlung, St. Joh. Schwibbogen."
+   },
+   {
+    "line_from": 7,
+    "line_to": 8,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "FRÜHE",
+    "forename": "Abraham",
+    "title": "",
+    "occupation": "Specerey und Mineralwasser",
+    "address": "Ober Freyenstrass",
+    "quarter": "",
+    "street": "Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "ABRAHAM FRÜHE, Specerey und Mineralwasser, Ober Freyenstrass."
+   },
+   {
+    "line_from": 9,
+    "line_to": 10,
+    "kind": "firma",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "GEMUSEUS",
+    "forename": "",
+    "title": "",
+    "occupation": "Specerey und Commissionshandlung",
+    "address": "zum Pflug, Ober Freyenstrass",
+    "quarter": "",
+    "street": "Freyenstrass",
+    "house_no": "",
+    "house_name": "zum Pflug",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "GEMUSEUS, zum Pflug, Specerey und Commissionshandlung, Ober Freyenstrass."
+   },
+   {
+    "line_from": 11,
+    "line_to": 12,
+    "kind": "firma",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "GEYGI & BERNOLLY",
+    "forename": "",
+    "title": "",
+    "occupation": "Drogueries",
+    "address": "Ober Freyenstrass",
+    "quarter": "",
+    "street": "Freyenstrass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "GEYGI & BERNOLLY, Drogueries, Ober Freyenstrass."
+   },
+   {
+    "line_from": 13,
+    "line_to": 15,
+    "kind": "firma",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "GEYMÜLLER & BERNOLLY",
+    "forename": "Jacob",
+    "title": "",
+    "occupation": "Specerey- und Oelhandlung",
+    "address": "zum Pallast, Ober Freyenstrass",
+    "quarter": "",
+    "street": "Freyenstrass",
+    "house_no": "",
+    "house_name": "zum Pallast",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JACOB GEYMÜLLER & BERNOLLY, zum Pallast, Specerey- und Oelhandlung, Ober Freyenstrass."
+   },
+   {
+    "line_from": 16,
+    "line_to": 16,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "HAAG",
+    "forename": "Emanuel",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Aescher Vorstadt",
+    "quarter": "Aescher Vorstadt",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "EMANUEL HAAG, Specerey, Aescher Vorstadt."
+   },
+   {
+    "line_from": 17,
+    "line_to": 18,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "HAGENBACH",
+    "forename": "Joh. Rudolf",
+    "title": "",
+    "occupation": "Wein, Brandtwein und Tabak",
+    "address": "Spalenberg",
+    "quarter": "",
+    "street": "Spalenberg",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. RUDOLF HAGENBACH, Wein, Brandtwein und Tabak, Spalenberg."
+   },
+   {
+    "line_from": 19,
+    "line_to": 20,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "HARDER",
+    "forename": "Joh. Rudolf",
+    "title": "",
+    "occupation": "Speculationshandlung",
+    "address": "Steinentorgass",
+    "quarter": "",
+    "street": "Steinentorgass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. RUDOLF HARDER, Speculationshandlung, Steinentorgass."
+   },
+   {
+    "line_from": 21,
+    "line_to": 22,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "de REINHARDT HARSCHER",
+    "forename": "Nic.",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Rindermarkt",
+    "quarter": "",
+    "street": "Rindermarkt",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "NIC. de REINHARDT HARSCHER, Specerey, Rindermarkt."
+   },
+   {
+    "line_from": 23,
+    "line_to": 24,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "HEITZ",
+    "forename": "Leonhard",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "beym Richener Thor",
+    "quarter": "",
+    "street": "",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LEONHARD HEITZ, Specerey, beym Richener Thor."
+   },
+   {
+    "line_from": 25,
+    "line_to": 26,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "HEUSLER",
+    "forename": "Leonhard",
+    "title": "Sohn",
+    "occupation": "Specerey",
+    "address": "Unter Rheingass",
+    "quarter": "",
+    "street": "Rheingass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "LEONHARD HEUSLER SOHN, Specerey, Unter Rheingass."
+   },
+   {
+    "line_from": 27,
+    "line_to": 28,
+    "kind": "person",
+    "heading": "Specerey",
+    "place": "Basel",
+    "surname": "HINDENLANG",
+    "forename": "Joh. Heinr.",
+    "title": "",
+    "occupation": "Specerey",
+    "address": "Ober Gerbergass",
+    "quarter": "",
+    "street": "Gerbergass",
+    "house_no": "",
+    "house_name": "",
+    "origin": "",
+    "birth_year": "",
+    "household": "",
+    "note": "",
+    "text": "JOH. HEINR. HINDENLANG, Specerey, Ober Gerbergass."
+   }
+  ],
+  "first_entry_continues": false,
+  "last_entry_continues": false,
+  "complete": true
+ },
+ "problems": [],
+ "ok": true,
+ "finished": "2026-11-14T15:37:42+01:00",
+ "last_error": null
+}
