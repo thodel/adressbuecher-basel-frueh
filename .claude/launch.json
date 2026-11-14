@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "basel-frueh",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": [
+        "-m",
+        "http.server",
+        "5634",
+        "--directory",
+        "/Users/TH_1/Repos/adressbuecher-basel-frueh/site"
+      ],
+      "port": 5634
+    }
+  ]
+}

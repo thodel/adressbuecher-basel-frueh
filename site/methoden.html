@@ -1,0 +1,48 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Methode und Vorbehalte</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;600;700&family=Source+Code+Pro:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="nav.css">
+</head>
+<body>
+<!-- site_nav:cities --><nav class="cities" aria-label="Städte"><span class="cities-label">Adressbücher</span><a href="https://thodel.github.io/adressbuecher-aarau/">Aarau 1884–1899</a><a href="https://thodel.github.io/adressbuecher-baden/">Baden 1900/1910</a><a href="https://thodel.github.io/adressbuecher-basel/">Basel 1841–1862</a><a href="https://thodel.github.io/adressbuecher-basel-frueh/" aria-current="page">Basel 1789–1850</a><a href="https://thodel.github.io/adressbuecher-bern-frueh/">Bern 1795–1848</a><a href="https://thodel.github.io/adressbuecher-bern/">Bern 1883–1900</a><a href="https://thodel.github.io/adressbuecher-lausanne/">Lausanne 1896–1907</a><a href="https://thodel.github.io/adressbuecher-zuerich/">Zürich 1859–1914</a><a class="vs" href="https://thodel.github.io/vernetzte-schweiz/">Vernetzte Schweiz ↗</a></nav><!-- /site_nav -->
+<header>
+  <h1>Frühe Basler Adressbücher 1789–1850</h1>
+  <!-- site_nav:city --><nav class="citynav" aria-label="Basel 1789–1850"><b>Basel 1789–1850</b><a href="./">Einträge</a><a href="./#suche" data-open-search>Suche nach Feldern</a><a href="methoden.html" aria-current="page">Methode und Vorbehalte</a><a href="https://github.com/thodel/adressbuecher-basel-frueh">Daten und Code ↗</a></nav><!-- /site_nav -->
+</header>
+<main class="prose">
+<h2>Vorlagen</h2>
+<p>Sechs gedruckte Verzeichnisse der Stadt Basel aus dem Staatsarchiv Basel-Stadt (Signaturen STA H 43 1, 4, 8, 14, 17, 20), digitalisiert im <a href="https://dls.staatsarchiv.bs.ch">Digitalen Lesesaal</a> und dort als gemeinfrei ausgewiesen. Die Seitenbilder auf dieser Seite sind verkleinerte Kopien davon.</p>
+<ul>
+  <li><b>1789 und 1800 – Basler Handlungs-Schema:</b> Kaufleute, Fabrikanten, Künstler und Gewerbe, nach Gewerben geordnet, mit Wohnlage (Gasse, Vorstadt, Hausname), ohne Hausnummern. Keine Einwohnerliste.</li>
+  <li><b>1811 – Verzeichnis sämmtlicher Häuser und Gebäude:</b> alle Häuser nach Quartieren und Nummern, mit Eigentümer oder Bewohnern und Strasse, dazu ein alphabetisches Register.</li>
+  <li><b>1834 – Neues Nummern-Büchlein:</b> wie 1811, mit Hausnamen, Eigentümern und Bewohnern samt Beruf, und drei Registern.</li>
+  <li><b>1841 und 1850 – Adressbuch der Stadt Basel:</b> Nummernbuch und Einwohnerregister; gelesen und zerlegt im Projekt <a href="https://thodel.github.io/adressbuecher-basel/">Adressbücher Basel 1841–1862</a> und hier unverändert übernommen (Quelle und Commit in <code>data/import/SOURCE.txt</code>).</li>
+</ul>
+<p>1811 und 1834 sind durchschossene Exemplare: Zwischen den gedruckten Seiten liegen leere Blätter, auf denen Zeitgenossen Handänderungen, Kaufpreise und Jahre nachgetragen haben, und auch auf den gedruckten Seiten ist vieles von Hand gestrichen oder ergänzt. <b>Gelesen wird nur das Gedruckte;</b> ist ein gedruckter Name von Hand gestrichen, steht im Eintrag «gestrichen (Hand)». Die Nachträge sind im Seitenbild zu sehen.</p>
+
+<h2>Lesung</h2>
+<p>Jede Seite wird einzeln von einem Sprachmodell gelesen, das alle gedruckten Zeilen und daraus die Einträge (Name, Vorname, Beruf, Adresse, Hausname, Hausnummer, Quartier) als JSON zurückgibt. Eine Antwort zählt nur, wenn sie regulär endet, als JSON parst, mit <code>complete: true</code> schliesst und alle Zeilenverweise stimmen.</p>
+<ul>
+  <li><b>Modelle:</b> <code>qwen3.8-27b</code> auf dem GPUStack der Universität Bern für die Antiqua-Bände 1789 und 1800; für die Fraktur-Tabellen 1811 und 1834 Google <code>gemini-3.5-flash</code>, sofern zur Zeit des Laufs verfügbar, sonst ebenfalls qwen3.8 (dann vermerkt und zur Neulesung vorgesehen). Welche Seite welches Modell gelesen hat, steht je Eintrag im Feld «reader» und je Seite in <code>03_page_status.csv</code>.</li>
+  <li><b>Probe vor dem Lauf (14.11.2026):</b> qwen3.8 las je eine Seite 1789 und 1800 fast fehlerfrei; auf einer Tabellenseite 1811 waren 5 von 34 Familiennamen verlesen (Vischer → «Bischer», Iselin → «Feslin», Bossard → «Boffard»), und die Strassenspalte war den falschen Häusern zugeordnet.</li>
+  <li><b>Langsam:</b> Es wird ein Band pro Woche gelesen. Ungelesene Seiten sind beim Blättern als «nicht gelesen» markiert.</li>
+</ul>
+
+<h2>Vorbehalte</h2>
+<ul>
+  <li><b>Keine Korrektur von Hand.</b> Namen, Berufe und Strassen können verlesen sein; vor dem Zitieren am Seitenbild prüfen.</li>
+  <li><b>Fraktur:</b> R/N, B/V, J/F und langes ſ/f werden leicht verwechselt.</li>
+  <li><b>Hausnummern:</b> Bis 1862 zählte Basel die Häuser durchgehend je Stadtteil (Grosse und Kleine Stadt), nicht je Strasse; eine Nummer bezeichnet also zusammen mit dem Stadtteil ein Haus. Die Nummern von 1811, 1834, 1841 und 1850 sind dieselbe alte Zählung, soweit nicht umnummeriert wurde.</li>
+  <li><b>Vollständigkeit:</b> Die Handlungs-Schemata nennen nur Handel und Gewerbe; die Häuserverzeichnisse nennen Eigentümer und Hauptbewohner, nicht alle Einwohner.</li>
+</ul>
+
+<h2>Daten</h2>
+<p>Alle Daten liegen als CSV im <a href="https://github.com/thodel/adressbuecher-basel-frueh">Repository</a> unter <code>data/csv/</code>: <code>00_volumes.csv</code>, <code>01_pages.csv</code>, <code>02_lines.csv</code> (Zeilen wie gelesen), <code>03_page_status.csv</code>, <code>04_entries.csv</code>; die Rohantworten unter <code>data/raw/</code>. Daten <a href="https://creativecommons.org/publicdomain/zero/1.0/">CC0 1.0</a>, Code MIT.</p>
+</main>
+</body>
+</html>

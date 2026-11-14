@@ -1,0 +1,163 @@
+{
+  "_note": "Seiten = PDF-Seiten (1-basiert) der Dateien aus dem Digitalen Lesesaal des Staatsarchivs Basel-Stadt (~/Documents/Adressbuch-Sammlung/basel_frueh/). PDF-Seite 1 ist das Deckblatt des Staatsarchivs (Signatur, Rechtestatus «Gemeinfrei»). 1841 und 1850 stammen aus thodel/adressbuecher-basel (dort gelesen, hier übernommen).",
+  "volumes": [
+    {
+      "volume": "1789",
+      "year": 1789,
+      "short": "Handlungs-Schema 1789",
+      "title": "Basler Handlungs-Schema oder Verzeichniss aller in Basel befindlichen Handelsleuten, Negotianten, Fabrikanten, Künstler, Commerzial-Professionisten u. s. w.",
+      "publisher": "Carl August Serini, Basel",
+      "language": "de",
+      "pdf": "1225910-601548.pdf",
+      "shelfmark": "StABS, STA H 43 1",
+      "dls_url": "https://dls.staatsarchiv.bs.ch/records/1225910",
+      "sections": [
+        {
+          "from": 11,
+          "to": 34,
+          "section": "schema",
+          "label": "Handlungs-Schema (nach Gewerben)"
+        }
+      ],
+      "notes": "Vorbericht S. 9–10, Inhalt S. 35–36 und Bücheranzeige S. 37–38 nicht gelesen."
+    },
+    {
+      "volume": "1800",
+      "year": 1800,
+      "short": "Handlungs-Schema 1800",
+      "title": "Basler Handlungs-Schema oder Verzeichniss aller in Basel befindlichen Kaufleute, Fabrikanten, Künstler, Commercial-Professionisten, u.s.w. Vierte Auflage",
+      "publisher": "Carl August Serini, Basel",
+      "language": "de",
+      "pdf": "1231732-601717.pdf",
+      "shelfmark": "StABS, STA H 43 4",
+      "dls_url": "https://dls.staatsarchiv.bs.ch/records/1231732",
+      "sections": [
+        {
+          "from": 11,
+          "to": 28,
+          "section": "schema",
+          "label": "Handlungs-Schema (nach Gewerben)"
+        }
+      ],
+      "notes": "Inhalt S. 9–10 und französischer Anhang S. 29–30 nicht gelesen. Handschriftliche Zusätze im Exemplar."
+    },
+    {
+      "volume": "1811",
+      "year": 1811,
+      "short": "Häuserverzeichnis 1811",
+      "title": "Verzeichnis sämmtlicher Häuser und Gebäude der Stadt Basel und ihres Bannes",
+      "publisher": "Basel",
+      "language": "de",
+      "pdf": "1231736-601939.pdf",
+      "shelfmark": "StABS, STA H 43 8",
+      "dls_url": "https://dls.staatsarchiv.bs.ch/records/1231736",
+      "sections": [
+        {
+          "from": 14,
+          "to": 214,
+          "section": "nummernbuch",
+          "label": "Häuser nach Quartieren und Nummern (Besitzer oder Bewohner, Strasse)"
+        },
+        {
+          "from": 215,
+          "to": 266,
+          "section": "register",
+          "label": "Alphabetisches Register sämmtlicher Einwohner"
+        }
+      ],
+      "notes": "Durchschossenes Exemplar: zwischen den gedruckten Seiten leere Blätter mit handschriftlichen Nachträgen (nicht gelesen)."
+    },
+    {
+      "volume": "1834",
+      "year": 1834,
+      "short": "Nummern-Büchlein 1834",
+      "title": "Neues Nummern-Büchlein der Grossen und Kleinen Stadt Basel und deren Bann",
+      "publisher": "Basel",
+      "language": "de",
+      "pdf": "1225916-602879.pdf",
+      "shelfmark": "StABS, STA H 43 14",
+      "dls_url": "https://dls.staatsarchiv.bs.ch/records/1225916",
+      "sections": [
+        {
+          "from": 14,
+          "to": 219,
+          "section": "nummernbuch",
+          "label": "Häuser nach Quartieren und Nummern (Hausname, Eigentümer und Bewohner, Strasse)"
+        },
+        {
+          "from": 234,
+          "to": 247,
+          "section": "haeuser",
+          "label": "Zweites Register: Häuser nach alphabetischer Ordnung"
+        },
+        {
+          "from": 250,
+          "to": 310,
+          "section": "register",
+          "label": "Drittes Register: Eigenthümer und Bewohner"
+        },
+        {
+          "from": 311,
+          "to": 314,
+          "section": "nachtrag",
+          "label": "Nachträge und Berichtigungen"
+        }
+      ],
+      "notes": "Durchschossenes Exemplar mit vielen handschriftlichen Streichungen und Nachträgen (nur das Gedruckte gelesen). Erstes Register (Quartiere und Strassen, S. 222–231) nicht gelesen."
+    },
+    {
+      "volume": "1841",
+      "year": 1841,
+      "short": "Adressbuch 1841",
+      "title": "Adressbuch der Stadt Basel von 1841",
+      "publisher": "Basel",
+      "language": "de",
+      "pdf": "",
+      "shelfmark": "StABS, STA H 43 17",
+      "dls_url": "https://dls.staatsarchiv.bs.ch/records/1225921",
+      "imported": "adressbuecher-basel",
+      "sections": [
+        {
+          "from": 8,
+          "to": 83,
+          "section": "nummernbuch",
+          "label": "Nummernbuch (Häuser und Eigentümer)"
+        },
+        {
+          "from": 84,
+          "to": 197,
+          "section": "register",
+          "label": "Register der Einwohner (mit Nachtrag März 1841)"
+        }
+      ],
+      "notes": "Gelesen und zerlegt in thodel/adressbuecher-basel (Gemini, Regeln); hier unverändert übernommen (data/import/)."
+    },
+    {
+      "volume": "1850",
+      "year": 1850,
+      "short": "Adressbuch 1850",
+      "title": "Adressbuch der Stadt Basel von 1850",
+      "publisher": "J. G. Wölfflin, Basel",
+      "language": "de",
+      "pdf": "",
+      "shelfmark": "StABS, STA H 43 20",
+      "dls_url": "https://dls.staatsarchiv.bs.ch/records/1225925",
+      "imported": "adressbuecher-basel",
+      "sections": [
+        {
+          "from": 11,
+          "to": 108,
+          "section": "nummernbuch",
+          "label": "Nummernbuch (Häuser und Eigentümer)"
+        },
+        {
+          "from": 109,
+          "to": 157,
+          "section": "register",
+          "label": "Register der Einwohner und Ragionen-Firmen"
+        }
+      ],
+      "notes": "Gelesen und zerlegt in thodel/adressbuecher-basel (Gemini, Regeln); hier unverändert übernommen (data/import/)."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+.venv/
+.env
+data/pages/
+__pycache__/
+.DS_Store
+data/geo/gwr_cache.json
