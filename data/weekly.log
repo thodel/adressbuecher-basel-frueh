@@ -4,3 +4,9 @@
 04_entries.csv: 12743 Zeilen
 site/data: 12743 Einträge, 14938 Zeilen, 891 Seiten; Arten {'firma': 153, 'person': 12573, 'sonst': 17}
 14.11.2026 15:45 done 1789: 24 von 24 Seiten gültig (qwen)
+15.11.2026 03:00 start 1800 mit qwen (qwen-v1)
+02_lines.csv: 15413 Zeilen
+03_page_status.csv: 891 Zeilen
+04_entries.csv: 13135 Zeilen
+site/data: 13135 Einträge, 15413 Zeilen, 891 Seiten; Arten {'firma': 246, 'person': 12871, 'sonst': 18}
+15.11.2026 03:11 done 1800: 18 von 18 Seiten gültig (qwen)

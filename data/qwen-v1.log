@@ -26,3 +26,25 @@
 2026-11-14T15:45:31+01:00 fertig: {'ok': 24, 'bad': 0, 'in': 87843, 'out': 74722, 'think': 0}
 2026-11-14T15:45:31+01:00 Lauf qwen-v1: 0 Seiten zu lesen, Modell qwen3.8-27b, Prompt 7e3f68da3e41
 2026-11-14T15:45:31+01:00 fertig: {'ok': 0, 'bad': 0, 'in': 0, 'out': 0, 'think': 0}
+2026-11-15T03:00:01+01:00 Lauf qwen-v1: 18 Seiten zu lesen, Modell qwen3.8-27b, Prompt 7e3f68da3e41
+1800 p012: ok (21 Einträge, 67.3 s)
+1800 p011: ok (20 Einträge, 74.3 s)
+1800 p014: ok (19 Einträge, 64.2 s)
+1800 p013: ok (22 Einträge, 71.9 s)
+1800 p016: ok (20 Einträge, 63.7 s)
+1800 p015: ok (21 Einträge, 69.0 s)
+1800 p018: ok (17 Einträge, 58.9 s)
+1800 p017: ok (21 Einträge, 77.3 s)
+1800 p019: ok (20 Einträge, 82.2 s)
+1800 p020: ok (22 Einträge, 73.8 s)
+1800 p021: ok (19 Einträge, 64.5 s)
+1800 p022: ok (23 Einträge, 80.4 s)
+1800 p023: ok (28 Einträge, 89.0 s)
+1800 p024: ok (27 Einträge, 84.2 s)
+1800 p025: ok (24 Einträge, 78.4 s)
+1800 p026: ok (21 Einträge, 80.9 s)
+1800 p027: ok (26 Einträge, 94.9 s)
+1800 p028: ok (21 Einträge, 76.2 s)
+2026-11-15T03:11:17+01:00 fertig: {'ok': 18, 'bad': 0, 'in': 66951, 'out': 79028, 'think': 0}
+2026-11-15T03:11:17+01:00 Lauf qwen-v1: 0 Seiten zu lesen, Modell qwen3.8-27b, Prompt 7e3f68da3e41
+2026-11-15T03:11:17+01:00 fertig: {'ok': 0, 'bad': 0, 'in': 0, 'out': 0, 'think': 0}
